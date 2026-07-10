@@ -46,3 +46,30 @@ All notable changes to the Aeon's End campaign repository.
 
 ### Pending
 - Generation of first playable mission (Chapter 1, Mission 1)
+
+## [Content Listing] — 2026-07-10
+
+### Added
+- Full mage roster (20 mages) added to `Heroes/Roster.md` and `CampaignState.yaml`
+  - 16 verified (Base Game + War Eternal), 4 needing verification (small expansions)
+- Full nemesis roster (12 nemeses) added to `World/Nemeses.md` and `CampaignState.yaml`
+  - 8 verified (Base Game + War Eternal), 4 needing verification (small expansions)
+- `Rules/ContentOwnership.md` updated with complete mage and nemesis tables
+
+### Awaiting Player Verification
+- Small expansion mages: Nym (The Depths), Reeve (The Nameless), Mazra (Outer Dark), Soskel (The Void)
+- Small expansion nemeses: The Wailing (The Depths), The Nameless (The Nameless), Thrice-Dead Prophet (Outer Dark), unknown nemesis (The Void)
+- Market cards from all products still need to be listed
+
+## [Content Verification — Player Corrected] — 2026-07-10
+
+### Corrected by Player
+- **War Eternal mages**: Malastar → Mazahaedron, added Mist (WE) & Ulgimor, removed Razra
+- **Small expansion mages**: Malastar is from The Nameless; Z'hana is from The Depths; Reeve is from The Depths; Outer Dark has Indira & Remnant; The Void has Sparrow & Xaxos (V)
+- **Duplicate mages noted**: Mist (AE + WE) and Xaxos (AE + Void) are distinct playable versions
+- **Nemeses corrected**: Horde-Crone (The Depths), Blight Lord & Wayward One (The Nameless), Wraithmonger (Outer Dark), Knight Of Shackles & Maiden Of Thorns (The Void), Umbra Titan (War Eternal)
+
+### Updated
+- All files synced: `ContentOwnership.md`, `Heroes/Roster.md`, `World/Nemeses.md`, `CampaignState.yaml`, `CurrentMission.md`
+- Final count: **24 mages, 15 nemeses** — all verified
+- Campaign ready for first mission generation

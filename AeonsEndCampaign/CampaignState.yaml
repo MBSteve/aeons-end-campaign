@@ -39,13 +39,149 @@ campaign_difficulty:
   consecutive_defeats: 0
   adjustment: 0
 
-heroes: {}
+heroes:
+  available:
+    - name: Adelheim
+      source: base_game
+      verified: true
+    - name: Brama
+      source: base_game
+      verified: true
+    - name: Jian
+      source: base_game
+      verified: true
+    - name: Kadir
+      source: base_game
+      verified: true
+    - name: Lash
+      source: base_game
+      verified: true
+    - name: Mist (AE)
+      source: base_game
+      verified: true
+    - name: Phaedraxa
+      source: base_game
+      verified: true
+    - name: Xaxos (AE)
+      source: base_game
+      verified: true
+    - name: Dezmodia
+      source: war_eternal
+      verified: true
+    - name: Garu
+      source: war_eternal
+      verified: true
+    - name: Gex
+      source: war_eternal
+      verified: true
+    - name: Mazahaedron
+      source: war_eternal
+      verified: true
+    - name: Mist (WE)
+      source: war_eternal
+      verified: true
+    - name: Quilius
+      source: war_eternal
+      verified: true
+    - name: Ulgimor
+      source: war_eternal
+      verified: true
+    - name: Yan Magda
+      source: war_eternal
+      verified: true
+    - name: Nym
+      source: the_depths
+      verified: true
+    - name: Reeve
+      source: the_depths
+      verified: true
+    - name: Z'hana
+      source: the_depths
+      verified: true
+    - name: Malastar
+      source: the_nameless
+      verified: true
+    - name: Indira
+      source: outer_dark
+      verified: true
+    - name: Remnant
+      source: outer_dark
+      verified: true
+    - name: Sparrow
+      source: the_void
+      verified: true
+    - name: Xaxos (V)
+      source: the_void
+      verified: true
+  active: {}
+  retired: {}
 
 relics: {}
 
 allies: {}
 
 nemeses:
+  available:
+    - name: Rageborne
+      source: base_game
+      tier: 1
+      verified: true
+    - name: Carapace Queen
+      source: base_game
+      tier: 2
+      verified: true
+    - name: Crooked Mask
+      source: base_game
+      tier: 3
+      verified: true
+    - name: Prince of Gluttons
+      source: base_game
+      tier: 4
+      verified: true
+    - name: Gate Witch
+      source: war_eternal
+      tier: 5
+      verified: true
+    - name: Magus of Cloaks
+      source: war_eternal
+      tier: 3
+      verified: true
+    - name: Hollow Crown
+      source: war_eternal
+      tier: 4
+      verified: true
+    - name: Umbra Titan
+      source: war_eternal
+      tier: null
+      verified: true
+    - name: Horde-Crone
+      source: the_depths
+      tier: null
+      verified: true
+    - name: Blight Lord
+      source: the_nameless
+      tier: null
+      verified: true
+    - name: Wayward One
+      source: the_nameless
+      tier: null
+      verified: true
+    - name: Thrice-Dead Prophet
+      source: outer_dark
+      tier: null
+      verified: true
+    - name: Wraithmonger
+      source: outer_dark
+      tier: null
+      verified: true
+    - name: Knight Of Shackles
+      source: the_void
+      tier: null
+      verified: true
+    - name: Maiden Of Thorns
+      source: the_void
+      tier: null
+      verified: true
   defeated: []
   escaped: []
   persistent_effects: []
@@ -91,3 +227,4 @@ assets:
 history:
   last_session_id: null
   last_updated: 2026-07-10
+  pending_action: generate_first_mission

@@ -1,19 +1,33 @@
 # Current Mission
 
-## Status: Placeholder
+## Status: Ready for Mission Generation
 
 - **Campaign**: The Whisper Below — initialized
-- **First mission**: Not yet generated
-- **Next action**: Verify available mages, Nemeses, and market cards from the owned collection
+- **Content**: Fully verified (24 mages, 15 nemeses across 6 products)
+- **First mission**: Ready to be generated
+- **Next action**: Campaign Master to generate Mission 1
 
 ---
 
-The Campaign Master requires the following before generating the first playable mission:
+## Verified Collection Summary
 
-1. Confirmation of the exact names of the four small expansions owned
-2. OR a complete list of available mages, Nemeses, and market cards
+| Product | Mages | Nemeses |
+|---------|-------|---------|
+| Aeon's End (Base) | 8 | 4 |
+| War Eternal | 8 | 4 |
+| The Depths | 3 | 1 |
+| The Nameless | 1 | 2 |
+| Outer Dark | 2 | 2 |
+| The Void | 2 | 2 |
+| **Total** | **24** | **15** |
 
-Once the owned content is verified, the Campaign Master will:
+> **Note**: Mist appears in both Base Game and War Eternal as distinct versions. Xaxos appears in both Base Game and The Void as distinct versions. Both versions of each are available.
+
+---
+
+## Ready for Campaign Master
+
+The Campaign Master will now:
 
 - Nominate four mages for the first mission
 - Select an appropriate Nemesis

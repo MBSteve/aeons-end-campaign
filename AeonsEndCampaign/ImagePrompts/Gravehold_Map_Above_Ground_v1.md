@@ -134,6 +134,6 @@ Cinematic dark-fantasy realism applied to cartography. The map should feel like 
 ## Status
 
 - [x] Prompt created
-- [ ] Image generated
-- [ ] Image confirmed
-- [ ] Reference added to campaign files
+- [x] Image generated
+- [x] Image confirmed
+- [x] Reference added to campaign files
