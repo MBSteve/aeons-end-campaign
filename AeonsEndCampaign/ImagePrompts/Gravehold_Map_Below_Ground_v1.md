@@ -2,6 +2,10 @@
 
 ---
 
+> **Style Guide**: Hand-painted dark fantasy. Ink linework with subtle watercolour. Oblique bird's-eye or cinematic perspective. Palette: muted earth tones, slate grey, weathered stone, forest green, ochre — no saturated colours. Lighting: natural, overcast skies, soft sunlight, warm torchlight indoors. Avoid: anime, steampunk, photorealism, concept art, comic book, 3D render, digital painting, video game UI. Overall feeling: a forgotten medieval world documented by a master cartographer.
+
+---
+
 ## Asset Information
 
 Asset Name:
