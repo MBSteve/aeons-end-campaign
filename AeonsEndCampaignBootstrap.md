@@ -550,6 +550,8 @@ Do not reveal the final antagonist too early.
 
 The Campaign Master creates prompts in the `ImagePrompts/` directory as Markdown files.
 
+All image prompts must adhere to the **Campaign Art Style Guide** defined in `ImagePrompts/StyleGuide.md`. The `generate_images.py` script automatically appends the style constraints to every prompt.
+
 Each prompt file should contain:
 
 - Asset name

@@ -35,6 +35,17 @@ import requests
 OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions"
 IMAGE_MODEL = "google/gemini-3-pro-image"
 
+# Automatically appended to every generated image prompt per StyleGuide.md
+STYLE_GUIDE_CONSTRAINTS = (
+    "Style: Hand-painted dark fantasy. "
+    "Medium: Ink linework with subtle watercolour. "
+    "Perspective: Oblique bird's-eye or cinematic. "
+    "Palette: Muted earth tones, slate grey, weathered stone, forest green, ochre. No saturated colours. "
+    "Lighting: Natural, overcast skies, soft sunlight, warm torchlight indoors. "
+    "Avoid: Anime, steampunk, photorealism, concept art, comic book, 3D render, digital painting, video game UI. "
+    "Overall feeling: A forgotten medieval world documented by a master cartographer."
+)
+
 # Read API key from VS Code's secret storage mechanism.
 # The key is stored in chatLanguageModels.json as ${input:chat.lm.secret.b4cc8e9}.
 # We look for it in environment variables or a local .env file.
@@ -86,6 +97,10 @@ def parse_prompt_file(filepath: str) -> dict | None:
         "colour palette", "art style", "aspect ratio", "intended repository path",
         "markdown reference"
     ]
+
+    # Skip StyleGuide.md
+    if Path(filepath).name == "StyleGuide.md":
+        return None
 
     for line in content.split("\n"):
         # Check if line contains a known field header (with or without bold, bullet, or trailing colon)
@@ -165,6 +180,9 @@ def build_image_prompt(fields: dict) -> str:
     if "aspect ratio" in fields:
         parts.append(f"Aspect ratio: {fields['aspect ratio']}")
 
+    # Append the campaign style guide to every prompt
+    parts.append(STYLE_GUIDE_CONSTRAINTS)
+
     return "\n\n".join(parts)
 
 
@@ -241,18 +259,26 @@ def generate_image(prompt: str, api_key: str) -> bytes | None:
     # Check for message.images first (OpenRouter format)
     if "images" in message and message["images"]:
         for img in message["images"]:
+            print(f"  Image entry type: {type(img).__name__}")
             if isinstance(img, dict):
+                print(f"  Image keys: {list(img.keys())}")
+                # Try to find image data from various possible keys
+                # OpenRouter may return: {"url": "...", "detail": "..."} or {"image_url": {"url": "..."}}
                 img_url = img.get("url", "") or img.get("image_url", "")
-                if img_url.startswith("data:image"):
-                    b64 = img_url.split(",", 1)[1]
-                    return base64.b64decode(b64)
-                if img_url.startswith("http"):
-                    img_resp = requests.get(img_url, timeout=60)
-                    if img_resp.status_code == 200:
-                        return img_resp.content
+                if isinstance(img_url, dict):
+                    img_url = img_url.get("url", "")
+                if isinstance(img_url, str):
+                    if img_url.startswith("data:image"):
+                        b64 = img_url.split(",", 1)[1]
+                        return base64.b64decode(b64)
+                    if img_url.startswith("http"):
+                        img_resp = requests.get(img_url, timeout=60)
+                        if img_resp.status_code == 200:
+                            return img_resp.content
                 # Check for base64 data directly
-                if "data" in img:
-                    return base64.b64decode(img["data"])
+                b64_data = img.get("data", "") or img.get("b64_json", "")
+                if b64_data and isinstance(b64_data, str):
+                    return base64.b64decode(b64_data)
             elif isinstance(img, str):
                 if img.startswith("data:image"):
                     b64 = img.split(",", 1)[1]
