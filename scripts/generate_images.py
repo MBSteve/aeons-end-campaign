@@ -37,13 +37,23 @@ IMAGE_MODEL = "google/gemini-3-pro-image"
 
 # Automatically appended to every generated image prompt per StyleGuide.md
 STYLE_GUIDE_CONSTRAINTS = (
-    "Style: Hand-painted dark fantasy. "
-    "Medium: Ink linework with subtle watercolour. "
-    "Perspective: Oblique bird's-eye or cinematic. "
-    "Palette: Muted earth tones, slate grey, weathered stone, forest green, ochre. No saturated colours. "
-    "Lighting: Natural, overcast skies, soft sunlight, warm torchlight indoors. "
-    "Avoid: Anime, steampunk, photorealism, concept art, comic book, 3D render, digital painting, video game UI. "
-    "Overall feeling: A forgotten medieval world documented by a master cartographer."
+    "Cinematic dark-fantasy realism, photorealistic high-end fantasy game cinematic, "
+    "grounded medieval Gothic setting, mature naturalistic character design, "
+    "realistic ageing and skin texture, weathered layered fabrics and tarnished metal, "
+    "restrained practical costume, dramatic chiaroscuro lighting, "
+    "warm candlelight against cool ambient shadows, muted charcoal and earthy colour palette, "
+    "subtle atmospheric haze, shallow depth of field, highly detailed face, "
+    "tactile materials, sombre dignified mood, natural proportions, "
+    "realistic film colour grading, 85mm portrait photography, subtle film grain, "
+    "sharp facial focus, softly blurred Gothic background. "
+    "AVOID: steampunk, brass machinery, gears, goggles, pipes, Victorian industrial, "
+    "excessive ornamentation, glowing runes, neon lighting, colourful magic effects, "
+    "anime, comic book style, obvious digital painting, visible brush strokes, "
+    "glossy plastic skin, beauty retouching, fashion photography, perfect symmetry, "
+    "young-looking face, exaggerated armour, oversized pauldrons, ornate crown, "
+    "sexualised costume, heroic pose, smiling, saturated colours, clean new clothing, "
+    "bright daylight, flat lighting, generic fantasy illustration, cartoon, concept sketch, "
+    "low-detail background."
 )
 
 # Read API key from VS Code's secret storage mechanism.

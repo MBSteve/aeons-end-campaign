@@ -2,7 +2,7 @@
 
 ---
 
-> **Style Guide**: Hand-painted dark fantasy. Ink linework with subtle watercolour. Oblique bird's-eye or cinematic perspective. Palette: muted earth tones, slate grey, weathered stone, forest green, ochre — no saturated colours. Lighting: natural, overcast skies, soft sunlight, warm torchlight indoors. Avoid: anime, steampunk, photorealism, concept art, comic book, 3D render, digital painting, video game UI. Overall feeling: a forgotten medieval world documented by a master cartographer.
+> **Style Guide**: Cinematic dark-fantasy realism, photorealistic high-end fantasy game cinematic, grounded medieval Gothic setting, mature naturalistic character design, realistic ageing and skin texture, weathered layered fabrics and tarnished metal, restrained practical costume, dramatic chiaroscuro lighting, warm candlelight against cool ambient shadows, muted charcoal and earthy colour palette, subtle atmospheric haze, shallow depth of field, highly detailed face, tactile materials, sombre dignified mood, natural proportions, realistic film colour grading, 85mm portrait photography, subtle film grain, sharp facial focus, softly blurred Gothic background.
 
 ---
 
@@ -113,9 +113,7 @@ Colour Palette:
 Dark stone greys, deep charcoal, cold slate mountains, pale ochre farmland (darker and more weathered than bright gold), muted grey-greens. The overall image should feel dark and moody, with the warm torchlight providing the only relief.
 
 Style:
-Dark, highly textured, atmospheric fantasy cartography. Hand-painted with visible brush texture. Ink linework with deep watercolour washes. The mountain and stone textures should feel dense and rich. Inspired by the same dark, textured style as the underground cutaway map — this is the surface companion to that piece.
-
-The map should feel like a page from a master cartographer's journal, documenting a dying world.
+Cinematic dark-fantasy realism applied to cartography. The map should feel like a real physical prop — aged parchment or vellum, realistic weathering, tactile surface texture, singed edges. Cinematic shallow depth of field, subtle film grain. NOT painted, NOT illustrated, NOT hand-drawn — this is a photorealistic prop from a high-end fantasy film, viewed from above.
 
 ---
 

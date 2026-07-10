@@ -2,7 +2,7 @@
 
 ---
 
-> **Style Guide**: Hand-painted dark fantasy. Ink linework with subtle watercolour. Oblique bird's-eye or cinematic perspective. Palette: muted earth tones, slate grey, weathered stone, forest green, ochre — no saturated colours. Lighting: natural, overcast skies, soft sunlight, warm torchlight indoors. Avoid: anime, steampunk, photorealism, concept art, comic book, 3D render, digital painting, video game UI. Overall feeling: a forgotten medieval world documented by a master cartographer.
+> **Style Guide**: Cinematic dark-fantasy realism, photorealistic high-end fantasy game cinematic, grounded medieval Gothic setting, mature naturalistic character design, realistic ageing and skin texture, weathered layered fabrics and tarnished metal, restrained practical costume, dramatic chiaroscuro lighting, warm candlelight against cool ambient shadows, muted charcoal and earthy colour palette, subtle atmospheric haze, shallow depth of field, highly detailed face, tactile materials, sombre dignified mood, natural proportions, realistic film colour grading, 85mm portrait photography, subtle film grain, sharp facial focus, softly blurred Gothic background.
 
 ---
 
@@ -55,9 +55,9 @@
 
 - **Composition**: Medium shot from beside or slightly above the cot; Kellan fills most of the frame, the black crystal prominent in the foreground or mid-ground; the healer's ward recedes into shadow behind him
 - **Mood**: Unsettling, quiet horror, wrongness barely contained
-- **Lighting**: Warm torchlight from a single ward-lantern or candle, casting deep shadows; the light should feel like it's being pulled toward the crystal — the crystal is the darkest point in the image yet paradoxically the focal point; shadows pool unnaturally around the crystal. Use ink wash for shadow depth, not digital gradients
+- **Lighting**: Dramatic chiaroscuro — warm torchlight from a single ward-lantern or candle, casting deep shadows; the light should feel like it's being pulled toward the crystal — the crystal is the darkest point in the image yet paradoxically the focal point; shadows pool unnaturally around the crystal. Cool ambient shadows, subtle atmospheric haze
 - **Colour Palette**: Muted earth tones — sepia, charcoal grey, tarnished silver, deep browns; the crystal is a void-black that seems to dim the colours around it; no warm tones except the lantern light; no saturated colours
-- **Art Style**: Hand-painted dark fantasy. Ink linework with subtle watercolour wash on textured paper. NOT photorealistic, NOT 3D rendered, NOT digital painting. The image should look like a hand-drawn illustration from a dark fantasy tome — visible ink strokes, cross-hatching for shadows, sepia and grey watercolour washes. Character study focusing on expression and atmosphere
+- **Art Style**: Cinematic dark-fantasy realism. Photorealistic high-end fantasy game cinematic. Grounded medieval Gothic. Kellan should look like a real person — gaunt, dehydrated, disturbed — with realistic skin pores, cracked lips, individual hairs, and the fine grey dust visibly coating his skin. The crystal should look like a real physical object. NOT illustrated, NOT painted, NOT hand-drawn. The wrongness should be conveyed through lighting, expression, and the crystal's unnatural light-absorbing quality
 - **Aspect Ratio**: 16:9
 
 ---

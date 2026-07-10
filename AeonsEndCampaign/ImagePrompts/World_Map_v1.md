@@ -2,7 +2,7 @@
 
 ---
 
-> **Style Guide**: Hand-painted dark fantasy. Ink linework with subtle watercolour. Oblique bird's-eye or cinematic perspective. Palette: muted earth tones, slate grey, weathered stone, forest green, ochre — no saturated colours. Lighting: natural, overcast skies, soft sunlight, warm torchlight indoors. Avoid: anime, steampunk, photorealism, concept art, comic book, 3D render, digital painting, video game UI. Overall feeling: a forgotten medieval world documented by a master cartographer.
+> **Style Guide**: Cinematic dark-fantasy realism, photorealistic high-end fantasy game cinematic, grounded medieval Gothic setting, mature naturalistic character design, realistic ageing and skin texture, weathered layered fabrics and tarnished metal, restrained practical costume, dramatic chiaroscuro lighting, warm candlelight against cool ambient shadows, muted charcoal and earthy colour palette, subtle atmospheric haze, shallow depth of field, highly detailed face, tactile materials, sombre dignified mood, natural proportions, realistic film colour grading, 85mm portrait photography, subtle film grain, sharp facial focus, softly blurred Gothic background.
 
 ---
 
@@ -54,7 +54,7 @@
 - **Mood**: Bleak, ancient, and isolated — this is the last refuge in a dying world
 - **Lighting**: Flat, overcast lighting suggesting a sunless or ash-choked sky; no dramatic directional light
 - **Colour Palette**: Ashen greys, burnt umbers, muted ochres, deep charcoal; the mountain range in dark slate and iron grey; any crystal deposits marked in faint, sickly pale-blue or amber
-- **Art Style**: Dark fantasy cartography — painterly and textured, like an in-world map drawn on aged parchment or vellum by a Gravehold cartographer; not a satellite-style map
+- **Art Style**: Cinematic dark-fantasy realism applied to cartography. The map should feel like a real physical object — aged parchment or vellum with realistic weathering, singed edges, and tactile surface texture. Cinematic shallow depth of field, subtle film grain, realistic film colour grading. NOT painted, NOT illustrated, NOT hand-drawn fantasy map — this is a photorealistic prop from a high-end fantasy film
 - **Aspect Ratio**: 16:9
 
 ---
