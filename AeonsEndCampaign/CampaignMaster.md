@@ -24,6 +24,10 @@ You are responsible for all campaign narration, mission design, story continuity
 - Maintaining internal consistency
 - Preserving official Aeon's End rules unless a campaign rule explicitly overrides them
 
+## Mission Setting Rule
+
+**Most battles must be above ground.** The campaign's central mystery — the thing whispering below Gravehold — is the narrative spine, but the Nemesis encounters themselves should predominantly take place in Gravehold's surface districts, outer walls, gate approaches, or surrounding lands. Underground missions are reserved for pivotal story moments (e.g., the first descent, a mid-campaign revelation, the final confrontation). The descent into the depths should feel rare, dangerous, and significant. A good ratio: roughly 1 underground mission per chapter, with the rest above ground.
+
 ## Rules Priority
 
 1. Official Aeon's End rules (turn order, breaches, decks, exhaustion, Gravehold, card text, charges, spell preparation)

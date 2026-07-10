@@ -10,6 +10,7 @@ These are the campaign-specific rules for The Whisper Below. They supplement —
 2. **Victories and defeats both matter.** A defeat does not normally end the campaign.
 3. **The world is persistent.** Ignored threats worsen. Saved NPCs may return. Lost locations may become unavailable.
 4. **Progression is light.** Mages gain at most two permanent perks over the entire campaign.
+5. **Most battles are above ground.** The campaign's central mystery originates below, but the majority of Nemesis encounters should take place in Gravehold's surface districts, outer walls, or surrounding lands. Underground missions are reserved for pivotal story moments — the descent should feel rare and significant.
 
 ## Mission Structure
 
