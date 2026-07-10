@@ -223,7 +223,22 @@ story:
     east_gate_damaged: false
 
 assets:
-  generated: []
+  generated:
+    - file: Images/Mages/Adelheim.png
+      type: mage_portrait
+      subject: Adelheim
+    - file: Images/Mages/Brama.png
+      type: mage_portrait
+      subject: Brama
+    - file: Images/Mages/Kadir.png
+      type: mage_portrait
+      subject: Kadir
+    - file: Images/Mages/Xaxos_AE.png
+      type: mage_portrait
+      subject: Xaxos (AE)
+    - file: Images/Nemeses/Rageborne.png
+      type: nemesis_illustration
+      subject: Rageborne
   pending_prompts:
     - file: ImagePrompts/Councilor_Sera.md
       asset: Images/NPCs/Councilor_Sera.png
@@ -245,6 +260,31 @@ assets:
       type: city_map
       subject: Gravehold City Map
       status: prompt_created
+    - file: ImagePrompts/Adelheim.md
+      asset: Images/Mages/Adelheim.png
+      type: mage_portrait
+      subject: Adelheim
+      status: generated
+    - file: ImagePrompts/Brama.md
+      asset: Images/Mages/Brama.png
+      type: mage_portrait
+      subject: Brama
+      status: generated
+    - file: ImagePrompts/Kadir.md
+      asset: Images/Mages/Kadir.png
+      type: mage_portrait
+      subject: Kadir
+      status: generated
+    - file: ImagePrompts/Xaxos_AE.md
+      asset: Images/Mages/Xaxos_AE.png
+      type: mage_portrait
+      subject: Xaxos (AE)
+      status: generated
+    - file: ImagePrompts/Rageborne.md
+      asset: Images/Nemeses/Rageborne.png
+      type: nemesis_illustration
+      subject: Rageborne
+      status: generated
 
 history:
   last_session_id: null

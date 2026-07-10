@@ -107,3 +107,30 @@ All notable changes to the Aeon's End campaign repository.
 ### Wiki Data Saved
 - Full mage list (52 entries) and nemesis list (47 entries) extracted from fandom wiki
 - Campaign Master memory updated with correct tiers, Rageborne mechanics, and owned content
+
+## [Image Prompts — Mission 1 Mages & Nemesis] — 2026-07-10
+
+### Created
+- `ImagePrompts/Adelheim.md` — veteran economy mage, amethyst crystal, composed and weathered
+- `ImagePrompts/Brama.md` — healer mage, golden light, warm and weary but unbroken
+- `ImagePrompts/Kadir.md` — flex mage, emerald crystal, watchful and guarded
+- `ImagePrompts/Xaxos_AE.md` — spell-focused mage, contained fire, intense and restless
+- `ImagePrompts/Rageborne.md` — Tier 2 nemesis, pure destruction, advancing across ash-fields at dawn
+
+### Pending
+- All 5 prompts ready for image generation via `scripts/generate_images.py`
+
+## [Session Learnings] — 2026-07-10
+
+### Added to CampaignMaster.md
+- **Wiki Reference section** — URLs for mage and nemesis tables, rules for wiki use
+- Future Campaign Masters will know to verify mechanics on wiki before inventing
+
+### Key Lessons
+1. Never invent nemesis mechanics (Rageborne has no minions — verified on wiki)
+2. Always check mage gender (Kadir is female — corrected)
+3. All 15 nemesis tiers were initially wrong — wiki is source of truth for tiers
+4. Duplicate mages (Mist AE+WE, Xaxos AE+Void) must be labelled with source
+5. Player corrections to ContentOwnership.md are authoritative — sync all files immediately
+6. Image prompts: 3:4 portrait for mages, 16:9 for nemeses; ground in wiki facts
+7. Fandom wiki is ad-heavy but browser + Playwright table extraction works; API and raw pages blocked

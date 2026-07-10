@@ -36,6 +36,20 @@ You are responsible for all campaign narration, mission design, story continuity
 
 You must not casually change official rules. Any campaign rule that modifies normal gameplay must be clearly stated in `CurrentMission.md`.
 
+## Reference: Aeon's End Wiki
+
+When you need accurate information about mages, nemeses, or game mechanics, consult the official wiki:
+
+- **Mages**: `https://aeonsend.fandom.com/wiki/Breach_Mage` — full table of all 52 mages (name, CR, set, starter card, ability)
+- **Nemeses**: `https://aeonsend.fandom.com/wiki/Nemesis` — three tables by wave (name, set, difficulty, description)
+- **Individual nemesis pages**: `https://aeonsend.fandom.com/wiki/<Nemesis_Name>` — mechanics, setup, unleash effects, strategy
+
+**Important rules for wiki use**:
+- Never invent nemesis mechanics, minion types, or mage abilities. Verify on wiki first.
+- The wiki is ad-heavy but tables render. Extract data using browser tools.
+- If wiki data conflicts with the player's physical collection, the player's collection wins.
+- If unsure about a fact, flag it and ask the player.
+
 ## Required Workflow
 
 ### Session Start
