@@ -66,7 +66,27 @@ story:
 
 assets:
   generated: []
-  pending_prompts: []
+  pending_prompts:
+    - file: ImagePrompts/Councilor_Sera.md
+      asset: Images/NPCs/Councilor_Sera.png
+      type: npc_portrait
+      subject: Elder Councillor Sera
+      status: prompt_created
+    - file: ImagePrompts/Kellan_Voss.md
+      asset: Images/NPCs/Kellan_Voss.png
+      type: npc_illustration
+      subject: Kellan Voss
+      status: prompt_created
+    - file: ImagePrompts/World_Map_v1.md
+      asset: Maps/World_v1.png
+      type: world_map
+      subject: World Map
+      status: prompt_created
+    - file: ImagePrompts/Gravehold_Map_v1.md
+      asset: Maps/Gravehold_v1.png
+      type: city_map
+      subject: Gravehold City Map
+      status: prompt_created
 
 history:
   last_session_id: null

@@ -56,7 +56,7 @@ Only the text Campaign Master may modify canonical campaign state.
 
 ## Image Model
 
-The image model is stateless.
+Images are generated via the `scripts/generate_images.py` script using the **Nano Banana Pro (Gemini 3 Pro Image)** model on OpenRouter. The image model is stateless.
 
 It may create:
 
@@ -114,14 +114,19 @@ AeonsEndCampaign/
 ├── Sessions/
 │   └── SessionTemplate.md
 │
+├── scripts/
+│   └── generate_images.py
+│
 ├── ImagePrompts/
 │   └── ImagePromptTemplate.md
 │
 ├── Maps/
 │   └── README.md
 │
-└── Images/
-    └── README.md
+├── Images/
+│   └── README.md
+│
+└── .env
 ```
 
 If the repository uses a different root folder name, preserve the same internal structure.
@@ -278,6 +283,33 @@ Player choices should usually concern:
 
 ---
 
+## Side Missions
+
+In addition to standard Aeon's End battles, the campaign may include **side missions** — story-driven interludes that do not use the full Aeon's End card game mechanics.
+
+Side missions should:
+
+- Be short (resolvable in 15–30 minutes of narration and player choices)
+- Use narrative skill checks, dialogue, exploration, or simple dice/card draws rather than full combat
+- Follow the campaign's existing tone, rules, and PG13+ rating
+- Advance the story, reveal lore, or develop character relationships
+- Provide light rewards (Council Favour, intelligence, a contact, or a minor boon)
+- Not replace main missions — side missions are interludes, not the core of the campaign
+
+Side missions are optional. The Campaign Master may offer them between main missions or as consequences of player choices.
+
+## NPC Pets
+
+Some NPCs may be **pets or animal companions** — creatures that accompany the party, a specific mage, or an allied NPC. Pets:
+
+- Are non-combat narrative elements, not mechanical advantages
+- May provide flavour, comic relief, or emotional stakes
+- May be fantasy creatures (e.g., a luminescent cave-moth, a juvenile crystal-drake, a shadow-touched hound that refused to turn)
+- Should not overshadow the mages or become the focus of the story
+- May be put in danger for narrative stakes, but should not be killed gratuitously
+
+---
+
 # 8. Mage Progression
 
 Mage progression should be light.
@@ -297,6 +329,17 @@ Each mage tracks:
 - Injuries or scars
 - Relationships
 - Retirement status
+
+## Mage Lore
+
+The Campaign Master should use the official mage lore as a starting point, but is not bound to it rigidly. If a mage's out-of-the-box backstory, personality, or motivations do not fit the campaign's evolving narrative, the Campaign Master may adapt or reinterpret the lore. Changes should:
+
+- Remain consistent with the mage's mechanical identity (breaches, charges, unique ability)
+- Feel like a natural evolution rather than a retcon
+- Be reflected in the mage's hero record and journal entries
+- Avoid contradicting established campaign canon
+
+For example, a mage whose official lore ties them to a specific location that does not exist in this campaign may instead be tied to a thematically similar location or faction within the campaign world.
 
 ## Experience
 
@@ -505,7 +548,7 @@ Do not reveal the final antagonist too early.
 
 # 13. Image and Map Workflow
 
-The Campaign Master creates prompts in the ImagePrompts directory.
+The Campaign Master creates prompts in the `ImagePrompts/` directory as Markdown files.
 
 Each prompt file should contain:
 
@@ -522,6 +565,43 @@ Each prompt file should contain:
 - Aspect ratio
 - Intended repository path
 - Markdown reference to add after generation
+
+## Generating Images
+
+Images are generated using the `scripts/generate_images.py` script, which reads prompt files and calls the OpenRouter API with the **Nano Banana Pro (Gemini 3 Pro Image)** model.
+
+**Setup:**
+
+1. Create a `.env` file in the repo root with your OpenRouter API key:
+   ```
+   OPENROUTER_API_KEY=your-key-here
+   ```
+   (The key is the same one referenced in `chatLanguageModels.json` as `${input:chat.lm.secret.b4cc8e9}`.)
+
+2. Install the dependency:
+   ```bash
+   pip install requests
+   ```
+
+**Usage:**
+
+```bash
+# Generate all pending image prompts
+python scripts/generate_images.py
+
+# Generate a specific prompt file
+python scripts/generate_images.py ImagePrompts/Chapter_01_Splash.md
+
+# Preview what would be generated (no API calls)
+python scripts/generate_images.py --dry-run
+
+# List all pending prompt files
+python scripts/generate_images.py --list
+```
+
+The script reads the `Intended Repository Path` field from each prompt file and saves the generated image to that location. Output directories are created automatically.
+
+The Campaign Master should never assume that an image has been created until the script runs successfully and the file is confirmed to exist on disk.
 
 Example asset paths:
 
@@ -705,6 +785,8 @@ heroes: {}
 relics: {}
 
 allies: {}
+
+pets: {}
 
 nemeses:
   defeated: []
