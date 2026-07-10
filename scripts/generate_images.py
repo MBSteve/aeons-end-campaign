@@ -458,6 +458,17 @@ def main():
         file_size_kb = len(image_data) / 1024
         print(f"  SAVED ({file_size_kb:.1f} KB)")
 
+        # Save a timestamped backup copy
+        backup_dir = repo_root / "Backups"
+        backup_dir.mkdir(parents=True, exist_ok=True)
+        stem = output_path.stem
+        suffix = output_path.suffix
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+        backup_path = backup_dir / f"{stem}_{timestamp}{suffix}"
+        with open(backup_path, "wb") as f:
+            f.write(image_data)
+        print(f"  BACKED UP to Backups/{backup_path.name}")
+
         # Update the markdown reference in the prompt file
         md_ref = fields.get("markdown reference", "")
         if md_ref:
