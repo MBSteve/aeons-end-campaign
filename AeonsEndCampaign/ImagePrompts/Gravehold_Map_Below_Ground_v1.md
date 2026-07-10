@@ -10,8 +10,7 @@ Gravehold Underground Cross-Section v1
 Purpose:
 Illustrate the underground structure beneath Gravehold.
 
-Repository:
-Maps/Gravehold_Underground_v1.png
+**Intended Repository Path**: `Maps/Gravehold_Underground_v1.png`
 
 ---
 
@@ -170,3 +169,12 @@ Inspired by archaeological reconstruction artwork rather than engineering bluepr
 ```markdown
 ![Gravehold Underground](Maps/Gravehold_Underground_v1.png)
 ```
+
+---
+
+## Status
+
+- [x] Prompt created
+- [x] Image generated
+- [x] Image confirmed
+- [x] Reference added to campaign files

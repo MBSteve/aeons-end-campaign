@@ -55,6 +55,21 @@ if not API_KEY:
 # Prompt file parsing
 # ---------------------------------------------------------------------------
 
+def is_prompt_completed(filepath: str) -> bool:
+    """Check if a prompt file's Status section indicates the image is already generated."""
+    with open(filepath, "r", encoding="utf-8") as f:
+        content = f.read()
+
+    # Look for the Status section and check if Image generated is checked
+    # Pattern: [x] Image generated
+    status_section = re.search(r"## Status\s*\n(.*?)(?:\n##|\Z)", content, re.DOTALL)
+    if not status_section:
+        return False
+
+    status_text = status_section.group(1)
+    return bool(re.search(r"\[x\]\s*Image generated", status_text, re.IGNORECASE))
+
+
 def parse_prompt_file(filepath: str) -> dict | None:
     """Parse a prompt Markdown file and extract structured fields."""
     with open(filepath, "r", encoding="utf-8") as f:
@@ -73,9 +88,19 @@ def parse_prompt_file(filepath: str) -> dict | None:
     ]
 
     for line in content.split("\n"):
-        # Check if line starts with a known field header
+        # Check if line contains a known field header (with or without bold, bullet, or trailing colon)
         stripped = line.strip()
-        match = re.match(r"^\*\*([^*]+)\*\*\s*:?\s*(.*)", stripped)
+
+        # Stop appending when we hit a Markdown heading (##) or horizontal rule (---)
+        if re.match(r"^##", stripped) or stripped == "---":
+            if current_key and current_value:
+                fields[current_key] = "\n".join(current_value).strip()
+            current_key = None
+            current_value = []
+            continue
+
+        # Match: "- **Asset Name**: ...", "**Asset Name**: ...", "Asset Name: ...", etc.
+        match = re.match(r"^(?:-\s+)?(?:\*\*)?([^*\n:]+?)(?:\*\*)?\s*:\s*(.*)", stripped)
         if match:
             field_name = match.group(1).strip().lower()
             field_rest = match.group(2).strip()
@@ -147,6 +172,8 @@ def get_output_path(fields: dict, repo_root: Path) -> Path:
     """Determine the output image path from the prompt fields."""
     path_str = fields.get("intended repository path", "")
     if path_str:
+        # Strip backticks and surrounding whitespace (e.g., "`Maps/foo.png`" → "Maps/foo.png")
+        path_str = path_str.strip().strip("`").strip()
         return repo_root / path_str
     # Fallback: derive from asset name
     asset_name = fields.get("asset name", "unknown").replace(" ", "_")
@@ -185,18 +212,57 @@ def generate_image(prompt: str, api_key: str) -> bytes | None:
 
     result = response.json()
 
-    # Parse the response for image data.
-    # Gemini image models return images in the message content.
-    if "choices" not in result or not result["choices"]:
+    # Debug: dump the full response structure (keys only, not full data)
+    print(f"  Response keys: {list(result.keys())}")
+    if "choices" in result and result["choices"]:
+        choice = result["choices"][0]
+        print(f"  Choice keys: {list(choice.keys())}")
+        message = choice.get("message", {})
+        if message:
+            print(f"  Message keys: {list(message.keys())}")
+            # Check for images array (OpenRouter-specific for Gemini image models)
+            if "images" in message:
+                print(f"  Found {len(message['images'])} image(s) in message.images")
+            content = message.get("content")
+            print(f"  Content type: {type(content).__name__}, preview: {str(content)[:200] if content else 'None'}")
+        else:
+            print(f"  No message in choice")
+            content = None
+    else:
         print("  ERROR: No choices in response.")
-        print(f"  Response: {json.dumps(result, indent=2)[:500]}")
+        print(f"  Response: {json.dumps(result, indent=2)[:1000]}")
         return None
 
-    choice = result["choices"][0]
-    message = choice.get("message", {})
-    content = message.get("content", "")
+    # Parse the response for image data.
+    # Gemini image models on OpenRouter may return images in:
+    # 1. message.images[] — OpenRouter-specific array of image URLs/data
+    # 2. message.content as a list of parts with inlineData or image_url
 
-    # The content may be a string containing a base64 data URL or a list of parts
+    # Check for message.images first (OpenRouter format)
+    if "images" in message and message["images"]:
+        for img in message["images"]:
+            if isinstance(img, dict):
+                img_url = img.get("url", "") or img.get("image_url", "")
+                if img_url.startswith("data:image"):
+                    b64 = img_url.split(",", 1)[1]
+                    return base64.b64decode(b64)
+                if img_url.startswith("http"):
+                    img_resp = requests.get(img_url, timeout=60)
+                    if img_resp.status_code == 200:
+                        return img_resp.content
+                # Check for base64 data directly
+                if "data" in img:
+                    return base64.b64decode(img["data"])
+            elif isinstance(img, str):
+                if img.startswith("data:image"):
+                    b64 = img.split(",", 1)[1]
+                    return base64.b64decode(b64)
+                if img.startswith("http"):
+                    img_resp = requests.get(img, timeout=60)
+                    if img_resp.status_code == 200:
+                        return img_resp.content
+
+    # Check content as a list of parts
     if isinstance(content, list):
         for part in content:
             if isinstance(part, dict):
@@ -276,6 +342,10 @@ def main():
         repo_root = Path(args.repo_root).resolve()
     else:
         repo_root = Path(__file__).resolve().parent.parent
+        # If the repo root contains an AeonsEndCampaign subdirectory, use that
+        campaign_dir = repo_root / "AeonsEndCampaign"
+        if campaign_dir.is_dir():
+            repo_root = campaign_dir
 
     if not API_KEY:
         print("ERROR: OPENROUTER_API_KEY not set.")
@@ -308,6 +378,12 @@ def main():
 
     for prompt_path in prompt_paths:
         rel_path = prompt_path.relative_to(repo_root) if prompt_path.is_relative_to(repo_root) else prompt_path
+
+        # Skip already-completed prompts
+        if is_prompt_completed(str(prompt_path)):
+            print(f"Skipping (already generated): {rel_path}")
+            continue
+
         print(f"Processing: {rel_path}")
 
         fields = parse_prompt_file(str(prompt_path))

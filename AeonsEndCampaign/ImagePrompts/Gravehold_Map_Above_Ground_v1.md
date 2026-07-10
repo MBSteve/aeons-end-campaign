@@ -6,7 +6,7 @@
 
 - Asset Name: Gravehold Bird's-Eye Map v1
 - Purpose: Primary campaign map showing the surface city.
-- Intended Repository Path: Maps/Gravehold_Surface_v1.png
+- **Intended Repository Path**: `Maps/Gravehold_Surface_v1.png`
 
 ---
 
@@ -100,16 +100,13 @@ Composition:
 High-angle bird's-eye view similar to classic fantasy atlas maps.
 
 Mood:
-Beautiful but isolated.
+Isolated but enduring — humanity's last refuge, fortified against a dying world.
 
 Lighting:
-Late afternoon.
+Overcast, muted daylight — no golden hour warmth.
 
 Colour Palette:
-Natural greens.
-Grey stone.
-Warm roofs.
-Cold mountains.
+Muted grey-greens, grey stone, weathered roofs, cold mountains, pale ochre farmland.
 
 Style:
 Highly detailed painted fantasy cartography.
@@ -135,3 +132,12 @@ The map should look hand-painted rather than computer generated.
 ```markdown
 ![Gravehold Surface Map](Maps/Gravehold_Surface_v1.png)
 ```
+
+---
+
+## Status
+
+- [x] Prompt created
+- [ ] Image generated
+- [ ] Image confirmed
+- [ ] Reference added to campaign files
