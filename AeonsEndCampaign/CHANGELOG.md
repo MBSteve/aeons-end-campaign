@@ -73,3 +73,37 @@ All notable changes to the Aeon's End campaign repository.
 - All files synced: `ContentOwnership.md`, `Heroes/Roster.md`, `World/Nemeses.md`, `CampaignState.yaml`, `CurrentMission.md`
 - Final count: **24 mages, 15 nemeses** — all verified
 - Campaign ready for first mission generation
+
+## [Mission 1 Generated] — 2026-07-10
+
+### Mission 1: What the Dark Attracts
+- **Nemesis**: Rageborne (Base Game, Tier 1)
+- **Location**: East Gate / Ash-Fields (above ground)
+- **Nominated mages**: Adelheim, Brama, Kadir, Xaxos (AE)
+- **Bonus objective**: Hold the Gate (no mage exhausted at victory)
+- **Market**: Standard 9-card Base Game market (4 gems, 2 relics, 3 spells)
+- **Setting**: Rageborne drawn to Gravehold by the psychic disturbance below; mages intercept at the outer wall
+
+### Updated
+- `CurrentMission.md` — full mission brief
+- `CampaignState.yaml` — mission added to active, story threads updated
+- `CampaignJournal.md` — narrative setup for Mission 1
+- `Rules/CampaignRules.md` — added Core Principle #5 (most battles above ground)
+- `CampaignMaster.md` — added Mission Setting Rule
+
+### Pending
+- Players to choose 3 of 4 nominated mages and play Mission 1
+- Post-game report to be submitted
+
+## [Wiki Correction] — 2026-07-10
+
+### Fixed
+- **Rageborne tier**: 1 → 2 (wiki corrected)
+- **All nemesis tiers** updated from wiki data (15 nemeses, all verified)
+- **Rageborne journal entry**: removed fictional "husks" — Rageborne has no minions, it's pure direct damage
+- **Kadir pronouns**: corrected to she/her in CampaignJournal.md
+- **ContentOwnership.md**: nemesis tables now show Tier instead of Verified column
+
+### Wiki Data Saved
+- Full mage list (52 entries) and nemesis list (47 entries) extracted from fandom wiki
+- Campaign Master memory updated with correct tiers, Rageborne mechanics, and owned content

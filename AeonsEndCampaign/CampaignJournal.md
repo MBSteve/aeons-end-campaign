@@ -65,3 +65,37 @@ And it is patient.
 ---
 
 *End of Prologue. Chapter 1 awaits the arrival of the mages.*
+
+---
+
+## Mission 1: What the Dark Attracts
+
+### The Summons Answered
+
+The mages came.
+
+Adelheim arrived first, striding through the main causeway with the quiet confidence of a man who had fought Nemeses before and expected to do so again. Brama followed within the hour, her satchel heavy with tinctures and poultices — she had been tending a fever outbreak in the Outer Settlements when the summons reached her, and she had simply packed her things and walked. Kadir came through the Warrens without announcement, as was her way, appearing in the Spire's great hall as though she had been there all along. Xaxos arrived last, his breaches already faintly aglow, the air around him humming with unspent charge.
+
+By the time Elder Councillor Sera received the runner's report from the eastern watchtower, all four were already moving toward the East Gate.
+
+### The Ash-Fields
+
+The eastern approach to Gravehold is a wasteland of grey powder and blackened stone — the remnants of some ancient calamity that predates even the oldest Council records. Nothing grows there. Nothing lives there. Or so the watchtower captains had always believed.
+
+The watchtower's signal-fire burned red against the dawn. Below it, spreading across the ash-fields like a stain, something was moving.
+
+It was vast — a shape of chitin and muscle, all jagged edges and wrong angles. Rageborne. The mages recognised it from the old bestiaries: a creature of pure destructive instinct, a living storm of teeth and talons. It did not plan. It did not scheme. It simply destroyed.
+
+The mages took their positions at the East Gate. Behind them, the outer wall rose thirty feet of fused stone and ward-laced mortar. Beyond it, the ash-fields stretched to the horizon.
+
+Rageborne was coming.
+
+### The Battle
+
+*Awaiting player report.*
+
+---
+
+### Outcome
+
+*To be determined.*

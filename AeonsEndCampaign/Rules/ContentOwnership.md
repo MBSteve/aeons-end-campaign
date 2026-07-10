@@ -74,43 +74,43 @@ A verified record of all Aeon's End content owned by the players.
 ## Available Nemeses
 
 ### Aeon's End (Base Game)
-| # | Nemesis | Verified |
-|---|---------|----------|
-| 1 | Rageborne | Yes |
-| 2 | Carapace Queen | Yes |
-| 3 | Crooked Mask | Yes |
-| 4 | Prince of Gluttons | Yes |
+| # | Nemesis | Tier |
+|---|---------|------|
+| 1 | Rageborne | 2 |
+| 2 | Carapace Queen | 3 |
+| 3 | Crooked Mask | 5 |
+| 4 | Prince of Gluttons | 5 |
 
 ### War Eternal
-| # | Nemesis | Verified |
-|---|---------|----------|
-| 1 | Gate Witch | Yes |
-| 2 | Magus of Cloaks | Yes |
-| 3 | Hollow Crown | Yes |
-| 4 | Umbra Titan| Yes |
+| # | Nemesis | Tier |
+|---|---------|------|
+| 1 | Gate Witch | 7 |
+| 2 | Magus of Cloaks | 7 |
+| 3 | Hollow Crown | 5 |
+| 4 | Umbra Titan | 3 |
 
 ### The Depths
-| # | Nemesis | Verified |
-|---|---------|----------|
-| 1 | Horde-Crone | Yes |
+| # | Nemesis | Tier |
+|---|---------|------|
+| 1 | Horde-Crone | 6 |
 
 ### The Nameless
-| # | Nemesis | Verified |
-|---|---------|----------|
-| 1 | Blight Lord | Yes |
-| 2 | Wayward One| Yes |
+| # | Nemesis | Tier |
+|---|---------|------|
+| 1 | Blight Lord | 4 |
+| 2 | Wayward One | 7 |
 
 ### Outer Dark
-| # | Nemesis | Verified |
-|---|---------|----------|
-| 1 | Thrice-Dead Prophet | Yes |
-| 2 | Wraithmonger | Yes |
+| # | Nemesis | Tier |
+|---|---------|------|
+| 1 | Thrice-Dead Prophet | 5 |
+| 2 | Wraithmonger | 6 |
 
 ### The Void
-| # | Nemesis | Verified |
-|---|---------|----------|
-| 1 | Knight Of Shackles | Yes |
-| 2 | Maiden Of Thorns | Yes |
+| # | Nemesis | Tier |
+|---|---------|------|
+| 1 | Knight Of Shackles | 4 |
+| 2 | Maiden Of Thorns | 4 |
 
 **Total: 15 nemeses** (all verified)
 

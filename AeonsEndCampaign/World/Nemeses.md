@@ -16,21 +16,21 @@ A dossier of all Nemeses encountered during the campaign.
 
 | # | Nemesis | Source | Tier | Verified |
 |---|---------|--------|------|----------|
-| 1 | Rageborne | Aeon's End (Base) | 1 | ✅ |
-| 2 | Carapace Queen | Aeon's End (Base) | 2 | ✅ |
-| 3 | Crooked Mask | Aeon's End (Base) | 3 | ✅ |
-| 4 | Prince of Gluttons | Aeon's End (Base) | 4 | ✅ |
-| 5 | Gate Witch | War Eternal | 5 | ✅ |
-| 6 | Magus of Cloaks | War Eternal | 3 | ✅ |
-| 7 | Hollow Crown | War Eternal | 4 | ✅ |
-| 8 | Umbra Titan | War Eternal | — | ✅ |
-| 9 | Horde-Crone | The Depths | — | ✅ |
-| 10 | Blight Lord | The Nameless | — | ✅ |
-| 11 | Wayward One | The Nameless | — | ✅ |
-| 12 | Thrice-Dead Prophet | Outer Dark | — | ✅ |
-| 13 | Wraithmonger | Outer Dark | — | ✅ |
-| 14 | Knight Of Shackles | The Void | — | ✅ |
-| 15 | Maiden Of Thorns | The Void | — | ✅ |
+| 1 | Rageborne | Aeon's End (Base) | 2 | ✅ |
+| 2 | Carapace Queen | Aeon's End (Base) | 3 | ✅ |
+| 3 | Crooked Mask | Aeon's End (Base) | 5 | ✅ |
+| 4 | Prince of Gluttons | Aeon's End (Base) | 5 | ✅ |
+| 5 | Gate Witch | War Eternal | 7 | ✅ |
+| 6 | Magus of Cloaks | War Eternal | 7 | ✅ |
+| 7 | Hollow Crown | War Eternal | 5 | ✅ |
+| 8 | Umbra Titan | War Eternal | 3 | ✅ |
+| 9 | Horde-Crone | The Depths | 6 | ✅ |
+| 10 | Blight Lord | The Nameless | 4 | ✅ |
+| 11 | Wayward One | The Nameless | 7 | ✅ |
+| 12 | Thrice-Dead Prophet | Outer Dark | 5 | ✅ |
+| 13 | Wraithmonger | Outer Dark | 6 | ✅ |
+| 14 | Knight Of Shackles | The Void | 4 | ✅ |
+| 15 | Maiden Of Thorns | The Void | 4 | ✅ |
 
 ## Persistent Nemesis Effects
 

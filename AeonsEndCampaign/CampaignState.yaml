@@ -1,9 +1,9 @@
 campaign:
   name: The Whisper Below
   version: 1.0
-  status: initialized
+  status: mission_1_ready
   chapter: 1
-  current_mission: null
+  current_mission: mission_1_what_the_dark_attracts
   sessions_played: 0
 
 party:
@@ -124,63 +124,63 @@ nemeses:
   available:
     - name: Rageborne
       source: base_game
-      tier: 1
+      tier: 2
       verified: true
     - name: Carapace Queen
       source: base_game
-      tier: 2
+      tier: 3
       verified: true
     - name: Crooked Mask
       source: base_game
-      tier: 3
+      tier: 5
       verified: true
     - name: Prince of Gluttons
       source: base_game
-      tier: 4
+      tier: 5
       verified: true
     - name: Gate Witch
       source: war_eternal
-      tier: 5
+      tier: 7
       verified: true
     - name: Magus of Cloaks
       source: war_eternal
-      tier: 3
+      tier: 7
       verified: true
     - name: Hollow Crown
       source: war_eternal
-      tier: 4
+      tier: 5
       verified: true
     - name: Umbra Titan
       source: war_eternal
-      tier: null
+      tier: 3
       verified: true
     - name: Horde-Crone
       source: the_depths
-      tier: null
+      tier: 6
       verified: true
     - name: Blight Lord
       source: the_nameless
-      tier: null
+      tier: 4
       verified: true
     - name: Wayward One
       source: the_nameless
-      tier: null
+      tier: 7
       verified: true
     - name: Thrice-Dead Prophet
       source: outer_dark
-      tier: null
+      tier: 5
       verified: true
     - name: Wraithmonger
       source: outer_dark
-      tier: null
+      tier: 6
       verified: true
     - name: Knight Of Shackles
       source: the_void
-      tier: null
+      tier: 4
       verified: true
     - name: Maiden Of Thorns
       source: the_void
-      tier: null
+      tier: 4
       verified: true
   defeated: []
   escaped: []
@@ -189,7 +189,23 @@ nemeses:
 missions:
   completed: []
   failed: []
-  active: []
+  active:
+    - id: mission_1_what_the_dark_attracts
+      title: "What the Dark Attracts"
+      chapter: 1
+      session: S01
+      nemesis: Rageborne
+      nemesis_source: base_game
+      tier: 2
+      location: East Gate / Ash-Fields
+      setting: above_ground
+      nominated_mages:
+        - Adelheim
+        - Brama
+        - Kadir
+        - Xaxos (AE)
+      bonus_objective: hold_the_gate
+      status: ready
   available: []
 
 story:
@@ -197,8 +213,14 @@ story:
     - id: whisper_below
       title: The Whisper Below
       status: active
+    - id: what_else_is_coming
+      title: What Else Is Coming?
+      status: pending
+      unlocks_on: mission_1_victory
   resolved_threads: []
-  hidden_flags: {}
+  hidden_flags:
+    east_gate_vigilant: false
+    east_gate_damaged: false
 
 assets:
   generated: []
@@ -227,4 +249,4 @@ assets:
 history:
   last_session_id: null
   last_updated: 2026-07-10
-  pending_action: generate_first_mission
+  pending_action: play_mission_1
