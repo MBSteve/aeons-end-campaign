@@ -1,0 +1,73 @@
+campaign:
+  name: The Whisper Below
+  version: 1.0
+  status: initialized
+  chapter: 1
+  current_mission: null
+  sessions_played: 0
+
+party:
+  player_count: 3
+  experience_level: experienced
+
+collection:
+  base_game: true
+  war_eternal: true
+  small_expansions:
+    count: 4
+    verified_names:
+      - The Depths
+      - The Nameless
+      - Outer Dark
+      - The Void
+
+gravehold:
+  morale: 75
+  defences: 70
+  supplies: 65
+  population: 80
+  council_favour: 0
+  threat_level: 1
+  damaged_districts: []
+  lost_districts: []
+  active_protections: []
+  active_crises: []
+
+campaign_difficulty:
+  base_level: experienced
+  consecutive_victories: 0
+  consecutive_defeats: 0
+  adjustment: 0
+
+heroes: {}
+
+relics: {}
+
+allies: {}
+
+nemeses:
+  defeated: []
+  escaped: []
+  persistent_effects: []
+
+missions:
+  completed: []
+  failed: []
+  active: []
+  available: []
+
+story:
+  active_threads:
+    - id: whisper_below
+      title: The Whisper Below
+      status: active
+  resolved_threads: []
+  hidden_flags: {}
+
+assets:
+  generated: []
+  pending_prompts: []
+
+history:
+  last_session_id: null
+  last_updated: 2026-07-10
