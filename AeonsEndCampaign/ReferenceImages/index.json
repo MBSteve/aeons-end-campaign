@@ -1,0 +1,19 @@
+{
+  "mages": {
+    "Adelheim": {
+      "display_name": "Adelheim",
+      "wiki_page": "https://aeonsend.wiki.gg/wiki/Adelheim",
+      "infobox": {},
+      "overview": "[ edit | edit source ] Adelheim is a powerful support/utility mage, especially effective against any nemesis that relies heavily on attacks or powers. The Aethereal Ward ability allows Adelheim to block nemesis attacks and powers, while Amethyst Shard provides card cycle to an ally. Adelheim is one of a handful of mages who have a starting deck of 5 Crystals.",
+      "ability": "[ edit | edit source ] Spend 5 charges to activate this ability during the nemesis draw phase: When a nemesis attack or power card is drawn but before it is resolved, you may discard it. It has no effect. (The nemesis does not draw a replacement card)",
+      "lore": "",
+      "strategy": "",
+      "trivia": "",
+      "images": {
+        "front": "ReferenceImages\\Mages\\Adelheim\\front.jpg",
+        "back": "ReferenceImages\\Mages\\Adelheim\\back.jpg"
+      }
+    }
+  },
+  "nemeses": {}
+}

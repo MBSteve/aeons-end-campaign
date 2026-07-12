@@ -26,11 +26,12 @@
 
 ### Required Elements
 
-- A man in his 40s–50s, composed and weathered, with quiet confidence
-- Practical mage attire — layered fabrics, tunic, cloak, no excessive ornamentation
-- Subtle violet/amethyst crystal accents — a shard at his belt, a faint violet glow at one hand
-- Short, practical hair, perhaps greying at the temples
-- A face that has seen battles and won them — calm, assessing, not smiling
+- An older man, approximately 60–70 years old
+- Bald with a neatly trimmed white beard and eyebrows
+- Lean, weathered physique rather than heavily muscular
+- Practical breach mage attire that also reflects his role as a master weaponsmith
+- Subtle violet crystal accents integrated into his equipment
+- Calm, analytical expression with the confidence of a veteran who has survived countless battles
 
 ### Prohibited Elements
 
@@ -39,6 +40,7 @@
 - No heroic pose, no smiling
 - No steampunk elements, goggles, gears, or Victorian styling
 - No young, unlined face
+- No glowing white eyes unless specifically required by the scene.
 
 ---
 
