@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Z'hana",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Z%27hana",
+  "infobox": {},
+  "overview": "Z'hana is a defensive mage, able to heal Gravehold for 7 life every Sanctum Glyph activation. Eternal Ember allows Z'hana an offensive advantage too, able to 'double cast' a prepped spell (one cast from Eternal Ember, another from the normal cast). Z'hana starts slightly disadvantaged with no open breaches, but has the economy to start focusing right away, and her Level 4 Breach starts fully focused, only needing to be opened. Z'hana could have an open level 4 breach at the end of her first turn.",
+  "ability": "Spend 5 charges to activate this ability during your main phase: Gravehold gains 7 life.",
+  "lore": "Through the flames I could hear them calling for me. My mother, my father. Their voices drowned in fire and smoke... That was the day I lost my family. That was the day I discovered I was a mage. My philosophies on The Nameless are even less popular than Xaxos '. Many times I have slept in the crypts for things I have said to others. But many more nights I have fought back the dark, side by side with those who locked the crypt door behind me. I have journeyed to the cave mouth many times, sitting in the weak light that somehow manages to penetrate the mountain of rubble that bars out way back to The World That Was. Each time I go, I remove a stone. If they catch me, the crypts await. But I always go back, removing another stone and yet another. One day I will seek whatever awaits me beyond this place. One day I will remove the last stone.",
+  "strategy": "You can deal infinite damage with Temporal Helix or abilities like it! This is the strongest tip, but you ought not to use it unless you want to ruin Game Night. This has been altered to not work in the digital version (Eternal Ember can't target itself) and it is not the designer's intention. A less game breaking tip is that it's incredibly important to find a way to get 2 breaches open as Z'hana to get her signature card ready to rock.",
+  "trivia": "Original artwork by FitriaDes: https://www.deviantart.com/fitriades/art/Aeon-s-End-Character-617594267",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

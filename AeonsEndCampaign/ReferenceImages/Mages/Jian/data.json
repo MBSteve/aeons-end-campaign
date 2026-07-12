@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Jian",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Jian",
+  "infobox": {},
+  "overview": "Jian provides an offensive role, able to deal large amounts of damage throughout the game. Jian starts with 2 breaches open, making her immediately more capable of higher damage in the early game. Jian's ability, Black Mirror , allows her to cast any player's one spell twice, dealing massive damage by the mid to late game. Moonstone Shard gains 1 with an additional +1 that can only be spent on a gem.",
+  "ability": "Spend 4 charges to activate this ability during your main phase: Cast any player's prepped spell without discarding it. Then cast that prepped spell again. (Discard it afterward)",
+  "lore": "Father died. The orb. I took it in my hands. And then quiet was upon me. Orphan. Then the mages. I learned the sister-words. The spark. But never spoke them. Like Phaedraxa, I see. It changed me. There are many worlds. The nameless are a scourge to all. So, war. Once, I was born. Soon, I will save them, then become nothing. Everything in between is just waiting. A web. It's all a web.",
+  "strategy": "Jian is an offensive mage with incredible damage potential. For example, using her Black Mirror ability on a Planar Insight with all breaches open can deal 14 damage, without having to wait for your next casting phase. Black Mirror is also one of the cheapest abilities in the game, allowing Jian to use it multiple times in a game. Jian has a total of 4 Sparks in her starting deck, making it a bit more difficult to gain expensive gems and spells in the early game. Her Moonstone Shard alleviates this by allowing her to gain a 4 gem on her first turn. When playing with one mage, all \"Any ally gains a charge\" effects will give yourself a charge instead. This makes cards like Mage's Talisman very effective at generating charges for Black Mirror. Jian synergizes well with a lot of support mages, including Kadir , who can set her up for a huge turn, and Dezmodia , who can use her Sigil breaches to add extra damage.",
+  "trivia": "The name of Jian's father is only mentioned in the very first edition (with the old component design) of the Core box on Focusing Orb .",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

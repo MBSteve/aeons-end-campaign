@@ -1,0 +1,16 @@
+{
+  "type": "nemesis",
+  "name": "Knight Of Shackles",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Knight_of_Shackles",
+  "infobox": {},
+  "overview": "The Knight of Shackles is suspected to be the risen form of an old fallen breach mage, Thraxir . He commands an undead army now, generated from Gravehold's burial sites in The Depths. The Knight certainly acts like a breach mage, focusing and opening breaches, and navigating Gravehold with intimate knowledge. It is unknown what could have caused Thraxir's corruption. The Knight of Shackles uses an additional nemesis mat with four breach tokens. These breaches all start in their furthest closed position. As the game progresses, Knight of Shackles will focus and open these breaches in order. If the final breach is opened, the players immediately lose. The players can, however, spend to 'unfocus' the Knight's breaches, rotating them back. Most of the Knight of Shackles's nemesis card effects rely on the state of the breaches, or focus them further.",
+  "setup": "Knight of Shackles's starting life is 70. Place the Knight of Shackles breach mat next to this mat. Place the four Knight of Shackles breach tokens on the breach mat to their matching positions.",
+  "unleash": "",
+  "additional_rules": "",
+  "strategy": "",
+  "lore": "Thraxir died before my time among the mages. He was said to be the bravest and most skilled warrior in all of Gravehold. Despite his skill, he met his end at the hands of Rageborne , torn in twain like some fragile doll. Like all of our kind, he was buried shadow, tossed into The Depths among generations of those fallen. To this very day, none have been given his mantle as commander. Some believe... Mist believes that Thraxir has returned as one of the very abominations he gave his life fighting. To her credit, the Knight seems to know our defenses all too well. Its mastery over the breaches is akin to that of our mages. It commands an army of the dead, each with eyes like mage's gems. Or is this all merely a coincidence, a ruse calculated by our foes? If Thraxir could be corrupted, can he also be saved? \" ― Indira, Breach Apprentice",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

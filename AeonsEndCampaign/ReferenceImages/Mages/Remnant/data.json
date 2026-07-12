@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Remnant",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Remnant",
+  "infobox": {},
+  "overview": "Remnant is a peculiar entity, an aethereal imprint of what may have once been a person. Now they are reduced to an almost entirely non-physical form, clinging to this world and refusing to let go. Remnant has their own unique II breach, which once opened, grants +1 per cast spell (for that turn). Remnant's unique Void Shard helps to open breaches more quickly. Remnant's ability Ephemera Masque helps them act as support, either drawing cards for allies (from their discard piles) or healing Gravehold.",
+  "ability": "Spend 5 charges to activate this ability during your main phase: Any ally returns two cards in their discard pile to their hand. OR Gravehold gains 5 life.",
+  "lore": "Yan Magda insists I was once someone else. A man. A woman. Perhaps a child. I had a name and a life that was somehow lost. She explained that I am now but a fragment of my former self, a trick of the light given form and thought. A ghost in a world of those soon to follow. But I have no memory of who or what I was. I know only that I must persist. It is always a struggle. Were I to have a body, I would likely describe the agony that is maintaining this form. I would likely fall to the cold ground and fill the world with screams as I begin to unravel. But I feel nothing because I am nothing. There is no pain, only the urge to linger a little longer. I cannot depart, not yet. So I sharpen what I think are my thoughts and force my way back into the world, to this dire place full of battered souls. I am needed here, whatever I may be, wherever this may be. My task remains unfulfilled. I must persist.",
+  "strategy": "When discarding Void Shard, don't just discard it before your crystals every time willy-nilly. It might be better to delay it so it lets you focus a breach on a different turn.",
+  "trivia": "",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

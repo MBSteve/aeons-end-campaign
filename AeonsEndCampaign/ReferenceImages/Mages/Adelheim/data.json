@@ -1,14 +1,15 @@
 {
-  "display_name": "Adelheim",
-  "wiki_page": "https://aeonsend.wiki.gg/wiki/Adelheim",
+  "type": "mage",
+  "name": "Adelheim",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Adelheim",
   "infobox": {},
-  "overview": "[ edit | edit source ] Adelheim is a powerful support/utility mage, especially effective against any nemesis that relies heavily on attacks or powers. The Aethereal Ward ability allows Adelheim to block nemesis attacks and powers, while Amethyst Shard provides card cycle to an ally. Adelheim is one of a handful of mages who have a starting deck of 5 Crystals.",
-  "ability": "[ edit | edit source ] Spend 5 charges to activate this ability during the nemesis draw phase: When a nemesis attack or power card is drawn but before it is resolved, you may discard it. It has no effect. (The nemesis does not draw a replacement card)",
-  "lore": "",
-  "strategy": "",
+  "overview": "Adelheim is a powerful support/utility mage, especially effective against any nemesis that relies heavily on attacks or powers. The Aethereal Ward ability allows Adelheim to block nemesis attacks and powers, while Amethyst Shard provides card cycle to an ally. Adelheim is one of a handful of mages who have a starting deck of 5 Crystals.",
+  "ability": "Spend 5 charges to activate this ability during the nemesis draw phase: When a nemesis attack or power card is drawn but before it is resolved, you may discard it. It has no effect. (The nemesis does not draw a replacement card)",
+  "lore": "It is folly what I do, to make things in a place where everything is broken. But still, I bring my hammer down. We all have work to do and I'll not let pride keep me from it. Ours is an army of fools, yes. We make weapons of the very breaches they wander through. No mystery we die so, when we try to play with deadliest powers we know. But what of it truly? This is still the way of the things, in spite of all that has passed: some people die while the rest must fight. So I bring my hammer down, again and again. Mending swords. Fashioning strangeness from breach-touched ore. They ask it of me and thus it is done, for folly or not.",
+  "strategy": "Adelheim functions best as a support or utility mage, giving other players card draw and safety from nemesis cards throughout the game. Opening your II breach on your first turn of the game is often justified, as you start with 2 Sparks. During his second turn of the game, Adelheim will likely draw 5 Crystals, allowing him to gain more expensive cards than other mages at that point. If playing with Outcasts content, Amethyst Shard can discard a curse from an ally's hand, getting it out of their way temporarily.",
   "trivia": "",
   "images": {
-    "front": "ReferenceImages\\Mages\\Adelheim\\front.jpg",
-    "back": "ReferenceImages\\Mages\\Adelheim\\back.jpg"
+    "front": "front.jpg",
+    "back": "back.jpg"
   }
 }

@@ -1,19 +1,245 @@
 {
-  "mages": {
-    "Adelheim": {
-      "display_name": "Adelheim",
-      "wiki_page": "https://aeonsend.wiki.gg/wiki/Adelheim",
+  "mages": {},
+  "nemeses": {
+    "Rageborne": {
+      "type": "nemesis",
+      "name": "Rageborne",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Rageborne",
       "infobox": {},
-      "overview": "[ edit | edit source ] Adelheim is a powerful support/utility mage, especially effective against any nemesis that relies heavily on attacks or powers. The Aethereal Ward ability allows Adelheim to block nemesis attacks and powers, while Amethyst Shard provides card cycle to an ally. Adelheim is one of a handful of mages who have a starting deck of 5 Crystals.",
-      "ability": "[ edit | edit source ] Spend 5 charges to activate this ability during the nemesis draw phase: When a nemesis attack or power card is drawn but before it is resolved, you may discard it. It has no effect. (The nemesis does not draw a replacement card)",
-      "lore": "",
-      "strategy": "",
-      "trivia": "",
+      "overview": "While Rageborne may not be particularly intelligent or devious, it is unmatched in strength and determination. It destroys all it can in a mad frenzy, and it's minions follow its lead wherever it goes. Rageborne is often one of the first nemeses new players encounter, and one of the easiest to defeat. It is focused on directly attacking the mages and Gravehold, doing large amounts of damage to both. It charges up a more powerful attack, called a Strike, every time it Unleashes. When Rageborne Strikes, a card it played from a secondary deck of 6 unique powerful attacks, the strike deck.",
+      "setup": "Rageborne's starting life is 70. Shuffle all of the Strike cards together and place them facedown to form the strike deck. Rageborne gains one Fury token.",
+      "unleash": "",
+      "additional_rules": "",
+      "strategy": "Rageborn does not demand any unique strategy being the easiest nemesis in wave 1. Killing off Scorn when it comes out will save you more health than most other minions or powers. Mages with healing abilities are slightly more effective in this matchup.",
+      "lore": "This war has waged for aeons now, so long that it is all we know. Our children learn to hold a blade soon after their first words are uttered. With each generation, the joy in their faces and voices diminish, every instinct sharpened to a single word: survive. Malastar believes The Nameless waited for us to become worthy foes before sending their champion, the one we call \"Rageborne.\" It is their executioner, here to quicken Gravehold's end. Never have I seen such anger, all of it reflected into the dead eyes of the rabid beasts it commands. When the breaches open, the beggars in Chasmwalk shout above the city bells: \"The end is near! The end is near!\" And in my hollow heart, I know the truth of it. The end was here since first The Nameless came. We only have prolonged it.",
       "images": {
-        "front": "ReferenceImages\\Mages\\Adelheim\\front.jpg",
-        "back": "ReferenceImages\\Mages\\Adelheim\\back.jpg"
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Carapace Queen": {
+      "type": "nemesis",
+      "name": "Carapace Queen",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Carapace_Queen",
+      "infobox": {},
+      "overview": "Carapace Queen is a horde-style nemesis, summoning large numbers of token minions on the Husk Track. Some of the Carapace Queen's cards Swarm, which resolves effects depending on the total number of husks in play; the more husks in play, the worse the effect. Due to the focus on husks, the Queen does not have many minion cards in its nemesis deck, instead focusing on attacks and powers that interact with the husks.",
+      "setup": "Carapace Queen's starting life is 60. Place the Husk Track next to Carapace Queen's mat. Place two husks into play on the first two spaces of the Husk Track.",
+      "unleash": "",
+      "additional_rules": "",
+      "strategy": "Carapace Queen can often present a much more difficult fight than its difficulty level (3) would suggest due to her ability to instantly defeat the player(s) should a particularly unlucky turn order occur. Because of this, effects that allow players to reorder the turn order deck are quite valuable for this fight. Players should attempt to either do very small (1-2) or very large (5+) instances of damage to husks, as damage cannot be spread between them without suffering damage. Spells that do separate instances of damage are excellent for this. Additionally, a big single hit allows a player to very efficiently spread damage across many husks by suffering only 1 damage. Carapace Queen is particularly nonthreatening in tier 1, as it has only one card that Swarms in this tier. Players should avoid focusing too much on husks at this stage and instead obtain powerful cards and open their breaches. Carapace Queen's main weakness is that it only has 60 health, which is quite low compared to many other nemeses. Players should look to kill her quickly once they have acquired significant sources of damage.",
+      "lore": "The Carapace Queen, The Mother-Of-Husks, the Swarm Daughter - all these dread names we have chosen in our vain attempts to comprehend this creature. But of all The Nameless, the Queen has brought the most ruin upon Gravehold, for her armies are vast and lethal, more clockwork things than beasts. There is a saying about the husks: \"To kill one is to breed six.\" Only when the Queen retreats through the void do they relent, left to twitch and expire on the cave floor among the bodies of those they have overcome. After each siege, weeks are spent shoveling up the metallic scraps, which are carried deep into the bowels of the caves. There they are heaped in formless piles, their countenances unchanged in death beyond their stillness and dim eyes.",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Crooked Mask": {
+      "type": "nemesis",
+      "name": "Crooked Mask",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Crooked_Mask",
+      "infobox": {},
+      "overview": "Crooked Mask uses a secondary deck of corruption cards, which it places into the players' decks and hands, while also shuffling the players' decks. These corruption cards inflict various negative effects on the players when drawn and played.",
+      "setup": "Crooked Mask's starting life is 70. Shuffle all of the corruption cards together and place them facedown to form the corruption deck.",
+      "unleash": "",
+      "additional_rules": "",
+      "strategy": "",
+      "lore": "The elders say there is a god for every aspect of existence, every creature, every force. If this is true, then the Crooked Mask's domain is that of corruption, for the weapon he wields is brought by temptation. How do we slay a god, especially one with such a dark influence over the weaker survivors among us? When we have endured on so little for so long, how do we hold back when what we need most seems to be offered so freely? Many in Gravehold murmur that behind its grim visage lies a cruel and desolate grin. There is a noise it makes, a sort of laugh one can hear just under the bells and the screams.",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Prince of Gluttons": {
+      "type": "nemesis",
+      "name": "Prince of Gluttons",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Prince_of_Gluttons",
+      "infobox": {},
+      "overview": "Prince of Gluttons aims to Devour all cards from the supply . Every time the Prince Unleashes, it removes cards from supply piles, while its nemesis-specific cards accelerate the rate of destruction. This removes important purchase options from the players, and if the supply ever runs out of cards, the Prince wins.",
+      "setup": "Prince of Gluttons's starting life is 70. Place one gem from each gem supply, starting with the most expensive, faceup in a pile next to the Prince of Gluttons' mat. This pile is the devoured pile.",
+      "unleash": "",
+      "additional_rules": "",
+      "strategy": "",
+      "lore": "The past was lost to us in many ways. First our world was taken, forcing the few that then survived into the black cold of the earth. For aeons, generations of survivors eked out meager lives in Gravehold, the breach mages all the while honing their fell craft. For aeons, The Nameless would lay siege to the city, bringing us ever closer to extinction. But the cruelest stroke was in erasing our very history. The Prince of Gluttons was the fourth of their kind to besiege the city. Even at the time, it seemed too easy to repel his attack and send The Prince lumbering back into the bright nothing of the breach. But soon those that survived the attack had forgotten the name of The World That Was. Wives stared into the empty eyes of their husbands and children with no memory of their love for one another. The old ways were lost, the words of The First Tribe mere symbols scratched upon scrolls, all of it devoured, obliterated from eternity. The Prince feeds on our very histories, leaving behind only our fear and doubt. We are a people with no past nor future, trapped only in the fleeting moments before our eyes.",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Gate Witch": {
+      "type": "nemesis",
+      "name": "Gate Witch",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Gate_Witch",
+      "infobox": {},
+      "overview": "Gate Witch specializes in manipulating the Turn Order Deck . After attaining enough nemesis tokens from unleashing, the Witch will return a nemesis turn order card from the discard pile back into the turn order deck. Various nemesis cards also return nemesis turn order cards to the deck, or reset the deck while leaving one player turn order card out. Three of the Gate Witch's nemesis cards are not discarded from play when resolved, but rather return to the bottom of the nemesis deck: Hasten , Infinite Enmity , and Rift Scourge . These cards make a 'milling victory' (winning by surviving through the whole nemesis deck) impossible when fighting the Witch. The players will cycle through these three cards if they survive through the rest of the nemesis deck.",
+      "setup": "Gate Witch's starting life is 70. Gate Witch gains one nemesis token.",
+      "unleash": "",
+      "additional_rules": "",
+      "strategy": "",
+      "lore": "Yan Magda says, 'In the void I saw the ragged face of the infinite. Your people call it the 'Gate Witch.' The infinite is the Witch's dominion, to bend, to break. 'Time is like water,' Brama says. 'It flows through us, around us. Our lives are but drops of blood in a great confluence.' In my short years, I have seen the malice of time. Our future and past are but a red smear across its maw. 'The end is written in the ash of the beginning,' Phaedraxa proselytizes. As I stare into the dim light of the city, ruminating on the wisdom of these great women, the bells toll once more. I smell the burnt air of the breach, its heat upon my face. Another battle will ensue, and what may very well be our last. \" ― Indira, Breach Apprentice",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Magus of Cloaks": {
+      "type": "nemesis",
+      "name": "Magus of Cloaks",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Magus_of_Cloaks",
+      "infobox": {},
+      "overview": "The Magus shrouds itself in layers of darkness, hiding its true form. Only unyielding persistence will destroy each layer, leaving the creature bare and weak to attack. The Magus of Cloaks collects nemesis tokens from unleashing and from nemesis cards. These tokens prevent certain amounts of damage to the Magus, and must be whittled down (by attacking) to enable the players to deal damage to it. Minions of the Magus are equally hardy, able to prevent some of the damage dealt to them. The Magus of Cloaks has several powers, none of which can be discarded by spending aether , although some may be discarded by dealing damage to the Magus.",
+      "setup": "Magus of Cloaks's starting life is 35. Magus of Cloaks gains four nemesis tokens.",
+      "unleash": "",
+      "additional_rules": "",
+      "strategy": "(This guide was primarily written with 2 players in mind, other player counts might necessitate different strategies) Magus of Cloaks is a tricky boss, as you need both numerous cheap spells and big damage ones at the same time. You cannot ignore hitting this Nameless like some others, its Nemesis-specific minions are designed to be very powerful if Magus of Cloaks has lots of Nemesis Tokens. Garu is a very strong contender for this one, as he can essentially turn cheap spells into a big, nasty nuke. In fact, pretty much only mages like Garu have the penetrative power to beat this Nemesis before the Nemesis Deck runs dry. A passive outlasting cheese strategy, which is viable against say, Hollow Crown is not viable here. Ashen Haruspex and Veil Daughter have enough damage and resilience that a passive healing setup is not viable. In addition, Shadow's Reach starts a countdown, so the players winning by the Nemesis running out of cards is not possible. Consider specializing mages: one mage focuses on big boom spells, the other one focuses on many small ones. Turn order rotation randomness might make this risky though. Know the Nemesis Deck: I know, we love surprises, but not knowing what to expect may spell doom here. Well, you are reading this so you might have already failed once or twice ;). There are 3 Nemesis cards that immediately grant Magus of Cloaks a LOT of Nemesis Tokens. One of these is a Tier 2 card. So, there is no point attempting to hit the Nemesis knowing that a card like that is incoming soon. Say, with 2 players, out of the 5 Tier 2 Nemesis cards 4 have already been played, so the 5th must be Enshroud . In that case you have decisions to make: If the Nemesis has few Nemesis Tokens, try to hit it with everything you have, to squeeze in as much damage as possible before its 'shields' go up again. If the Nemesis has a lot of Nemesis Tokens, then ignore the Nemesis and hit minions, cancel Power cards, optimize your deck etc. If the Nemesis already has 8 Nemesis Tokens, who cares if it gains an additional 4, it can only have 8 at maximum anyway. Luck plays a large role unfortunately. An early Veil Daughter followed by Shadow's Reach and Eclipse will most likely be run ending, especially with 2 players. If you can beat Veil Daughter before these come into play, or if Veil Daughter comes up after these cards are out, then you have a chance.",
+      "lore": "We live in darkness. Darkness and silence. Only when they come does the city seem truly alive. The torches break the shadows against the cave walls. The bells join our voices as we prepare for yet another onslaught. The Magus is a thing of darkness. With every blow, we merely peel away one cloak of shadow to reveal another: Its minions are but splintered shadows, each possessing no mind, no life. In a world as bleak as this, could there be no greater master? \" ― Indira, Breach Apprentice",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Hollow Crown": {
+      "type": "nemesis",
+      "name": "Hollow Crown",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Hollow_Crown",
+      "infobox": {},
+      "overview": "One by one, mages of Gravehold have been slowly seduced to join the Hollow Crown. They abandon their posts and pledge their lives for this creature. The Crown works through these once-mages, gaining power through greater crowds of followers and their blood magic. Only by stamping out this growing cult can The Hollow Crown be defeated. The Hollow Crown has only 1 life, however it cannot be killed by normal means. It uses a secondary deck of acolyte-minions; these are its followers, and each casts Blood Magic effects on the players or Gravehold. One Blood Magic effect resolves when The Hollow Crown unleashes, although many of the Hollow Crown's tier 3 cards resolve the effects of all acolytes in play. The players must defeat these followers to win (end a turn with no acolytes in play).",
+      "setup": "Hollow Crown's starting life is 1. Shuffle all of the acolyte cards together and place them facedown to form the acolyte deck. Draw two cards from the acolyte deck and place them into play. When playing with beginner rules , discard the top card of the acolyte deck.",
+      "unleash": "",
+      "additional_rules": "",
+      "strategy": "",
+      "lore": "There are dark forces at work within Gravehold, machinations, schemes, conspiracies. Our numbers wane, even with the arrival of Yan Magda and her companions. Faith is the one thing that has kept us alive, and yet it is the very thing the Hollow Crown desires most. Its acolytes were all once mages, practicing forbidden rituals in the rubble of the Craghollows. Blood magic, the foulest practice our kind can commit. Who taught them remains a mystery, but through their devotion the Crown is unstoppable. The Crown is different than the others. It compels reverence in those that look upon it. It inspires awe, not fear. It sees us not as victims, but as would-be worshipers. Gravehold is a consummate cage for its subject, therefore there is little reason to destroy it. Ohat says there is no fate worse than death. He is wrong. \" ― Indira, Breach Apprentice",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Umbra Titan": {
+      "type": "nemesis",
+      "name": "Umbra Titan",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Umbra_Titan",
+      "infobox": {},
+      "overview": "The Titan worm emerged from the Thrice-Dead Prophet 's body and attacked immediately. It is a manic and feral beast, with little perceived intelligence. Yet creatures from deep and dark places rise to serve the Titan. The mages do not have much time before Gravehold collapses beneath the Titan's writhing. The Umbra Titan starts with eight nemesis tokens, which serve as a countdown to the destruction of Gravehold (and the players losing the game). Unleashes and nemesis cards may take away tokens, and there are no ways to return tokens. However, players may choose to take damage from Umbra Titan's unleash instead, and some powers and attacks allows the choice to avoid Umbra Titan from losing tokens.",
+      "setup": "Umbra Titan's starting life is 70. Umbra Titan gains eight nemesis tokens.",
+      "unleash": "",
+      "additional_rules": "",
+      "strategy": "A straightforward, but difficult Nemesis, Umbra Titan has a surprising number of minions, most tailored around the nemesis losing nemesis tokens. Bad luck in turn order rotation can make the fight near-impossible. If you can, include cards in the market that can mess with the turn order deck such as Carbonize . Since even at nemesis Level 1 there will be at least 2 minions it is key to bring mages with good early damage capabilities. With an unlucky turn order rotation Cryptid can be debilitating. Consider bringing mages that can cast spells in their main phase, or help allies prepare spells outside of their turn such as Indira or Mist (War Eternal) . Umbra Titan's Unleash, minions and abilities usually offer the players to take damage instead of Nemesis Token loss, so mages with good healing capabilities are also viable, but be mindful that they too must focus on some early damage to remove minions.",
+      "lore": "It is a strange thing to say we have never seen The Nameless die, but we have indeed witnessed one being born. The Umbra Titan speared from the feigned carcass of the Thrice-Dead Prophet like some foul offspring. At first we thought it merely some grotesque machination, another minion perhaps, but in time it has proven to be an adversary of equal measure. Even the indigenous beasts of the cave seem to worship it. Beneath the skin of the cave it roars, burrowing through rock and darkness like a blind knife through muscle. The ground shakes as a precursor to its attack. It is a horrible thing to see people not know where to seek shelter, instead inert as they wait for the monstrous thing to emerge - if it emerges at all. Of all The Nameless, the Titan is the most feral. Xaxos thinks them holy, but this is no god or otherwise. It is an animal of the basest instincts: to hunt, to kill, to live. \" ― Indira, Breach Apprentice",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Horde-Crone": {
+      "type": "nemesis",
+      "name": "Horde-Crone",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Horde-Crone",
+      "infobox": {},
+      "overview": "Horde-Crone awoke from deep underground beneath Gravehold, summoning hordes of ancient troggs to aid in its onslaught of the last human city. Horde-Crone is a horde-style nemesis, relying on very large numbers of minions. Horde-Crone uses a special secondary deck of trogg minions; a trogg is played from the trogg deck whenever Horde-Crone Unleashes. The more of a certain type of trogg there are in play, the worse the effects of playing a new trogg are. The trogg deck contains 3 types of troggs, with 4 copies of each.",
+      "setup": "Horde-Crone's starting life is 60. Shuffle all of the trogg cards together and place them facedown to form the trogg deck. Draw a card from the trogg deck and place it into play.",
+      "unleash": "",
+      "additional_rules": "",
+      "strategy": "",
+      "lore": "In the ancient time, before our kind, the troggs walked The World That Was. From what the elders remember of the lost tales, there were three great tribes, each with a purpose. The Yud were keepers of life, gifted in the art of creation, molders of flesh. The Orp were beings of shadow, masters of ruination and death, the counterweights on the scales of life, against which the Yud were balanced. And the Zom were neither light nor dark, but instead were dreamers with great minds. The world was unforgiving and empty then, but malleable, a great marble to be chiseled and shaped as they saw fit. And though the tribes were each different, they lived in great harmony. The world flourished and faded, developed and dreamed, much the way worlds are supposed to. Eventually the world they wove was complete and no longer needed them, so they journeyed into the black of this very cave, to this very city, to sleep and be forgotten. Now The Crone has stirred the troggs from their slumber. Awakened with new and malicious purpose, they issue from the infinite depths of the cave in their hordes, eager to take back their ancient city and undo their own great feats. And who are we but immigrants here in Gravehold, in this world they made for us? Are we not their children in some measure? Is it not their right to take it all away?",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Blight Lord": {
+      "type": "nemesis",
+      "name": "Blight Lord",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Blight_Lord",
+      "infobox": {},
+      "overview": "The Blight Lord was the first Nameless to arrive to The World That Was, and immediately started destroying cities. It turns everything it touches to glass, from cities and people to the very ground. The Blight Lord uses a secondary deck of Tainted Jade in addition to its normal nemesis deck. These gems are forced into players' decks and hands; players must spend to remove the cards from their hands. If players are tempted into using the Tainted Jade, it will cost them life. The Blight Lord also moves along a Tainted Track, moving closer and closer to Gravehold. If Blight Lord reaches the end of the track the players lose, as the city of Gravehold is reduced to glass.",
+      "setup": "Blight Lord's starting life is 70. Add an additional supply pile consisting of a number of Tainted Jade equal to the number of players plus four. Place the Tainted Track next to the nemesis mat. Place the Blight Lord token on the first space of the Tainted Track.",
+      "unleash": "",
+      "additional_rules": "",
+      "strategy": "",
+      "lore": "The Blight Lord was the first of The Nameless to touch The World That Was. With a quick and deliberate hand, the great city of Karek was turned to a mountain of green glass, its many thousands of denizens entombed within. The harbor towns of M'hlark were next to fall, the warm waters lapping against the jagged, frozen shapes of those caught unaware. Even the very earth below its shadow became glass, left to shatter into crude and useless shapes. The elder of the First Tribe bade his people to pay tribute, for in his ignorance he considered it a divine messenger from the gods they worshiped then. Of those that knelt before it, none were spared. And thus the Blight Lord was given its name, for the certain ruin of our people followed it like some merciless plague.",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Wayward One": {
+      "type": "nemesis",
+      "name": "Wayward One",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Wayward_One",
+      "infobox": {},
+      "overview": "The Wayward One is a unusual creature, trapped between our world and the worlds through the breaches, flickering and phasing in and out of each place, never truly in one location. Fighting such an ethereal entity is challenging, and requires careful timing.",
+      "setup": "Wayward One's starting life is 60. Place the Wayward One Position Chart next to this mat. Place the Wayward One token on that chart on position I.",
+      "unleash": "",
+      "additional_rules": "",
+      "strategy": "",
+      "lore": "This creature is an oddity, even amongst its odd kind, trapped in a place neither here nor there. The scouts first saw it from the west wall, flickering against the vault of the cave. They say it wailed as it fluttered through the city's defenses like a broken ghost. A merchant in the dirt market made the mistake of brushing the wisps of its floating form as she threw up her hands in horror. She began to fade away as soon as the dust of the thing sifted between her fingers. And then it too was gone. Like us, it is lost. Of all The Nameless that have plagued us here in our last sanctum, the Wayward One alone seems almost tormented by the task. The breach mages say they show compassion toward the wretched thing by fighting against it with all their might, for like us, it is seeking an end to its struggle.",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Thrice-Dead Prophet": {
+      "type": "nemesis",
+      "name": "Thrice-Dead Prophet",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Thrice-Dead_Prophet",
+      "infobox": {},
+      "overview": "The Thrice-Dead Prophet is a mysterious creature of unknown making and power. Each time the prophet has been defeated it has learned and returned more dangerous. It now approaches Gravehold a fourth time, and hopefully the last. If not stopped this time, the Prophet may complete its inscrutable rituals and ascend, becoming truly unstoppable. The Thrice-Dead Prophet introduces two additional ways to lose. If the Prophet is ever at or over 99 health it ascends beyond mortals, and the players immediately lose. The Prophet could accomplish this through its Unleash ability restoring 5 life each time. Yet the more damaged the prophet is, the more dangerous its cards become. The players will also lose if the nemesis deck is ever empty (this normally counts as a win against other nemeses). The prophet collects nemesis tokens, and will discard a nemesis card with enough tokens collected, accelerating the rate the nemesis deck is emptied.",
+      "setup": "Thrice-Dead Prophet's starting life is 40.",
+      "unleash": "",
+      "additional_rules": "",
+      "strategy": "",
+      "lore": "It was thought impossible to kill The Nameless, yet we did just that. Or so we thought... The first time we slew the Prophet, it seemed all too easy. It shambled out of the void, its massive body clad with the faces of gods we no longer remembered. We were upon it quickly, like a swarm of scarabs upon a carcass. It did not fight back, or so it seemed. And in our haste we thought ourselves the victors. The second time we fought the creature, its minions put us to our paces. Frayla , an inexperienced mage, met her end that day, crushed under the enormity of the thing as it fell dead once more. In some death spasm, it took out an entire section of the South Wall, and twenty others with it. The third was meant to be the last. Sparrow lopped of its faceless head, but it mattered not. Without Yan Magda and the others, Gravehold would have met its end that day. The Prophet lay still as stone for an hour this time. Then, from the stump of its neck, the Umbra Titan emerged. This beast took nine more mages' lives before Ulgimor forced it into The Depths . And that was our only victory that day: the accidental creation of Ulgimor. We now know that each victory was merely a feint, a test of our mettle and skill. Let the fourth time the Prophet dies be its last and final Death. \" ― Indira, Breach Apprentice",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Wraithmonger": {
+      "type": "nemesis",
+      "name": "Wraithmonger",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Wraithmonger",
+      "infobox": {},
+      "overview": "Wraithmonger is an ethereal creature, not existing physically as most of Gravehold's enemies do. Wraithmonger has invaded the minds of those in Gravehold, breeding terror and confusion. Only when those minds sleep will the Wraithmonger manifests itself physically, enveloping the dreamer's head in ghostly tendrils. Only then can it be seen dragging itself from victim to victim. If the mages do not mentally and physically resist Wraithmonger, it will enslave all those in Gravehold under its hold. The Wraithmonger uses an additional nemesis mat with 7 tiles (Terror tiles) placed in order. Whenever Wraithmonger unleashes, a player takes the highest numbered Terror tile and resolves its effect. The tile then covers that player's special mage ability, preventing it from being used until a player pays charges to clear all tiles away, returning them to the mat. If Terror Tile 1 is ever claimed, the players immediately lose.",
+      "setup": "Wraithmonger's starting life is 70. Place all the Terror tiles on the Wraithmonger Terror mat corresponding to their number.",
+      "unleash": "",
+      "additional_rules": "",
+      "strategy": "",
+      "lore": "Sleep is a luxury not often had in Gravehold. Dreaming even more so. Thus it is the cruelest of jests that The Nameless have a creature which holds dominion over both. Wraithmonger was not born of the void like the others. It lurks within our minds, a shapeless horror buried deep within us all. It is only when we dream that it manifests in the world beyond our sleep. It flickers in the dark above the city, eerily beautiful as it drags itself from each dreamer's skull. Its tendrils waft in the still air, leeching terror as it rises to feed. They say Yan Magda sleeps no more, as she spent aeons in the Black Mausoleum. But the rest of us must. Dare we dream and wake the monster within our heads? Let us dream of nothing. \" ― Indira, Breach Apprentice",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Knight Of Shackles": {
+      "type": "nemesis",
+      "name": "Knight Of Shackles",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Knight_of_Shackles",
+      "infobox": {},
+      "overview": "The Knight of Shackles is suspected to be the risen form of an old fallen breach mage, Thraxir . He commands an undead army now, generated from Gravehold's burial sites in The Depths. The Knight certainly acts like a breach mage, focusing and opening breaches, and navigating Gravehold with intimate knowledge. It is unknown what could have caused Thraxir's corruption. The Knight of Shackles uses an additional nemesis mat with four breach tokens. These breaches all start in their furthest closed position. As the game progresses, Knight of Shackles will focus and open these breaches in order. If the final breach is opened, the players immediately lose. The players can, however, spend to 'unfocus' the Knight's breaches, rotating them back. Most of the Knight of Shackles's nemesis card effects rely on the state of the breaches, or focus them further.",
+      "setup": "Knight of Shackles's starting life is 70. Place the Knight of Shackles breach mat next to this mat. Place the four Knight of Shackles breach tokens on the breach mat to their matching positions.",
+      "unleash": "",
+      "additional_rules": "",
+      "strategy": "",
+      "lore": "Thraxir died before my time among the mages. He was said to be the bravest and most skilled warrior in all of Gravehold. Despite his skill, he met his end at the hands of Rageborne , torn in twain like some fragile doll. Like all of our kind, he was buried shadow, tossed into The Depths among generations of those fallen. To this very day, none have been given his mantle as commander. Some believe... Mist believes that Thraxir has returned as one of the very abominations he gave his life fighting. To her credit, the Knight seems to know our defenses all too well. Its mastery over the breaches is akin to that of our mages. It commands an army of the dead, each with eyes like mage's gems. Or is this all merely a coincidence, a ruse calculated by our foes? If Thraxir could be corrupted, can he also be saved? \" ― Indira, Breach Apprentice",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Maiden Of Thorns": {
+      "type": "nemesis",
+      "name": "Maiden Of Thorns",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Maiden_of_Thorns",
+      "infobox": {},
+      "overview": "The Maiden of Thorns is a bladed horror, bent on extracting as much pain from each inhabitant of Gravehold. The Maiden of Thorns places a double-sided token on the cheapest supply pile at the start of the game. As the game progresses, Maiden of Thorns will do damage to the players or Gravehold depending on how many cards are left in the pile beneath the token, and which token side is face-up. The Maiden will move the token to different piles, and upgrade the token to do higher amounts of damage.",
+      "setup": "Maiden of Thorns's starting life is 80. The supply must contain at least five supply piles with different costs. Destroy two cards in each gem supply pile. Place the Thorn marker Gravehold side up on the least expensive supply pile. The supply pile that the Thorn is on is the Thorn supply pile. When the nemesis tier is 2, replace this token with the \"+1 damage\" version of the token. When the nemesis tier is 3, replace this token with the \"+2 damage\" version of the token.",
+      "unleash": "",
+      "additional_rules": "",
+      "strategy": "",
+      "lore": "Adelheim considers the Maiden with strange admiration. After all, it is a weapon of sorts. And like all weapons, its purpose is simple: to be lethal. This is not to say it lacks a mind. In fact, quite the opposite. It revels in cruelty. There is no easy death to be had from this creature or its ilk. Suffering is like air in its lungs, like blood through its vein. Xaxos wonders if it feeds upon knowledge. We have witnessed it supping from the skull of fallen mages many times. Poor Gadymir , just barely earning the moniker of mage, was impaled through his helm. And though the wound was superficial, he forgot his name, his training, everything. Now he pulls a cart in the dirt market for Ohat . Is it not enough to take our lives? Must The Nameless also erase who we are? \" ― Indira, Breach Apprentice",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
       }
     }
-  },
-  "nemeses": {}
+  }
 }

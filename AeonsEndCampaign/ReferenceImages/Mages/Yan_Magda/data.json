@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Yan Magda",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Yan_Magda",
+  "infobox": {},
+  "overview": "Yan Magda was an exiled mage in The World That Was, punished for questionable practices. Now she is an extremely powerful mage, both on her own and with others. Yan Magda's ability Imperium Ritual allows her to gain any card from the supply, no matter the price. If all of Yan Magda's breaches are opened, then an ally may gain any card as well. However, Yan Magda starts with three of her breaches in the furthest possible closed orientation. Her unique spell, Illuminate , allows Yan Magda to deal damage slowly over time as she focuses breaches.",
+  "ability": "Spend 5 charges to activate this ability during your main phase: Activate during your main phase: Gain a card from any supply pile. If you have four opened breaches , any ally gains a card from any supply pile and places it on top of their deck.",
+  "lore": "I still remember the day The Conclave sentenced me to sleep. You see, they did not believe in killing, as necessary a thing as it may seem to all other creatures and creeds. My crime, among others, was in questioning the nature of their ways. And thus the punishment was to entomb my mind in the gulag of my still body for eternity. They called this the 'Black Mausoleum.' And so it was that I lay in the hollow of my sarcophagus, drawing what then I thought was the last conscious breath of my very long life. The light died all around me and with it I went, trapped in the amber of dreams. I cannot recall my time in the sepulcher of sleep. Just blackness and quiet unending. But there came a day when the light spilled across my face and I gasped as a brutish man yanked me from my coma. All around us were tendrils of strange light spiraling into infinity, each one flecked with what seemed a world in miniature. I still remember plucking one of those delicate lights from the nothing, unaware I had snuffed out an entire world. In time our cadre of orphans grew in number and in strangeness. We lost many companions along the way, each erased like that tiny light in the spiral. Their faith gave me then strength to journey forward, though in my heart it was retribution that urged me on. There was a day when the spiral seemed to fall away and a sudden cold was upon us. Garu 's labored breath reverberated the dirt crunching under foot. And this was the first time I knew I was truly awake. This was the day we met Indira and learned the truth of it. And once again, I found myself entombed in the black quiet of another world.",
+  "strategy": "One of her biggest strengths is her ability to act as insurance against an early minion, focusing her II breach four times on her first two turns. If that ends up being your opening, consider keeping Spark and Illuminate prepped so you can buy a 5-cost gem or relic and cycle it every turn to try and catch up from the slower start.",
+  "trivia": "",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

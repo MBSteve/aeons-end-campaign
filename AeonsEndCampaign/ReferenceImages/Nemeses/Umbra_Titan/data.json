@@ -1,0 +1,16 @@
+{
+  "type": "nemesis",
+  "name": "Umbra Titan",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Umbra_Titan",
+  "infobox": {},
+  "overview": "The Titan worm emerged from the Thrice-Dead Prophet 's body and attacked immediately. It is a manic and feral beast, with little perceived intelligence. Yet creatures from deep and dark places rise to serve the Titan. The mages do not have much time before Gravehold collapses beneath the Titan's writhing. The Umbra Titan starts with eight nemesis tokens, which serve as a countdown to the destruction of Gravehold (and the players losing the game). Unleashes and nemesis cards may take away tokens, and there are no ways to return tokens. However, players may choose to take damage from Umbra Titan's unleash instead, and some powers and attacks allows the choice to avoid Umbra Titan from losing tokens.",
+  "setup": "Umbra Titan's starting life is 70. Umbra Titan gains eight nemesis tokens.",
+  "unleash": "",
+  "additional_rules": "",
+  "strategy": "A straightforward, but difficult Nemesis, Umbra Titan has a surprising number of minions, most tailored around the nemesis losing nemesis tokens. Bad luck in turn order rotation can make the fight near-impossible. If you can, include cards in the market that can mess with the turn order deck such as Carbonize . Since even at nemesis Level 1 there will be at least 2 minions it is key to bring mages with good early damage capabilities. With an unlucky turn order rotation Cryptid can be debilitating. Consider bringing mages that can cast spells in their main phase, or help allies prepare spells outside of their turn such as Indira or Mist (War Eternal) . Umbra Titan's Unleash, minions and abilities usually offer the players to take damage instead of Nemesis Token loss, so mages with good healing capabilities are also viable, but be mindful that they too must focus on some early damage to remove minions.",
+  "lore": "It is a strange thing to say we have never seen The Nameless die, but we have indeed witnessed one being born. The Umbra Titan speared from the feigned carcass of the Thrice-Dead Prophet like some foul offspring. At first we thought it merely some grotesque machination, another minion perhaps, but in time it has proven to be an adversary of equal measure. Even the indigenous beasts of the cave seem to worship it. Beneath the skin of the cave it roars, burrowing through rock and darkness like a blind knife through muscle. The ground shakes as a precursor to its attack. It is a horrible thing to see people not know where to seek shelter, instead inert as they wait for the monstrous thing to emerge - if it emerges at all. Of all The Nameless, the Titan is the most feral. Xaxos thinks them holy, but this is no god or otherwise. It is an animal of the basest instincts: to hunt, to kill, to live. \" ― Indira, Breach Apprentice",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

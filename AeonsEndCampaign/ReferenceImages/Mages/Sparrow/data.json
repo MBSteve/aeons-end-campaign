@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Sparrow",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Sparrow",
+  "infobox": {},
+  "overview": "Sparrow is a very useful support mage, helping accelerate all of her fellow mages to greater power. Early in the game, Sparrow's ability Eldritch Tether may be used to focus any mages' breaches a total of 4 times. Later, the same ability may be used to instead help allies draw and prep up to 3 spells, leading to large swings. Sparrow's unique spell, Smolder , allows her to prep it to her breaches immediately, which all start as closed.",
+  "ability": "Spend 5 charges to activate Eldritch Tether during your main phase: Activate during your main phase: Focus any player's breach . Repeat this three additional times. OR Any ally with no closed breaches draws three cards and then preps up to three spells from their hand.",
+  "lore": "What I'm saying is, we're making it too complicated. Ever since they showed up, it's been bicker and argue, argue and bicker. Why all this talk? We know we need to fight, so let's go fight. No talking needed for that. Brama says Yan and her pack of miscreants are heretics and cannot be trusted, that the help they gave in the battle with the Thrice-Dead Prophet was just to throw us off. I bet they saw we were winning anyway; we could have done it without them no matter what anybody says. And let us not forget the aftermath of that fight... I have an idea - keep them fighting The Nameless. They will die in battle, or they'll slip up and betray their true loyalty, in which case I'll kill them myself. Either way we'll be rid of them, and that suits me just fine.",
+  "strategy": "Consider opening your II Breach on turn 1. Even though Smolder can be prepped to closed breaches, it is beneficial to keep it prepped instead of being forced to cast it on the following turn. For example, it means you get to have a 5-cost card instead of a 4-cost card in your hand on turn 3. Being able to prep Smolder to closed Breaches will still come in handy later when you have other spells in hand that must be prepped to opened (or focused) Breaches. Given the second option of her ability, Sparrow is unusually strong alongside a mage that can open their breaches faster than average due to great starting positions or other factors.",
+  "trivia": "",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

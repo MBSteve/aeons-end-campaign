@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Dezmodia",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Dezmodia",
+  "infobox": {},
+  "overview": "Dezmodia is a supportive mage, capable of giving other players powerful custom breaches. Dezmodia's unique card Oblivion Shard helps her gain higher valued gems or charge up her ability as soon as possible. Dezmodia's ablilty Tempest Sigil allows her to replace any mages' level I or II breaches with upgraded versions that give +2 damage on cast, better than standard level III and IV breaches. Dezmodia's initial closed breaches will require a large amount of to open.",
+  "ability": "Spend 6 charges to activate this ability during your main phase: Any player destroys an opened I or II breach and returns any spells prepped to that breach to their hand. That player gains a Sigil breach and places it where the destroyed breach was. Then, that player may prep a spell from their hand to a breach. Sigil Breach I Sigil Breach II",
+  "lore": "I was born in the place between worlds. Yan Magda held me as I drew my very first breath and my true mother took her last. I still remember this, as though it only just happened. From that moment forth, I was her student. Time in the void is not as it is elsewhere. It moves too quickly, and sometimes not at all. My years are not what they seem. I am not as I seem. I remember being born, and, somehow, what it feels like to die. Like The Nameless, I live in the place in between. Brama and her sycophants, let them have Gravehold. Let them cower here in the dark. There will come a time when the void will swallow all. And I stare into the infinite with warm tears in my eyes, knowing in some strange way I am home.",
+  "strategy": "Your signature card has three purposes: gaining Gems, gaining a Charge, opening breaches and paying off nemesis stuff. It’s easy to forget how flexible it is, so consider all your options.",
+  "trivia": "",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

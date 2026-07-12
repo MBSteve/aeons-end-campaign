@@ -1,0 +1,16 @@
+{
+  "type": "nemesis",
+  "name": "Wraithmonger",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Wraithmonger",
+  "infobox": {},
+  "overview": "Wraithmonger is an ethereal creature, not existing physically as most of Gravehold's enemies do. Wraithmonger has invaded the minds of those in Gravehold, breeding terror and confusion. Only when those minds sleep will the Wraithmonger manifests itself physically, enveloping the dreamer's head in ghostly tendrils. Only then can it be seen dragging itself from victim to victim. If the mages do not mentally and physically resist Wraithmonger, it will enslave all those in Gravehold under its hold. The Wraithmonger uses an additional nemesis mat with 7 tiles (Terror tiles) placed in order. Whenever Wraithmonger unleashes, a player takes the highest numbered Terror tile and resolves its effect. The tile then covers that player's special mage ability, preventing it from being used until a player pays charges to clear all tiles away, returning them to the mat. If Terror Tile 1 is ever claimed, the players immediately lose.",
+  "setup": "Wraithmonger's starting life is 70. Place all the Terror tiles on the Wraithmonger Terror mat corresponding to their number.",
+  "unleash": "",
+  "additional_rules": "",
+  "strategy": "",
+  "lore": "Sleep is a luxury not often had in Gravehold. Dreaming even more so. Thus it is the cruelest of jests that The Nameless have a creature which holds dominion over both. Wraithmonger was not born of the void like the others. It lurks within our minds, a shapeless horror buried deep within us all. It is only when we dream that it manifests in the world beyond our sleep. It flickers in the dark above the city, eerily beautiful as it drags itself from each dreamer's skull. Its tendrils waft in the still air, leeching terror as it rises to feed. They say Yan Magda sleeps no more, as she spent aeons in the Black Mausoleum. But the rest of us must. Dare we dream and wake the monster within our heads? Let us dream of nothing. \" ― Indira, Breach Apprentice",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

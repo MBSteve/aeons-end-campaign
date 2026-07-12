@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Nym",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Nym",
+  "infobox": {},
+  "overview": "Nym is a unique breach mage, providing a different sort of offensive role. Nym does not help deal damage to the Nemesis or its minions, but rather pushes the game closer to its secondary win condition, emptying the nemesis deck through his ability Terminus Barrier . Fellow players should be aware of Nym's ability and monitor the state of the nemesis deck, to see which win condition they should focus on. While the other players cannot help speed up the rate of cards the nemesis is playing, they can play more defensively, focusing damage on minions rather than the nemesis.",
+  "ability": "Spend 5 charges to activate this ability during your main phase: Discard the top card of the nemesis deck. If you discarded an attack card, discard an additional card.",
+  "lore": "The Nameless... what a stupid name for these things. It makes no sense. It's just frightened people trying to understand something they don't. Monsters. That's what these things are. Nothing more, nothing less. Malastar says respecting one's foe is the straightest and clearest path to defeating them. But why would I respect monsters? Malastar is wrong. Respect is a useless concept in this fight - I have no respect for those freaks and I have turned as many of them to cinder as anyone. A lot of people are afraid of \"The Nameless,\" but not me. They think I am too young to know what fear is, but really, fear is the only thing we younglings know. But I choose not to fear them any more. I won't give them anything other than my fire.",
+  "strategy": "Nym is a peculiar and highly situational mage. Playing with Nym should be considered thoroughly before a game, as their ability can be actively detrimental to the player(s). This is because discarding cards from the top of the Nemesis deck causes the Nemesis to progress through tiers faster, causing the player(s) to have to deal with more dangerous cards before they might otherwise be ready. There is one main situation where Nym's ability may be useful, and that is attempting to win by \"decking out\" the Nemesis. However, this can be quite risky for the aforementioned reasons. Additionally, some nemeses explicitly cannot be defeated this way, completely nullifying this strategy, such as Thrice-Dead Prophet. Other nemeses, such as Gate Witch, do not have such a rule stated up-front, but can still not be defeated this way due to having Nemesis cards that place themselves back into the Nemesis deck. A second, even more situational use for Nym's ability is discarding a Nemesis card that has just been put back on the top of the Nemesis deck by another effect. This would effectively discard the card from play, albeit in an inefficient, roundabout way.",
+  "trivia": "",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

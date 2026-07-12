@@ -1,0 +1,16 @@
+{
+  "type": "nemesis",
+  "name": "Carapace Queen",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Carapace_Queen",
+  "infobox": {},
+  "overview": "Carapace Queen is a horde-style nemesis, summoning large numbers of token minions on the Husk Track. Some of the Carapace Queen's cards Swarm, which resolves effects depending on the total number of husks in play; the more husks in play, the worse the effect. Due to the focus on husks, the Queen does not have many minion cards in its nemesis deck, instead focusing on attacks and powers that interact with the husks.",
+  "setup": "Carapace Queen's starting life is 60. Place the Husk Track next to Carapace Queen's mat. Place two husks into play on the first two spaces of the Husk Track.",
+  "unleash": "",
+  "additional_rules": "",
+  "strategy": "Carapace Queen can often present a much more difficult fight than its difficulty level (3) would suggest due to her ability to instantly defeat the player(s) should a particularly unlucky turn order occur. Because of this, effects that allow players to reorder the turn order deck are quite valuable for this fight. Players should attempt to either do very small (1-2) or very large (5+) instances of damage to husks, as damage cannot be spread between them without suffering damage. Spells that do separate instances of damage are excellent for this. Additionally, a big single hit allows a player to very efficiently spread damage across many husks by suffering only 1 damage. Carapace Queen is particularly nonthreatening in tier 1, as it has only one card that Swarms in this tier. Players should avoid focusing too much on husks at this stage and instead obtain powerful cards and open their breaches. Carapace Queen's main weakness is that it only has 60 health, which is quite low compared to many other nemeses. Players should look to kill her quickly once they have acquired significant sources of damage.",
+  "lore": "The Carapace Queen, The Mother-Of-Husks, the Swarm Daughter - all these dread names we have chosen in our vain attempts to comprehend this creature. But of all The Nameless, the Queen has brought the most ruin upon Gravehold, for her armies are vast and lethal, more clockwork things than beasts. There is a saying about the husks: \"To kill one is to breed six.\" Only when the Queen retreats through the void do they relent, left to twitch and expire on the cave floor among the bodies of those they have overcome. After each siege, weeks are spent shoveling up the metallic scraps, which are carried deep into the bowels of the caves. There they are heaped in formless piles, their countenances unchanged in death beyond their stillness and dim eyes.",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

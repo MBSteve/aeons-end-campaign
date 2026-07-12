@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Xaxos (AE)",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Xaxos",
+  "infobox": {},
+  "overview": "Xaxos is a support mage, providing a wide range of tools for allied mages. With his Metaphysical Link ability, Xaxos helps charge up all other mages abilities, as well as revealing and reordering the entire turn order deck, making the next few turns determined. With Flare Xaxos reveals the top card from the turn order deck and deals damage based off type of card shown (mage vs nemesis card). Most of Xaxos' breaches start in the most expensive orientation, making it particularly difficult for Xaxos to contribute much damage in the early game.",
+  "ability": "Spend 5 charges to activate this ability during any player's main phase: Activate during any player's main phase: Allies collectively gain 4 charges. Reveal the turn order deck and return the revealed cards in any order.",
+  "lore": "The others, they do not understand. For them, struggle is a virtue acknowledged by less cruel gods than these. They ignore the dark around them and seek a world whose name they cannot remember. But I have discerned our road to salvation, fractured and perilous, straight through the heart of the void. We may learn much from these creatures, these divinities, though dark they may be. Theirs is a power to cull worlds, to tear wide the membrane of the universe, to traverse the very emptiness that lay between. Is it not within reason to presume they may also have some means to shape worlds as well as destroy them? Perhaps they can whisper into existence more than their fell armies and beasts. The tools they wield are just that - tools. Who is to say we cannot use a tool for a better end? Yet these words alone are enough to brand me a mage heretic. It is for this reason I stifle them, though these thoughts echo behind my silence in a way that seems wisdom. For now, I will study our foes closely, and in doing so I shall learn how to lift us from this torment... no matter what means I must use.",
+  "strategy": "Using your ability at the end of the turn order cycle reveals the next turn order deck and gives you full control of that deck. Also, it can be activated on any player's turn, so don't be afraid to wait for an ally to have the last turn!",
+  "trivia": "Original artwork by FitriaDes: https://www.deviantart.com/fitriades/art/Aeon-s-End-Character-617593682",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

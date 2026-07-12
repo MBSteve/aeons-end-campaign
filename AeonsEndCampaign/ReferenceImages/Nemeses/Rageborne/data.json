@@ -1,0 +1,16 @@
+{
+  "type": "nemesis",
+  "name": "Rageborne",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Rageborne",
+  "infobox": {},
+  "overview": "While Rageborne may not be particularly intelligent or devious, it is unmatched in strength and determination. It destroys all it can in a mad frenzy, and it's minions follow its lead wherever it goes. Rageborne is often one of the first nemeses new players encounter, and one of the easiest to defeat. It is focused on directly attacking the mages and Gravehold, doing large amounts of damage to both. It charges up a more powerful attack, called a Strike, every time it Unleashes. When Rageborne Strikes, a card it played from a secondary deck of 6 unique powerful attacks, the strike deck.",
+  "setup": "Rageborne's starting life is 70. Shuffle all of the Strike cards together and place them facedown to form the strike deck. Rageborne gains one Fury token.",
+  "unleash": "",
+  "additional_rules": "",
+  "strategy": "Rageborn does not demand any unique strategy being the easiest nemesis in wave 1. Killing off Scorn when it comes out will save you more health than most other minions or powers. Mages with healing abilities are slightly more effective in this matchup.",
+  "lore": "This war has waged for aeons now, so long that it is all we know. Our children learn to hold a blade soon after their first words are uttered. With each generation, the joy in their faces and voices diminish, every instinct sharpened to a single word: survive. Malastar believes The Nameless waited for us to become worthy foes before sending their champion, the one we call \"Rageborne.\" It is their executioner, here to quicken Gravehold's end. Never have I seen such anger, all of it reflected into the dead eyes of the rabid beasts it commands. When the breaches open, the beggars in Chasmwalk shout above the city bells: \"The end is near! The end is near!\" And in my hollow heart, I know the truth of it. The end was here since first The Nameless came. We only have prolonged it.",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

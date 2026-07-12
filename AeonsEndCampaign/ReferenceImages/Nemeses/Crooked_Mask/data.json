@@ -1,0 +1,16 @@
+{
+  "type": "nemesis",
+  "name": "Crooked Mask",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Crooked_Mask",
+  "infobox": {},
+  "overview": "Crooked Mask uses a secondary deck of corruption cards, which it places into the players' decks and hands, while also shuffling the players' decks. These corruption cards inflict various negative effects on the players when drawn and played.",
+  "setup": "Crooked Mask's starting life is 70. Shuffle all of the corruption cards together and place them facedown to form the corruption deck.",
+  "unleash": "",
+  "additional_rules": "",
+  "strategy": "",
+  "lore": "The elders say there is a god for every aspect of existence, every creature, every force. If this is true, then the Crooked Mask's domain is that of corruption, for the weapon he wields is brought by temptation. How do we slay a god, especially one with such a dark influence over the weaker survivors among us? When we have endured on so little for so long, how do we hold back when what we need most seems to be offered so freely? Many in Gravehold murmur that behind its grim visage lies a cruel and desolate grin. There is a noise it makes, a sort of laugh one can hear just under the bells and the screams.",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

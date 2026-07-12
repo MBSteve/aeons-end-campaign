@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Garu",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Garu",
+  "infobox": {},
+  "overview": "Garu is the oathsworn protector of Yan Magda , a hulking brute with strange crystalline protrusions jutting from his shoulders and elbows. His memory prior to his time with Yan is lost to him. He is powerful, trained by Yan, though not a natural mage. With Torch he easily focuses any player's breaches from the very beginning of the game, and has the raw power to do up to 18 damage with his special ability Colossal Force .",
+  "ability": "Spend 5 charges to activate this ability during your main phase: Discard up to four of your prepped spells. Deal 2 damage plus 4 additional damage for each spell you discarded divided however you choose to the nemesis or any number of minions.",
+  "lore": "My first day in Gravehold, a child in the hovels asked if I was a monster. Though I laughed, the words cut deep. I see the way they look upon me, with doubt, with horror. In truth, I cannot remember being anything other than this. I wandered the void, then ended up here. There is no more to my story. My life before is but an echo, a single familiar sound deep in the hollow of my heart. I hear a voice, a child's voice. And under the rasping of my breath, its wordless cries fill me with dread and longing. I can taste the name, but never enough to utter it aloud. I knelt that day in the hovels, and forced a smile upon my face. 'The world is full of monsters, little one. But not all of them are bad.'",
+  "strategy": "Gary wants to find a way to crack at least one of his breaches open early, but 2 is still really good for him. An opening 4 turns I often go for is: Turn 1: Focus III Turn 2: Focus III with Torch and buy a 3-cost gem. Turn 3: Open III Turn 4: Open II",
+  "trivia": "",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

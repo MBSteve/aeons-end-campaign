@@ -1,0 +1,16 @@
+{
+  "type": "nemesis",
+  "name": "Hollow Crown",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Hollow_Crown",
+  "infobox": {},
+  "overview": "One by one, mages of Gravehold have been slowly seduced to join the Hollow Crown. They abandon their posts and pledge their lives for this creature. The Crown works through these once-mages, gaining power through greater crowds of followers and their blood magic. Only by stamping out this growing cult can The Hollow Crown be defeated. The Hollow Crown has only 1 life, however it cannot be killed by normal means. It uses a secondary deck of acolyte-minions; these are its followers, and each casts Blood Magic effects on the players or Gravehold. One Blood Magic effect resolves when The Hollow Crown unleashes, although many of the Hollow Crown's tier 3 cards resolve the effects of all acolytes in play. The players must defeat these followers to win (end a turn with no acolytes in play).",
+  "setup": "Hollow Crown's starting life is 1. Shuffle all of the acolyte cards together and place them facedown to form the acolyte deck. Draw two cards from the acolyte deck and place them into play. When playing with beginner rules , discard the top card of the acolyte deck.",
+  "unleash": "",
+  "additional_rules": "",
+  "strategy": "",
+  "lore": "There are dark forces at work within Gravehold, machinations, schemes, conspiracies. Our numbers wane, even with the arrival of Yan Magda and her companions. Faith is the one thing that has kept us alive, and yet it is the very thing the Hollow Crown desires most. Its acolytes were all once mages, practicing forbidden rituals in the rubble of the Craghollows. Blood magic, the foulest practice our kind can commit. Who taught them remains a mystery, but through their devotion the Crown is unstoppable. The Crown is different than the others. It compels reverence in those that look upon it. It inspires awe, not fear. It sees us not as victims, but as would-be worshipers. Gravehold is a consummate cage for its subject, therefore there is little reason to destroy it. Ohat says there is no fate worse than death. He is wrong. \" ― Indira, Breach Apprentice",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

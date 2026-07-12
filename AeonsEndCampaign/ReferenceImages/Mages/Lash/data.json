@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Lash",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Lash",
+  "infobox": {},
+  "overview": "Lash provides a support role, and focuses on manipulating the turn order deck for the mages' advantage. His Quicken Thought ability returns a player's turn order card to the deck, essentially allowing a player to take an extra turn. Quartz Shard allows Lash to look at the top card of the turn order deck , and decide to keep it there or move it to the bottom of the deck.",
+  "ability": "Spend 5 charges to activate this ability during any player's main phase: Shuffle any player's turn order card into the turn order deck. That player suffers 1 damage.",
+  "lore": "Like the jagged rocks around us, these are hard times. You can see it reflected in the eyes of even the heartiest folk: the fog of constant dread looming large within them. But me, I laugh, I smile. For any day is worth living well, no? What other use would it be? We are the lucky ones, though our journey may be paved with strife. I laugh anyway. Smile anyway. Let my voice be heard ringing against the wall of the cave, echoing into nothing. If today be my last, then let it also be my best. Often I stare down at the city from the balustrade, the dirt market being my favorite place to contemplate. The good people there, peddling their wares, the cacophony of their haggling, the scent of salted meat and brine. And I think to myself, \"The world does go on.\" And so it does, in spite of our trials, our great adversity. The people in the market, they still find it within themselves to sit at their stall and hope for a good day's profit. To savor the banter of a spirited haggle. To cook a simple yet tasty meal to share with loved ones. And at night in their hovels, they dream against the dark. There is no beauty in this world or any other greater than that.",
+  "strategy": "Lash is a unique support mage in that he can sustain himself in a solo game just as much as he can help others. While creating an infinite loop is unlikely, Lash in a solo game can end up taking multiple turns in a row by using his ability repeatedly. Quicken Thought is at its best when the turn order deck is empty - that way, the card you shuffle in is guaranteed to be drawn next turn. Lash can target an exhausted player with Quicken Thought, but it will instead deal 2 damage to Gravehold due to the mage being exhausted. Quicken Thought can be activated during any player's main phase, so it can be used if Lash's allies give him enough charges via cards like Ignite . Opening your II breach during your second turn of the game is often justified, as Lash's starting deck contains 2 Sparks. Lash synergizes well with mages that can heal players, to make up for his ability's damage effect.",
+  "trivia": "",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

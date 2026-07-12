@@ -1,0 +1,16 @@
+{
+  "type": "nemesis",
+  "name": "Thrice-Dead Prophet",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Thrice-Dead_Prophet",
+  "infobox": {},
+  "overview": "The Thrice-Dead Prophet is a mysterious creature of unknown making and power. Each time the prophet has been defeated it has learned and returned more dangerous. It now approaches Gravehold a fourth time, and hopefully the last. If not stopped this time, the Prophet may complete its inscrutable rituals and ascend, becoming truly unstoppable. The Thrice-Dead Prophet introduces two additional ways to lose. If the Prophet is ever at or over 99 health it ascends beyond mortals, and the players immediately lose. The Prophet could accomplish this through its Unleash ability restoring 5 life each time. Yet the more damaged the prophet is, the more dangerous its cards become. The players will also lose if the nemesis deck is ever empty (this normally counts as a win against other nemeses). The prophet collects nemesis tokens, and will discard a nemesis card with enough tokens collected, accelerating the rate the nemesis deck is emptied.",
+  "setup": "Thrice-Dead Prophet's starting life is 40.",
+  "unleash": "",
+  "additional_rules": "",
+  "strategy": "",
+  "lore": "It was thought impossible to kill The Nameless, yet we did just that. Or so we thought... The first time we slew the Prophet, it seemed all too easy. It shambled out of the void, its massive body clad with the faces of gods we no longer remembered. We were upon it quickly, like a swarm of scarabs upon a carcass. It did not fight back, or so it seemed. And in our haste we thought ourselves the victors. The second time we fought the creature, its minions put us to our paces. Frayla , an inexperienced mage, met her end that day, crushed under the enormity of the thing as it fell dead once more. In some death spasm, it took out an entire section of the South Wall, and twenty others with it. The third was meant to be the last. Sparrow lopped of its faceless head, but it mattered not. Without Yan Magda and the others, Gravehold would have met its end that day. The Prophet lay still as stone for an hour this time. Then, from the stump of its neck, the Umbra Titan emerged. This beast took nine more mages' lives before Ulgimor forced it into The Depths . And that was our only victory that day: the accidental creation of Ulgimor. We now know that each victory was merely a feint, a test of our mettle and skill. Let the fourth time the Prophet dies be its last and final Death. \" ― Indira, Breach Apprentice",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

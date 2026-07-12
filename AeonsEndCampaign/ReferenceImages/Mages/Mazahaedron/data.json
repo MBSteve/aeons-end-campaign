@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Mazahaedron",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Mazahaedron",
+  "infobox": {},
+  "overview": "Mazahaedron is the last of the henge mystics. The Conclave is an order of sister mages. The henge mystics were their brother counterpart in The World That Was, shamans, prophets, and augurs. Mazahaedron believes that the world is a massive ancient organism and that they have taken shelter within its body, a sacred place, the very heart of the world. To this end, he refuses to let his feet touch the ground out of reverence, perpetually levitating. Mazahaedron is a supportive mage, with a unique card, Worldheart Shard , that benefits others if it's to be used to its fullest potential. Mazahaedron's ability Underearth Mantra gains him low-cost gems, while also healing Gravehold.",
+  "ability": "Spend 4 charges to activate this ability during your main phase: You may gain a gem that costs 4 or less from any supply pile. Gravehold gains 4 life.",
+  "lore": "If one listens, this cave speaks an ancient tongue. We are reminded that the world is a living, breathing thing. A sacred beast in which we thrive. Here, under its skin, inside its very heart, most remain unknowing, and fewer still grateful to behold such a thing. 'Worlds within worlds,' as the henge mystics say. 'Lights within lights.' I marvel at the wonder that surrounds me, the life that burgeons in spite of our bleak ordeal. There is a wisdom in every stone, a truth in every shadow. The echoes of our own voices are but a mirror. And for this very reason, I have never, nor will ever, let my feet touch the hallowed earth below. And though my brothers fade in the grim quiet above, their wisdom remains my compass. Open your eyes, I say. Listen. The Nameless are but weak fevers to this world, and like all sickness, they will pass.",
+  "strategy": "Your signature card is good at gaining cards, but it's easy to forget how cards can fall off hard in terms of value, especially when you're not the one gaining them. At a point, cards hit very heavy diminishing returns. Pay attention to how much use a card would get before the game ends.",
+  "trivia": "",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

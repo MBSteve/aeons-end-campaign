@@ -1,0 +1,16 @@
+{
+  "type": "nemesis",
+  "name": "Maiden Of Thorns",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Maiden_of_Thorns",
+  "infobox": {},
+  "overview": "The Maiden of Thorns is a bladed horror, bent on extracting as much pain from each inhabitant of Gravehold. The Maiden of Thorns places a double-sided token on the cheapest supply pile at the start of the game. As the game progresses, Maiden of Thorns will do damage to the players or Gravehold depending on how many cards are left in the pile beneath the token, and which token side is face-up. The Maiden will move the token to different piles, and upgrade the token to do higher amounts of damage.",
+  "setup": "Maiden of Thorns's starting life is 80. The supply must contain at least five supply piles with different costs. Destroy two cards in each gem supply pile. Place the Thorn marker Gravehold side up on the least expensive supply pile. The supply pile that the Thorn is on is the Thorn supply pile. When the nemesis tier is 2, replace this token with the \"+1 damage\" version of the token. When the nemesis tier is 3, replace this token with the \"+2 damage\" version of the token.",
+  "unleash": "",
+  "additional_rules": "",
+  "strategy": "",
+  "lore": "Adelheim considers the Maiden with strange admiration. After all, it is a weapon of sorts. And like all weapons, its purpose is simple: to be lethal. This is not to say it lacks a mind. In fact, quite the opposite. It revels in cruelty. There is no easy death to be had from this creature or its ilk. Suffering is like air in its lungs, like blood through its vein. Xaxos wonders if it feeds upon knowledge. We have witnessed it supping from the skull of fallen mages many times. Poor Gadymir , just barely earning the moniker of mage, was impaled through his helm. And though the wound was superficial, he forgot his name, his training, everything. Now he pulls a cart in the dirt market for Ohat . Is it not enough to take our lives? Must The Nameless also erase who we are? \" ― Indira, Breach Apprentice",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

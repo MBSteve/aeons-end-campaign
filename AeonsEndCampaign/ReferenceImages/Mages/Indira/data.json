@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Indira",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Indira",
+  "infobox": {},
+  "overview": "During her Apprentice ordeal, Indira was attacked by a Needlemaw after falling into a chasm full of glyph covered columns. She fought off the Needlemaw but was knocked unconscious by falling rock. Yan Magda and Garu found and returned her to Gravehold. As Indira never formally completed her training, she is not a true breach mage; this is reflected by her having only 1 breach available to her. However, Indira is still an offensive mage; her ability Pyromancer's Guile and two copies of her unique Twin Opal allow her to cast spells directly from her hand. This makes Indira capable of reacting quickly, casting spells the same turn she drew them.",
+  "ability": "Spend 4 charges to activate this ability during your main phase: Cast any number of spells in hand. Those spells each deal 1 additional damage. You may destroy a card in your discard pile.",
+  "lore": "Malastar was kind at least. He took my hand and bade me sit before he gently explained Brama 's decision. It was a matter of the proper form, he said. I had not completed the entire apprentice's ordeal. I had not returned to Gravehold alone. Were I to be allowed to call myself a mage without completing the ordeal, other younglings might press for other exceptions. 'We cannot have any weakening of the customs of the mages, for the mages are too important to our survival,' he told me. But no, it would erode the faith of those around me to have to work with me, Brama said, and so it was for the best that I take my gem and my years of study and all the spells I had learned and go become a dirt merchant or sentry upon the balustrade. That is what Brama said. But the truth is, it wasn't for the lack of completing the ordeal. It was because she no longer trusted me. More precisely, she did not trust me upon returning in the company of Yan Magda . So now, in a great irony, I study with Yan Magda. I listen to her tales, her time spent in between worlds. She speaks truths others dare not utter, and for this alone she was branded a heretic. And through her words I hone my skills. How tragic that both women reach for the same goals, and yet cannot reach together.",
+  "strategy": "Perhaps the most important action you can take as Indira is finding a way to free up her Twin Opals so they don't have to cast Sparks all day. The two main ways to do this is to either destroy her sparks or open her III breach, so try and make a plan to do one of those.",
+  "trivia": "",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

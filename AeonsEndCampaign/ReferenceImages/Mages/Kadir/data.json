@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Kadir",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Kadir",
+  "infobox": {},
+  "overview": "Kadir is a powerful support/offensive mage capable of setting up massive damage turns for herself or others with her Otherworldly Gate ability. Emerald Shard allows Kadir to gain 1 or heal any player 1 life.",
+  "ability": "Spend 5 charges to activate this ability during any player's main phase: That player may return up to three spells in their discard pile to their hand. That player may prep up to two spells to each of their opened breaches this turn.",
+  "lore": "I am alone in my hunger to explore the deeps. The elders say the ancient tribes once worshiped a sleeping god somewhere in the maze of tunnels and vaults below. I have journeyed farther than any others and seen many an oddity in the pure black silence, but none yet that resembles a god, asleep or otherwise. There is no peace to be had elsewhere in Gravehold. Woe fills the air like dust, a patina of dread scattered upon everything. But in the deep, ah, in the deep there is peace. In the deep, there is wisdom that wells up from within as your self dissolves into the emptiness. This is why we take the youngling mages there, to decant their minds, to clear their thoughts, even if only for that single pilgrimage. But I believe our true salvation lies beneath the city. Somewhere in the shadows is a place that even The Nameless cannot find. One day I will lead them to it, and they too will know peace.",
+  "strategy": "",
+  "trivia": "Original artwork by FitriaDes: https://www.deviantart.com/fitriades/art/Aeon-s-End-Character-617594942",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

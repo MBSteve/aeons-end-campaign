@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Reeve",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Reeve",
+  "infobox": {},
+  "overview": "Reeve is an offensive mage focused on killing minions, with her ability Quelling Blade able to deal a total of 8 damage spread across two minions, and costing only 4 charges. Obsidian Shard can produce 3 , allowing Reeve an economy swing early in the game, if she is willing to take the damage. Reeve also starts with two breaches that are close to open, making an open level 4 breach fairly easy to get.",
+  "ability": "Spend 4 charges to activate this ability during your main phase: Deal 5 damage to a minion. Deal 3 damage to a different minion.",
+  "lore": "I lost the arm to tainted jade . I felt it creeping through my arteries and lopped it off without a thought. Best to lose the arm and keep the rest, no? Kadir says I was born for this, meant to live here and now in this damnable hole in the ground to fight these things. And she has the right of it. This is who I am, what I am: a blunt instrument to be used against monsters. My life matters not for much more than that. And I am at peace with it. Whenever those bells ring I feel my heart swell as I heave my chopper from its sheath. I smell the air burn as the breach opens and I cannot run there fast enough. We all have a purpose, a gift to give. This is mine.",
+  "strategy": "If there's a 6 cost in the market that really interests you, you can purchase it without giving up your breach development and draw it on turn 4. Just open your II breach turn 1, cast only one spark on turn 2 and focus your III breach, then you'll draw into Obsidian Shard, 3 crystals, and a spark. Cast two of your sparks, and you'll be able to draw straight into that 6-cost card on turn 4.",
+  "trivia": "",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Brama",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Brama",
+  "infobox": {},
+  "overview": "Brama provides a support role through a strong healing ability; Brink Siphon allows Brama to heal one player for 4 life. Buried Light deals 1 damage and gains 1 .",
+  "ability": "Spend 5 charges to activate this ability during your main phase: Any player gains 4 life.",
+  "lore": "My conclave of sisters is long ago gone, all of them ash in the world above. I do not remember their names, only their faces and the brightness in their eyes. Their songs fade in the grey shadows of my many years, and I alone can still hear them. Only Gravehold is more ancient than I. Yet somehow I endure. This city looks to me for guidance, for I have walked a long, wearisome path to stand before them. This is my duty, my burden, my privilege. It was I who counseled them to collapse the mouth of the cave, to entomb us here. It was I who taught the mages to wield the sister-words. Where so many have slipped beneath the shadow, I have remained in light. Many say we are lost, that Gravehold is just that: our grave. They say that, like my sisters, we will be erased, our bones left to molder in the silence of this cave. But glory will be ours again and I will live to feel the sun and wind on my face once more. Faith, younglings. It is our best weapon.",
+  "strategy": "Brama is a simple and powerful support mage, capable of keeping players alive for a long time. However, she has no way of healing Gravehold if its life becomes critical. Opening your II breach on your second turn is often justified, as your deck starts with 2 Sparks (you'll likely have 4 thanks to Buried Light). Brama synergizes well with Lash , since his ability causes players to suffer damage.",
+  "trivia": "",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Ulgimor",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Ulgimor",
+  "infobox": {},
+  "overview": "Ohat was once just a dirt merchant trading in Gravehold's market. But the bizarre creature Ulgimor attached itself to Ohat, acting as his literal shadow, but so much more powerful. The two are now inseparable; Ohat hides and Ulgimor ravages. Ulgimor's special ability Eidolon Shroud allows it to gain 6 life, one of the highest life gains available. If Ulgimor is defeated, then it is a great support character, healing allies for 5 life. Ulgimor's unique card, Coal Shard , drives Ulgimor's life down quickly while granting the highest gain of any mage's started gem.",
+  "ability": "Spend 6 charges to activate this ability during your main phase: Gain 6 life. If you are exhausted, any ally gains 5 life instead.",
+  "lore": "I am a coward and cowards are not meant to fight wars. As cowards are wont to do, I ran when I saw the Umbra Titan heave from the feigned corpse of the Prophet , pushing fellow dirt merchants and even a child so that I might save my own life. When the Titan's shadow loomed over me, everything changed in an instant. 'Ulgimor.' This is the only word it says, not that anyone else can hear it. Thus I have taken to calling the creature this name, as have others. It is everything I am not, yet the breach mages insist it is, by extension, some part of me. They have taught it their ways, giving me some lump of enchanted coal to try and control the thing. As it frenzies in battle, I cower behind the shield Adelheim forged, waiting for it all to end. But Ulgimor would never let this happen, for without me no shadow would be cast. I take what little comfort I can in this notion, though we both know the life of a coward suits me better than that of a hero.",
+  "strategy": "Pay very close attention to your first couple of turns. You get insane amounts of aether early, but will usually have to \"pay it back\" by buying charges, so you have to use your early high-aether turns to your advantage.",
+  "trivia": "",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

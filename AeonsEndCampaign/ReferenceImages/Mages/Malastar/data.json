@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Malastar",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Malastar",
+  "infobox": {},
+  "overview": "Malastar can be both a supportive and offensive mage, depending on how he is played. His unique starter card Immolate can be used to gain charges if left in a spare open breach, and his Gift of Aether ability will gain impressive spells for himself or others, and can swing the game drastically due to the immediate nature of the ability. Malastar has only three breaches available, but can open a III breach on the first turn, granting +1 spell damage immediately.",
+  "ability": "Spend 6 charges to activate this ability during your main phase: Gain a spell from any supply pile. You may prep that spell to any player's opened breach.",
+  "lore": "You can always tell which younglings will be mages. Mostly, they are girls, but sometimes a boy-child will carry the spark, though weaker than their sister-kind. Training each of them is my sad calling, for mages come and go like the black days in this place. First, they learn the sister-words, the mage's tongue, the language of all things. Next we fashion them a gem, one that is theirs alone, a conduit for their nascent power. After this, Kadir takes them deep within the bowels of the cave, where they must find their way back with only their gem to protect them. Many find their way home, but we have lost many would-be mages in my years. A student's last task is to slay a beast, armed again only with their gem and their wits. The child is dropped down a shaft outside Chasmwalk, left alone with whatever miscreation we have snared from the void. Sometimes the creature is wounded, weak, but always they are hungry. A student that navigates this ordeal is named apprentice. After that, one need only survive long enough to earn the rank of mage.",
+  "strategy": "Pay attention to the turn order deck when you use your ability. It can especially make the difference if a scary minion is on the field!",
+  "trivia": "",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

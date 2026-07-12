@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Gex",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Gex",
+  "infobox": {},
+  "overview": "Gex is a flexible mage, capable of removing cards from other mages' decks and taking them for herself through her ability Vimcraft Oath . Gex could be supportive, removing low-cost cards from allies' decks, making them more efficient. Alternatively, other mages could work together to give Gex high valued cards, increasing her power very quickly. Shattered Geode allows Gex to take the top card of one ally's discard deck, adding it to her hand. There is no restriction on what cost or type of card this is. Gex's ability allows her to destroy two 0 cards from her discard pile, increasing the efficiency of her own deck.",
+  "ability": "Spend 5 charges to activate this ability during your main phase: Destroy up to two cards in your discard pile that cost 0 . Any ally draws one card and gains 2 life.",
+  "lore": "A hammer is the perfect weapon for our fight, because it doesn't have to be a weapon. Swords must be swords, spears must be spears, and bows must shoot arrows. But a hammer can be a tool, can build as well as destroy. A hammer helps us remember we have something to protect, something beyond our fight. Brama and I have had many long discussions about how appearances matter, and how they don't, and how to look inside them to the truth. I remind her of my training, when I chose my gem. Even she looked at me askance when I returned with a plain grey rock. Until I showed her the spell to look beyond the surface to the beautiful geode within. Hidden power, hidden reasons, these suit our purposes best. Especially now, when we are surrounded by so many others with hidden thoughts. Neither I nor Brama can fully divine the mind of Yan Magda , nor the mind of the being we once called Mist . Both claim to be allies. Both have helped in the fight so far, that much must be admitted. Nevertheless, I will keep my greatest reasons, and my greatest powers, in reserve. Just in case.",
+  "strategy": "Synchronize your signature card with a card that lets allies discard for higher consistency. Also, if you are an ally of Gex, consider putting a powerful card on top of your discard pile to let Gex pick it up.",
+  "trivia": "",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

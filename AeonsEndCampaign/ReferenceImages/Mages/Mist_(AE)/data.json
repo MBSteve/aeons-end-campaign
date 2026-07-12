@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Mist (AE)",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Mist",
+  "infobox": {},
+  "overview": "Mist provides support role through both ability and unique card. Mist cast Divine Augury on her turn to allow an ally to draw 4 cards. Garnet Shard allows Mist to gain 1 or cast any player's prepped spell (including her own spell).",
+  "ability": "Spend 5 charges to activate this ability during your main phase: Any ally draws 4 cards.",
+  "lore": "The mages, they all think me brave, their closest substitute to Thraxir . His death was like all the others: swift and cruel. It is true, I have waded in the fire of the breach three times. Each time I have left splinters of myself behind, little shreds ripped from my bleeding soul. Though many beasts have been quieted by my blade, I must confess each one of them has scared me more than the last. I am not brave. Not like Thraxir, not like Brama . I simply do this because it was asked of me. I fight not truly for Gravehold alone, but selfishly - I would risk everything for the hope of leaving this place. I was made a dagger captain and taught the sister-words to wield the breach, but I am no difference than any one here: scared, desperate, and willing to die for an opportunity to once again be alive.",
+  "strategy": "Instacasting your own strong spell often makes you draw it a turn sooner. Try to keep your signature card synchronized with a strong spell!",
+  "trivia": "Original artwork by FitriaDes: https://www.deviantart.com/fitriades/art/Aeon-s-End-Character-617594720",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

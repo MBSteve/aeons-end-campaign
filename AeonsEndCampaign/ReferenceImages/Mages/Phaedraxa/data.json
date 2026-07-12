@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Phaedraxa",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Phaedraxa",
+  "infobox": {},
+  "overview": "Phaedraxa provides a support/defensive role as a mage. With her Auspex Rune ability she can prevent all damage to Gravehold and all players for one turn. Tourmaline Shard allows an ally to take 1 damage, but then destroy one card from their hand. Phaedraxa has only 3 breaches compared to the typical 4 of most breach mages.",
+  "ability": "Spend 5 charges to activate this ability immediately after a turn order card is drawn: Prevent any damage that the players or Gravehold would suffer during that turn.",
+  "lore": "Time is a web, like the ones the howling spinners weave in the deeps. Each strand reaches backwards and forward at once. What was, what is, what will be, there is no difference in the web. Silk is silk. Time is time. I spoke the sister-words before they were taught to me, before I could walk, but after the world was gone. Brama says that is because the wraiths of the sisters encircle me beyond the veil, but she understands not. There is no host of sister-ghosts guiding my path. There is no chorus of voices within me, only my own. I merely see the web and all trapped in it. I look at the survivors of this city, this beautiful and stark place hidden in the deep shadows. And in the web, I behold Gravehold, as it was and as it will be. I peel aside the door of a breach. And in the web, a breach widens, much like an eye struggling against the dark. I am born and I die. The Nameless are much the same. This is a web, no different, no more.",
+  "strategy": "You can open your IV breach on turn 2. However, it's also possible to focus your III, hold a crystal, and open that on turn 2. You may want to use this opening if you have focus in the market, since it will allow you to develop your breaches even more easily.",
+  "trivia": "",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

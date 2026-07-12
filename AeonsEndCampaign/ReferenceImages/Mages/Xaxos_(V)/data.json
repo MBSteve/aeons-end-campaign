@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Xaxos (V)",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Xaxos_(The_Void)",
+  "infobox": {},
+  "overview": "Xaxos first appeared in the Core box. His story continues in The Void , as he continues to explore dangerous and powerful alternatives to the accepted magic of the other breach mages. Xaxos requires sacrifice from his allied mages to be powerful. His unique spell, Pyre , requires an ally to discard a card to gain its full effect. Xaxos' ability Praetorian Halo also requires an ally to discard a card from hand, this time at random. In return, Xaxos is able to gain many small benefits; 1 life, a focused breach, and a card destroyed.",
+  "ability": "Spend 5 charges to activate this ability during your main phase: Any ally gains 1 charge and discards a random card in hand. Focus one of your breaches. Gain 1 life. Destroy a card in your hand or discard pile.",
+  "lore": "There are others now. Others like me. Others that believe there is a wisdom to be had in our supposed enemies. Yan Magda only reinforces this theory, as she walked between worlds with her gaggle of oddities for aeons. The void may yet be our salvation, our ascension. But we must be caution, lest we face the gallows. As we have seen since Yan's arrival, Brama is a suspicious soul. Thus we meet in the ruins of the Cragbellows, clandestine and clad in robes. Behind masks, we practice our blood magic and peer into the fractured barrier between our world and theirs. The dead air that spills from the breach carries whispers. And in time, those whispers have told us what must be done. Were the others to hear these whispers, they would say the end is near. And they would be right. The end is fast approaching. But not ours. Our time is just beginning.",
+  "strategy": "Your ability isn't particularly high impact, and that's okay. The scaling aspect of it means that you'll want to be activating it early, if at all, so I'd avoid getting cards that get charges. Most of his power comes from his signature card trivializing early minions.",
+  "trivia": "",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "nemesis",
+  "name": "Blight Lord",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Blight_Lord",
+  "infobox": {},
+  "overview": "The Blight Lord was the first Nameless to arrive to The World That Was, and immediately started destroying cities. It turns everything it touches to glass, from cities and people to the very ground. The Blight Lord uses a secondary deck of Tainted Jade in addition to its normal nemesis deck. These gems are forced into players' decks and hands; players must spend to remove the cards from their hands. If players are tempted into using the Tainted Jade, it will cost them life. The Blight Lord also moves along a Tainted Track, moving closer and closer to Gravehold. If Blight Lord reaches the end of the track the players lose, as the city of Gravehold is reduced to glass.",
+  "setup": "Blight Lord's starting life is 70. Add an additional supply pile consisting of a number of Tainted Jade equal to the number of players plus four. Place the Tainted Track next to the nemesis mat. Place the Blight Lord token on the first space of the Tainted Track.",
+  "unleash": "",
+  "additional_rules": "",
+  "strategy": "",
+  "lore": "The Blight Lord was the first of The Nameless to touch The World That Was. With a quick and deliberate hand, the great city of Karek was turned to a mountain of green glass, its many thousands of denizens entombed within. The harbor towns of M'hlark were next to fall, the warm waters lapping against the jagged, frozen shapes of those caught unaware. Even the very earth below its shadow became glass, left to shatter into crude and useless shapes. The elder of the First Tribe bade his people to pay tribute, for in his ignorance he considered it a divine messenger from the gods they worshiped then. Of those that knelt before it, none were spared. And thus the Blight Lord was given its name, for the certain ruin of our people followed it like some merciless plague.",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "nemesis",
+  "name": "Gate Witch",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Gate_Witch",
+  "infobox": {},
+  "overview": "Gate Witch specializes in manipulating the Turn Order Deck . After attaining enough nemesis tokens from unleashing, the Witch will return a nemesis turn order card from the discard pile back into the turn order deck. Various nemesis cards also return nemesis turn order cards to the deck, or reset the deck while leaving one player turn order card out. Three of the Gate Witch's nemesis cards are not discarded from play when resolved, but rather return to the bottom of the nemesis deck: Hasten , Infinite Enmity , and Rift Scourge . These cards make a 'milling victory' (winning by surviving through the whole nemesis deck) impossible when fighting the Witch. The players will cycle through these three cards if they survive through the rest of the nemesis deck.",
+  "setup": "Gate Witch's starting life is 70. Gate Witch gains one nemesis token.",
+  "unleash": "",
+  "additional_rules": "",
+  "strategy": "",
+  "lore": "Yan Magda says, 'In the void I saw the ragged face of the infinite. Your people call it the 'Gate Witch.' The infinite is the Witch's dominion, to bend, to break. 'Time is like water,' Brama says. 'It flows through us, around us. Our lives are but drops of blood in a great confluence.' In my short years, I have seen the malice of time. Our future and past are but a red smear across its maw. 'The end is written in the ash of the beginning,' Phaedraxa proselytizes. As I stare into the dim light of the city, ruminating on the wisdom of these great women, the bells toll once more. I smell the burnt air of the breach, its heat upon my face. Another battle will ensue, and what may very well be our last. \" ― Indira, Breach Apprentice",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}

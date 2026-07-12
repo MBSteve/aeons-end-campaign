@@ -1,0 +1,15 @@
+{
+  "type": "mage",
+  "name": "Quilius",
+  "wiki": "https://aeonsend.wiki.gg/wiki/Quilius",
+  "infobox": {},
+  "overview": "Quilius is an offensive mage, capable of increasing her power through the course of a game, if she plays carefully. Quilius starts with 2 opened breaches, and 4 spells between her starting cards. If she uses her unique Extinguish to land the killing blow on a minion , then she will gain a trophy token. The more trophies Quilius collects, the more damage she does with her special ability Quietus Vow .",
+  "ability": "Spend 5 charges to activate this ability during your main phase: Deal 2 damage for each Trophy token you have.",
+  "lore": "One. Two. Three. Four. Five. One. In the monastery cavern, when I was a child. The morning I earned some of these scars. So far away, back in The World That Was. The monks found me first, bleeding and blasted. When they asked what had happened, I said only that I killed it. What else needed to be said? They didn't believe me until they found its body under the ruined wall. The monks started training me the very next day. Two. At the end of my training. A test of my skills. The monks suggested a lesser being, but I wanted to bring back one of my own choosing, one that would move me further on the path. I dragged its head behind me for days before I found my way back. I graduated late, but with highest distinction. Three. I lay in wait for this one. It had to be this one, for the path, and this place was the only place where one of these beasts had ever been seen. I lay in wait for a long time. By the end of the third year, I began to despair of its existence. My patience was rewarded. The greatest lesson an assassin learns is not how to kill. It's how to wait. Four and five are yet to come. But I know they will come to me and offer themselves through combat. And I will kill them and move along the path. Each step brings me closer. Each kill brings me closer to the mind of the gods. Look into the eyes when you make a kill. You may get a glimpse of the creature's true master.",
+  "strategy": "Quilius is notably weak. A developer-approved variant is to focus her III breach twice and give her a trophy token at the start of the game. Variant by Derrick Vo. Ruling screenshot. If you want to play her without artificially buffing her, ignore her ability and trophies entirely.",
+  "trivia": "",
+  "images": {
+    "front": "front.jpg",
+    "back": "back.jpg"
+  }
+}
