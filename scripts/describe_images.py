@@ -102,7 +102,7 @@ def describe_image(image_path: Path) -> str | None:
 
     print(f"    Describing {image_path.name}...")
     try:
-        response = requests.post(OPENROUTER_URL, headers=headers, json=payload, timeout=120)
+        response = requests.post(OPENROUTER_URL, headers=headers, json=payload, timeout=300)
         if response.status_code != 200:
             print(f"    ERROR: API returned {response.status_code}: {response.text[:300]}")
             return None

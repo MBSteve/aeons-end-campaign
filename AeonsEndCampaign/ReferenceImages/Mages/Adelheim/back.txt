@@ -1,11 +1,43 @@
-A full-body depiction of a male human character.
+This is a detailed visual description of the character and scene depicted in the image, intended as reference for a photorealistic CGI artist.
 
-**Physical Features:** Bald head, with a short, grey-white beard and mustache. His face is weathered, showing age lines, and he has an intense, slightly open-mouthed expression.
+**Character Overview**
+*   **Subject:** A human male, appearing to be in his late 40s or 50s.
+*   **Build:** Stocky, muscular with broad shoulders and a thick chest.
+*   **Pose:** Standing full-body shot, straight-on view. Legs are planted firmly, slightly apart. Both arms are raised to shoulder height, elbows bent at approximately 90 degrees, forearms vertical. Hands are open, palms facing slightly upwards and inwards, fingers splayed and tense, seemingly channeling energy.
+*   **Expression:** Intense focused stare. The brow is heavily furrowed and scowling. The mouth is slightly downturned and set.
+*   **Condition:** The face shows sweat sheen on the forehead and cheeks.
 
-**Attire:** He wears a detailed dark leather vest over a light-coloured collared shirt with rolled-up sleeves. The vest features circular conduits that glow with a soft teal light. Around his waist are multiple leather belts with pouches and a hammer holster, and a purple cloth sash. He wears dark trousers with one knee pad that also has glowing blue conduits, prominent boots, and dark leather gauntlets on his forearms.
+**Head and Features**
+*   **Hair:** Completely bald head. Short, cropped grey beard and mustache, showing stubble texture on the cheeks and jawline.
+*   **Eyes:** The eyes are glowing with an intense, bright cyan/electric blue light, fully obscuring pupils and irises. The glow emanates outwards tightly around the eye sockets.
+*   **Skin Details:** Weathered skin, tanned. Deep crow’s feet around the eyes and distinct forehead wrinkles.
 
-**Pose and Action:** Standing upright, his legs slightly apart, looking towards the viewer. His arms are raised, elbows bent, with open palms facing forward. His hands and forearms are encased in a intensely bright blue-white magical energy emanating in tendrils.
+**Magical Effects**
+*   **Hands and Forearms:** Both hands are enveloped in intense cyan magical energy. The energy emanates from the palms and fingers, creating bright, blown-out cores of light that trail upwards in wispy, electric tendrils. The skin on the hands and lower forearms is heavily backlit by this aura, with veins appearing to glow blue beneath the surface.
+*   **Armor Glow:** Several components on the armor emit the same cyan light (detailed below).
 
-**Setting:** The background is a dark, broken landscape with steps and crumbling ancient-looking structures. There are soft, warm lights in the distance and some foliage. The overall image is dark and shadowed, with the primary light source being the glow from the character's hands and the conduits on his gear.
+**Clothing and Equipment**
+*   **Shirt:** Underlayer is a thick, off-white cotton or canvas shirt with a turned-up collar. Sleeves are rolled up above the elbows, bunched and wrinkled. The fabric appears slightly stained and rough.
+*   **Torso Armor:** Over the shirt is a complex leather cuirass/harness structure made of thick, dark brown leather panels.
+    *   The main chest panel features three prominent, circular glowing cyan ports set in metallic rims (organized in a triangle pointing down).
+    *   Stylized swirl patterns are embossed into the leather on the upper chest and around the ports.
+    *   Thick, translucent tubes containing pulsing cyan liquid run from the back over the shoulders and connect into the chest armor sides.
+*   **Left Shoulder:** A reinforced dark leather pauldron with a metallic rim is strapped to the left shoulder.
+*   **Waist:**
+    *   **Belt:** A wide, heavy brown leather utility belt with a large, rectangular brass buckle.
+    *   **Sash:** Beneath the belt is a deep blue/violet fabric sash, wrapped around the waist and draping slightly over the left hip.
+    *   **Pouches:** Several leather pouches are attached to the belt. A large, squarish green canvas olive-drab utility bag hangs on the right hip.
+*   **Legs:** Loose-fitting, heavy dark charcoal grey or black trousers made of thick twill wool or denim. Reinforced knee panels.
+    *   **Right Knee:** A round, leather armored kneepad with a single small cyan glowing port near the top.
+*   **Feet:** Heavy, dark brown leather work boots. Scuffed toes, thick soles, and visible straps across the instep.
 
-**Text:** A block of handwritten-style text is present on the right side of the image.
+**Lighting and Color Palette**
+*   **Primary Light Source:** The character is primarily lit by the intense cyan glow from his own hands and armor. This creates dramatic, cool-toned highlights on his face, forearms, and the edges of his clothing.
+*   **Secondary Light Setting:** The environment is dark, suggesting twilight or night. There is vague warm, orange ambient light coming from the bottom right, casting subtle warm tones on the lower legs and background elements.
+*   **Color Palette:** High contrast. Dominant earthy tones (dark browns, charcoal greys, off-white, olive green) are contrasted sharply by the saturated cyan/electric blue of the magic and armor elements.
+
+**Background Setting (Card Art Context)**
+*   The character stands against a painted backdrop showing wide stone steps ascending into a dark, indistinct ruin or city structure.
+*   Silhouetted figures are visible in the mid-ground on the left.
+*   The overall environment is dark and atmospheric with a textured, painted canvas feel.
+*   **Text:** White serif text occupies the right side of the image containing lore description.

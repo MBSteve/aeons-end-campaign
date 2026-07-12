@@ -1,0 +1,57 @@
+This is a detailed visual description of the character **Adelheim** from the provided image, intended as reference material for a CGI artist.
+
+---
+
+### **Character: Adelheim**
+
+#### **1. Face and Expression**
+*   **Head:** Completely bald with no visible stubble. Cranial structure is defined.
+*   **Skin:** Weathered, tanned skin with visible texture, including forehead wrinkles, crow's feet, and nasolabial folds, indicating middle age.
+*   **Scars:** A prominent, distinct, jagged scar runs vertically from above the left eyebrow, bisecting the eye socket, and ending on the upper cheekbone. The scar tissue is raised and paler than the surrounding skin.
+*   **Eyes:** The eyes are completely lacking pupils or irises, glowing with a uniform, intense pale cyan/teal light. The glow is self-luminous but casts very little light on the immediate surrounding skin skin.
+*   **Facial Hair:** A short, dense beard and mustache, neatly trimmed but coarse. The colour is salt-and-pepper: dark brown mixed heavily with grey and white hairs, particularly on the chin.
+*   **Expression:** Stern, serious, and focused. The brow is furrows, and the mouth is set in a neutral, determined line.
+
+#### **2. Age and Build**
+*   **Apparent Age:** Late 40s to mid-50s.
+*   **Build:** Heavy set, broad-shouldered, and muscular. The neck is thick. He appears physically powerful and solid.
+
+#### **3. Pose and Framing**
+*   **Framing:** The shot is a medium close-up, cropped just below the hips.
+*   **Body Orientation:** Torso faces slightly towards the viewer's left.
+*   **Head Orientation:** Turned slightly right to face forwards.
+*   **Arms:** The right arm is down at the side (mostly obscured). The left arm is bent at the elbow, forearm held horizontally across the midsection.
+
+#### **4. Full Outfit (Layered from Inside Out)**
+*   **Undershirt:** A heavy, woven fabric shirt in an off-white/cream colour, visible on the arms and collar area. It shows texture of coarse cotton or linen, with dirt stains and wrinkles. The sleeves are rolled up untidily above the forearms.
+*   **Chest Armor:** A large, heavy metal breastplate covers the torso.
+    *   **Material:** Dark, aged metal (gunmetal grey to bronze tones) with a pitted surface and scratched patina.
+    *   **Details:** Embossed with filigree patterns and swirling designs. Several circular ports with glowing teal lenses are embedded in the surface.
+    *   **Strapping:** Held in place by thick, dark brown leather straps. A major strap with brass buckle detail crosses over the right shoulder. Smaller straps and buckles are visible on the left side.
+*   **Right Shoulder Armor (Pauldron):** A large, articulated metal pauldron matching the breastplate in material and style. It features multiple overlapping plates and additional glowing teal ports.
+*   **Waist:** A broad, dark leather belt with a simple rectangular bronze buckle is partially visible at the bottom of the frame.
+*   **Trousers:** Dark, indistinct heavy fabric trousers are barely visible at the very bottom edge.
+
+#### **5. Equipment and Props (Harness & Gauntlet Mechanism)**
+*   **Backpack Mechanism:** A bulky, mechanical apparatus is strapped to his back, mostly hidden in shadow behind the right shoulder. It includes visible metal tanks, gears, and frameworks.
+*   **Cabling/Hoses:** Thick, ribbed hoses connect the backpack mechanism to the front armor and the left arm. These hoses contain a fluid that glows with the same cyan light.
+*   **Left Gauntlet/Device:** The left forearm and hand are encased in a massive, complex mechanical gauntlet made of dark metal plates, gears, and tubing.
+    *   **Details:** It features multiple glowing teal elements and lenses. Fine, pale teal electrical arcs jump between components near the wrist and hand. The design is industrial and functional.
+
+#### **6. Hands**
+*   **Right Hand:** Not visible.
+*   **Left Hand:** Encased within the mechanical gauntlet. The fingers are partially obscure by metal plating but appear clenched or gripping part of the gauntlet's internal mechanism across the midsection.
+
+#### **7. Background Environment**
+*   **Setting:** An outdoor, fortified settlement or industrial area at night.
+*   **Details (Blurred/Bokeh):** Stone walls and blocky structures are visible in the mid-ground. Warm orange light sources (braziers or windows) illuminate parts of the background structures. The far background is dark blue/black, suggesting distant cliffs or a night sky. The ground is indistinct dirt or stone.
+
+#### **8. Lighting**
+*   **Primary Source (Practical):** The intense teal glow from the character's own equipment (chest ports, pauldrons, hoses, gauntlet lenses) provides cold illumination onto his skin, shirt, and the metallic surfaces of the armor.
+*   **Secondary Source (Environment):** Warm orange/yellow light from the background (behind him and to the right) creates rim lighting on his right side and illuminates atmospheric dust.
+*   **Overall Atmosphere:** High contrast, moody lighting with deep shadows under the chin, arms, and equipment.
+
+#### **9. Colour Palette**
+*   **Dominant:** Deep cool tones (dark blues, greys, blacks).
+*   **Accent 1 (Glow):** Intense, vibrant cyan/teal.
+*   **Accent 2 (Warmth):** Muted earthy browns (clothing/leather) and warm oranges (background lights).
