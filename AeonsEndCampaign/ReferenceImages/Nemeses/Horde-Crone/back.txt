@@ -1,0 +1,39 @@
+This image is a close-up shot of a character illustration presented on a trading card. The following details focus regarding the character depicted in the upper illustration for the purpose of photorealistic CGI recreation.
+
+**CHARACTER CONCEPT**
+The character, identified by the text below as "HORDE-CRONE," is a fused bio-mechanical entity. It appears to be an ancient construct combining skeletal, insectoid, and mechanical elements, devoid of flesh or skin.
+
+**HEAD AND FACE**
+*   **Structure:** The head is an elongated, smooth, domed cranium, resembling polished bone or a hardened insect carapace. It tapers downwards.
+*   **Features:** The face is completely featureless—no eyes, nose, or mouth are visible except for a smooth, curved facial shield.
+*   **Cranial Details:** The sides of the head show subtle segmentation or plating. A large, rigid, collar-like structure flares upwards and outwards from the neck area, framing the lower half of the head.
+*   **Expression:** Impassive and inhuman due to the lack of facial features.
+
+**TORSO AND BUILD**
+*   **Build:** Extremely skeletal and emaciated. The proportions are inhumanly thin.
+*   **Torso Structure:** A prominent, segmented central spine supports a ribcage-like structure that curves around a hollow, deeply shadowed interior cavity. There are no internal organs visible.
+*   **Chest Detail:** Positioned low on the central torso, between the lower ribs, is a decorative plate shaped like stylized, spiky foliage or a segmented carapace.
+*   **Materials & Texture:** The entire body consists of a material that looks like aged, burnished greenish-gold metal or ancient, calcified bone. The texture is hard, rigid, and slightly pitted, showing signs of age and oxidation.
+
+**ARMS AND HANDS**
+*   **General Construction:** The arms are long, thin, and multi-jointed. They show a clear mix of organic-shaped bone plating and mechanical components, including thin hydraulic pistons and cylinders bridging the elbow and shoulder joints.
+*   **Pose:** The figure is oriented towards the viewer, reaching forward with both arms extended.
+*   **Left Hand (Viewer's Left):** A large, skeletal claw with four elongated, pointed, bone-like fingers. It is held open in a grasping gesture.
+*   **Right Hand & Weapon:** The right forearm and hand are integrated with a complex mechanical weapon.
+    *   A large syringe or piston mechanism is mounted on the forearm.
+    *   A thick, ribbed hose or cable extends from the back of this mechanism towards the upper arm.
+    *   A long, prominent needle or spike extends forward from the mechanism, positioned between the skeletal fingers of the claw-like hand.
+
+**LOWER BODY**
+*   Not visible. The illustration passes out of frame at the hip level.
+
+**LIGHTING AND ATMOSPHERE**
+*   **Lighting Direction:** Dramatic, high-contrast lighting comes from the top-left.
+*   **Highlights:** Sharp, specular highlights define the edges of the domed head, the collar, shoulder joints, the tops of the ribs, and the edges of the claws. This indicates a somewhat reflective, hard surface like burnished metal.
+*   **Shadows:** Deep, heavy shadows fill the hollows of the ribcage, the underarms, and the unlit right side of the figure, emphasizing its skeletal structure.
+*   **Background:** A completely abstract, dark, murky void. It consists of swirling deep greens and blacks, suggesting smoke or dark liquid, providing high contrast for the figure. There are no discernable environmental objects.
+
+**COLOUR PALETTE**
+*   The character is monochromatic, dominated by sickly shades of olive drab, burnished greenish-gold, aged brass, and oxidized copper.
+*   Shadows are deep forest green to near-black.
+*   There are no glowing elements or magical effects visible; the aesthetic is purely physical and mechanical.

@@ -1,0 +1,38 @@
+**Rageborne - Creature Details:**
+
+*   **Appearance:** A quadrupedal, beast-like creature with a powerfully built frame, resembling a wingless draconid or hellhound.
+*   **Coloration:** Its skin is a deep, saturated crimson red, with a subtle gradient suggesting muscle tone and texture. The underbelly and inner limbs are slightly lighter.
+*   **Skin Texture:** Leathery and scaly, with visible muscle definition, особенно on the legs and chest.
+*   **Horns and Spikes:**
+    *   It has a pair of large, bone-colored, curved horns that sweep backward from the sides of its head.
+    *   A prominent ridge of pointed, bone-white spikes runs down its spine, starting from the back of its head and continuing along the length of its tail.
+    *   Smaller spikes are present on its shoulders and hindquarters.
+*   **Face:**
+    *   The face is a feroious, snarling visage.
+    *   Its mouth is wide open, revealing multiple rows of sharp, pointed, yellow-white teeth.
+    *   It has pointed, elven-like ears.
+    *   The eyes are small and red, though indistinct.
+*   **Limbs and Claws:**
+    *   Four muscular legs end in large, four-toed paws.
+    *   Each toe is tipped with a large, curved, bone-colored claw.
+*   **Tail:** A long, powerful tail with a continuous line of spikes, curling dynamically behind its body.
+*   **Pose:** The creature is in a prowling, predatory stance, with its left front leg raised, as if moving forward.
+*   **Lighting and Effects:** Soft, even lighting streams from the upper left, highlighting its musculature and the sharp edges of its spikes. The overall style is a painted illustration.
+*   **Background:** The creature is positioned against a mottled, indistinct background of muted grey-browns and greens, suggesting a rocky or cavernous environment.
+
+**Card Details and Layout:**
+
+*   **Format:** The entire image is a game card, likely for a fantasy board or card game.
+*   **Header:** At the top, the illustration of Rageborne is set within a decorative cartouche. A banner below it proclaims "RAGEBORNE" in large, dark brown capital letters. This banner has a light aqua-blue background with a textured feel, framed by intertwining purple and brown tendrils that look like organic roots.
+*   **Number:** On the upper left, a stylized, circular emblem with a reddish-brown border contains the number "70" in white.
+*   **Middle Section:** Below the header, the card is divided into two areas by a subtle line.
+    *   **Left Side:** Titled "UNLEASH" in capital letters. The text reads: "Rageborne gains one Fury token." Below this is a small, square icon depicting a red, horned creature head.
+    *   **Right Side:** Titled "INCREASED DIFFICULTY RULES" in capital letters. The text reads: "After Rageborne strikes, it loses one Fury token instead of three."
+*   **Bottom Section:** A larger block of text under the heading "ADDITIONAL RULES" contains:
+    *   "When Rageborne Strikes, resolve the following in order:"
+    *   Before three lines of text, a small bullet point icon is present.
+    *   "Draw a card from the strike deck and resolve it."
+    *   "Shuffle that card back into the strike deck."
+    *   "Rageborne loses three Fury tokens."
+    *   Below these three points is another paragraph: "At the end of the nemesis turn, if Rageborne has four or more Fury tokens, it Strikes once."
+*   **Borders and Background:** The entire card has a textured, aged parchment background in a yellowish-gold tone. The outer border is rough and uneven, resembling torn paper or bark, with a dark brown, stone-like texture at the very bottom. The edges have a digital "cut-out" effect.

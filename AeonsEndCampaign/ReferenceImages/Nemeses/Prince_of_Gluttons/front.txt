@@ -1,0 +1,21 @@
+Here is a detailed reference description for the CGI artist:
+
+**Character: Prince of Gluttons**
+
+**1. Creature Description (Top Half of Card):**
+
+*   **General Form:** The Prince of Gluttons is a grotesque, large, monstrosity. It is a hybrid creature, combining aspects of a huge, bulbous, dark mass, tentacled limbs, and a fuzzy, beast-like underbelly.
+*   **Head & Face:** There is no single, defined head. Instead, the upper portion of the main body is a lumpy, dark purple-black mass with a cluster of features. To the left side, a large, pale purple, fleshy proboscis-like appendage extends, tipping downwards with a white ring. Above and around this proboscis are three open, lidless eyes with dark red pupils and fleshy, pinkish rims. Further towards the center is another large, gaping mouth-like orifice. This cavernous mouth has thick, reddish gums, rows of sharp, jagged teeth, and a thick black tongue. Several smaller, reddish, bulging eyes are embedded in the dark flesh around the mouth.
+*   **Tentacles:** Six or more thick, fleshy tentacles emerge from various points on the upper body. They are a pale pinkish-purple color, becoming lighter and almost translucent towards the tips. Along their undersides, numerous small, white, sucker-like cups are visible. The tentacles curl and twist around the creature, suggesting constant movement.
+*   **Body & Limbs:** The main body is dark, textured, and lumpy, transitioning into a dense, fuzzy, deep purple fur or bristles on the lower half. From beneath this fuzzy mass, two short, thick, dark legs with indistinct feet are partially visible.
+*   **Texture:** The "face" area and upper body appear to have a mottled, fleshy, slightly slimy texture with bumps and warts. The tentacles are smooth, rubbery, and slick. The lower body is covered in a thick, matted, fur-like texture.
+*   **Glow & Lighting:** The creature is lit by an internal, bioluminescent glow. The proboscis and tentacles seem to radiate a soft pinkish-purple light, distinguishing them from the dark, shadowy upper body. The overall lighting is dim and eerie, casting deep shadows on the creature's form.
+
+**2. Card Element (Bottom Half of Card):**
+
+*   **Card Frame:** The illustration is enclosed within a stylized, organic, winding border that looks like dark purple and grey twisted roots or branching veins.
+*   **Title Bar:** Below the illustration, a horizontal banner holds the text "PRINCE OF GLUTTONS" in a bold, dark blue serif font. To its left, within a red circular emblem with a gold border, the number "70" is displayed.
+*   **Rule Text Box:** The bottom half of the card features a rectangular text box with entirely parchment-like background texture, appearing old and slightly stained.
+*   **Text:** All text is printed in dark brown or black ink. It includes sections for "UNLEASH" (left column), "INCREASED DIFFICULTY" (right column), and "ADDITIONAL RULES" detailing game mechanics.
+
+This reference should provide a comprehensive basis for recreating both the creature and the card element in a photorealistic CGI render.

@@ -1,0 +1,33 @@
+**Photorealistic CGI Reference Notes: Maiden of Thorns**
+
+**General Overview:**
+The subject is a large, non-human, armored creature with a segmented, insectoid, and plant-like anatomy, presented in a dark, atmospheric cave setting. The overall impression is one of menacing, organic armor with a warm internal glow.
+
+**Anatomy & Face:**
+*   **Head:** The creature possesses a non-human, segmented head with a hardened, multi-faceted carapace. It has a forward-pointing, beak-like structure that is reddish-orange, appearing smooth but rigid. Below this, there are two distinct, glowing yellow eyes, appearing as vertical slits or points of intense light emanating from within. The upper part of the head resembles overlapping plates, with a deep red color featuring darker striations.
+*   **Torso:** The main body consists of overlapping, segmented plates, resembling the armored exoskeleton of an insect or crustacean. The material is a deep reddish-brown with a polished, chitinous texture, showing hints of wear, darker recesses, and fine, ribbed details. It appears solid and unyielding.
+
+**Limbs & Appendages:**
+*   **Upper Appendages:** Extending outwards from the upper back/shoulders are two large, complex wing-like or arm-like structures. These are multiple jointed, dark brown, branch-like limbs composed of segmented, thorny organic matter. They are covered in sharp, curved thorns and resemble gnarled roots or branches. The texture is rough, organic, and woody, with some areas appearing slick and wet.
+*   **Dorsal Appendages:** Smaller, thorny projections extend from the upper back and neck area, framing the head.
+*   **Lower Limbs (Legs):** The creature is supported by multiple powerful legs. Four to six are visible, emerging from the lower torso. They are multi-jointed with pointed, clawed feet that grip the rocky ground. The texture is similar to the upper appendages – dark brown, organic, thorny, and branch-like, with visible segmentation at the joints.
+
+**Pose:**
+The creature is captured in a menacing, forward-facing stance. Its upper, wing-like appendages are spread wide and high, while its lower legs are tensed and planted firmly on the ground, suggesting stability and readiness.
+
+**Textures & Details:**
+*   **Chitin/Carapace:** The main body and head have a glossy, hard, polished carapace texture, reflecting the light with highlights. Recesses show a darker, matte finish, simulating accumulated dirt or shadow.
+*   **Thorns/Branches:** The limbs have a rough, organic texture, like ancient wood or root systems, with numerous defined, sharp, curved thorns. Some areas show mossy or fungal growth, adding to the organic, ancient feel. The surfaces have a slightly wet sheen.
+*   **Wear & Condition:** The armor shows minor scratches, scuffs, and dirt accumulation in the grooves, suggesting age and travel within a rough environment.
+
+**Environment & Lighting:**
+*   **Background:** The setting is a dark, rocky cave or cavern with large cracks and crevices in the stone walls. The stone is cool-toned grey and brown. Fine, roots or vines are visible running along the cavern floor.
+*   **Lighting:** The primary lighting is dim and cool, emanating from an unseen source (possibly an opening above), highlighting the creature's upper surfaces. There is a distinct warm, internal light source from within the creature's head and eyes, casting a warm orange glow on the immediate surrounding carapace and the cave walls behind it.
+*   **Atmosphere:** The overall atmosphere is dark, moody, and mysterious.
+
+**Colour Palette:**
+*   Deep Reddish-Brown (Body Carapace)
+*   Burnt Orange/Warm Red (Head, Internal Glow)
+*   Dark Brown/Black (Limbs, Thorns, Cave Shadows)
+*   Grey/Cool Brown (Cave Stone)
+*   Intense Yellow (Eyes)

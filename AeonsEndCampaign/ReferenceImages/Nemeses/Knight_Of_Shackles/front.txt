@@ -1,0 +1,32 @@
+This is a reference guide for recreating the character and card layout of the "Knight of Shackles" from the provided image.
+
+**CHARACTER: KNIGHT OF SHACKLES**
+
+*   **Face and Expression:** The character's face is obscured by an ornate, horned helmet.
+*   **Hair:** Not visible.
+*   **Age and Build:** Appears to be an adult male with a heavily built, muscular warrior physique, completely encased in thick armor.
+*   **Pose:** The Knight stands over a dark structure, looking down. Their right hand holds a large, dark sword, hilt-up, as if preparing to insert it into the structure. The left arm is slightly bent in front.
+*   **Full Outfit:**
+    *   **Armor:** Elaborate, full-body plate armor made of a dark, greenish material, possibly metal, with decorative, thorny elements. The helmet has two prominent upward-curving horns. Large pauldrons on shoulders are purple with skull-like designs and chains attached. Arm and leg armor is segmented with a scaled texture.
+    *   **Cape:** A ragged, flowing cape made of green fabric hangs from the shoulders, with white, skeletal, rib-cage patterns along the upper back.
+    *   **Chains:** Numerous heavy, metal chains serve as armor decorations and wrap around the Knight's limbs and the central structure.
+*   **Wear and Tear:** The armor shows signs of wear, with a worn, corroded texture and ragged edges on the cape. The chains are rusted and heavy.
+*   **Visible Equipment or Props:**
+    *   **Sword:** A massive, dark sword with a complex hilt and guard, held in the right hand. It has a dark, carved appearance.
+    *   **Cauldron/Structure:** A dark, fortified, circular structure at the figure's feet, from which purple energy rises.
+    *   **Skeletons:** Below and around the structure are several gaunt skeleton figures with glowing purple eyes.
+*   **Hands:** Both hands are armored, fingers bent around the sword and as they move over the cauldron.
+*   **Magical Effects or Glows:** Purple and pink magical smoke and vapor billow upwards from the cauldron opening, partially obscuring the lower part of the Knight's body and armor. The skeletons have glowing purple eyes. Light from the magic illuminates the front of the Knight.
+*   **Background Environment:** Dark, cavernous setting. Faint, blue, arched structures are visible in the distance.
+*   **Lighting:** The primary light source is the purple and pink glow from the magical effect, illuminating the scene from below. The background is dim.
+*   **Colour Palette:** Dominant colors are dark green, purple, pink, and black.
+
+**CARD LAYOUT**
+
+*   **Top Section:** Large illustration of the Knight of Shackles as described above, taking up the top half of the card.
+*   **Title:** "KNIGHT OF SHACKLES" in bold, capital letters in a curved banner overlaying the bottom of the illustration.
+*   **Central Number:** A red circular emblem below the title containing the number "70" in white.
+*   **Bottom Section:** A beige, textured card background with dark border, containing three main text sections:
+    *   **UNLEASH:** Title with text "Knight of Shackles focuses its closed breach with the lowest focus cost." below.
+    *   **INCREASED DIFFICULTY:** Title with bold text **RULES:** and text "Knight of Shackles's breaches' focus cost is increased by 1 (symbol)." below.
+    *   **ADDITIONAL RULES:** Title with four bullet points explaining gameplay rules about breaches, the player phase, and specific effects for Breach I, II, III, and IV.

@@ -1,0 +1,19 @@
+**CGI Reference: Wraithmonger**
+
+*   **Subject:** A grotesque hybrid creature, part skull, part octopus-like monstrosity.
+*   **Colour Palette:** Deep hues of purple, fuchsia, and magenta, with internal bioluminescent glows in cerulean blue and ruby red.
+*   **Skull Section (Top):**
+    *   **Form:** A large, vaguely human skull shape fused with a gelatinous upper body. It appears fleshy and semi-translucent rather than bone.
+    *   **Texture:** Smooth, wet, gl glistening, and slightly slimy. The material is thick but allows some internal light to pass through.
+    *   **Facial Features:** Four empty eye sockets: two large ones and two smaller, triangular ones above them. A central nasal cavity. All cavities glow with an intense, internal ruby-red light.
+    *   **Details:** Subtle ridges and indentations mimicking skull bone structure.
+*   **Tentacle Section (Bottom):**
+    *   **Form:** Eight thick, muscular tentacles emerging from the base of the skull. They are powerful and contorted in a dynamic, flowing pose.
+    *   **Texture:** Translucent, gelatinous flesh with visible internal structures.
+    *   **Glow:** A prominent cerulean-blue vein or light trail runs down the center of each tentacle, dotted with small, bright white points of light.
+    *   **Appendages:** The edges of the tentacles are lined with fine, feathery projections, resembling cilia or small suckers, colored the same purple-pink.
+*   **Lighting:**
+    *   **Primary Light:** Top-down illumination, suggesting sunlight filtering through water, creating bright highlights on the wet upper surfaces.
+    *   **Internal Glow:** Strong internal red light from the skull sockets and cerulean blue light from the tentacle veins.
+*   **Environment:** Deep underwater scene. The background is murky blue-green water with shafts of light from above. Below the creature is a shadowy, uneven coral reef structure with organic, vein-like patterns in dark browns and greens. The water is filled with fine particulates.
+*   **Composition:** Full-body shot, centered in the frame, taken from a slightly low angle. It is the main subject of a playing card.

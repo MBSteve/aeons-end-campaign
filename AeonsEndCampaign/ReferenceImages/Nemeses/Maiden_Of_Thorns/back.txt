@@ -1,0 +1,48 @@
+This image is a gameplay component from a board game, featuring artwork of a monstrous creature at the top, a central white text box with gameplay instructions, and a bottom black text box with narrative flavor text.
+
+Here is an exhaustive description of the visual elements, focusing primarily on the creature artwork for CGI reference.
+
+### 1. The Creature (Artwork Section)
+
+**Subject & Morphology:**
+A massive, armored, insectoid/arachnid entity. Its biology is a hybrid, featuring a mantis-like upper body and raptorial forelimbs mounted onto a multi-legged, spider-like lower abdomen. The defining feature is a colossal, chaotic array of thorny, branch-like appendages erupting from its back.
+
+**Color Palette & Texture:**
+The entire creature is rendered in monotone earth tones: deep sepia browns, charcoal grays, ochres, and burnt umber.
+*   **Material:** The exoskeleton looks like ancient, desiccated chitin fused with weathered rock or calcified bone. It is intensely rugged, pitted, craggy, and dry. There is zero gloss or slime; the surface is matte and rough.
+
+**Head:**
+*   No recognizable face, eyes, or mouth are visible.
+*   The head is a wedge-shaped, armored cowl formed by overlapping, pointed chitinous plates that fuse into the neck and shoulders. The front of the "face" converges into a sharp, downward-pointing armored keel.
+
+**Torso & Abdomen:**
+*   **Upper Torso:** Heavily segmented, resembling a hunched mantis thorax. Thick, overlapping plates protect the chest and back. A prominent, craggy ridge runs down the spine.
+*   **Lower Abdomen:** A bulbous, segmented structure tucked beneath the upper body, similar to a spider's opisthosoma but clad in heavy, layered armor plating.
+
+**Limbs:**
+*   **Raptorial Forelegs:** Two enormous, folding arms held against the chest in a mantis-like pose. The inner edges of the tibia and femur sections are lined with large, jagged serrations. They terminate in massive, hooked, scythe-like claws.
+*   **Walking Legs:** At least four visible walking legs support the lower body. They are multi-jointed, armored, and end in sharp, pointed tarsi (feet) planted on invisible ground.
+
+**The "Thorn Crown" (Dorsal Appendages):**
+*   Erupting from the creature's back and shoulders is a dense, sprawling canopy of rigid, spiky protrusions.
+*   These are not separate plants but extensions of the creature's exoskeleton. They resemble gnarled, dead tree branches or roots covered in countless sharp thorns of varying sizes.
+*   They twist upwards and outwards, filling the entire upper frame of the artwork, silhouetted against the background light.
+
+**Pose:**
+The creature is held in a static, menacing pose. It is centered, looming forward slightly, with its raptorial arms folded tightly, ready to strike.
+
+**Lighting & Atmosphere (Artwork):**
+*   **Lighting:** Dramatic, low-key backlighting from above and behind. The light source is diffuse, like moonlight filtering through a dense canopy or cave ceiling.
+*   **Highlights:** Sharp, pale ochre highlights catch the edges of the armor plates, the serrations on the claws, and the tips of the thorns, defining their rugged texture against the deep shadows.
+*   **Background Environment:** Indistinct and murky. Suggesions of a dark, rocky cave interior or a dead forest at night. Hazy atmospheric depth separates the creature from the background gloom.
+
+---
+
+### 2. Graphic Design Elements
+
+**Central Setup Box:**
+*   A curved, rectangular panel with a white background centered below the artwork.
+*   **Header:** At the top center of this box is a circular icon containing the number "4", directly above the word "SETUP" in bold, black, serif font.
+*   **Text Content:** Three bullet points of black, serif text detailing game rules:
+    *   "The supply must contain at least five supply piles with different costs."
+    *   "Destroy two cards in each

@@ -1,0 +1,17 @@
+Based on the provided image, here is a detailed description of the character and card for a photorealistic CGI artist.
+
+**1. Character: Wayward One**
+*   **Appearance:** The character is a tall, monstrous entity with a humanoid appearing structure encased in dark, spiky armor. The armor is a deep, saturated purple-black, appearing like jagged, crystalline or biological plating.
+*   **Face & Head:** The visage is menacing, featuring a helmet-like structure with a wide, toothy grin filled with sharp, white fangs. Three glowing red eyes are visible—two large ones in a humanoid position and a third smaller one above them on the forehead.
+*   **Hair & Appendages:** Instead of hair, numerous dark, shadowy tendrils and tendrils coil and radiate from its back and shoulders, dissolving into the background. Its form is adorned with sharp spikes and jagged edges.
+*   **Hands:** Its hands are clawed and gauntleted. The left hand is raised and reaching forward, while the right hand is held lower, near the waist, both with sharp, claw-like fingers.
+*   **Pose:** The character is shown from the waist up, in an aggressive, forward-leaning posture, looking towards the viewer's left.
+
+**2. Card Design & Layout**
+*   **Card Type/Health:** In the top left corner, there is a red circular icon with the number "60" in white text, framed by a purple border.
+*   **Title:** A banner across the middle reads "WAYWARD ONE" in capital letters.
+*   **Card Border:** The card has a dark, textured, purple frame with an organic, vein-like pattern. The inner text area is a lighter, aged parchment-like texture.
+*   **Text Content:** Below the title, the card lists rules.
+    *   **Unleash:** "Shift position. Then: Any player discards an aligned spell. OR Gravehold suffers 3 damage."
+    *   **Increased Difficulty:** "RULES: Misaligned spells deal 1 damage instead of half rounded up."
+    *   **Additional Rules:** A horizontal line separates this section. "Shift Position: When Wayward One shifts position, move its token on the Position Chart as follows: I > II > III > IV > I". "Aligned: Prepped spells or breaches matching the current position of the nemesis, or a minion that has a position, are considered aligned with that nemesis or minion. If a spell is prepped in at least

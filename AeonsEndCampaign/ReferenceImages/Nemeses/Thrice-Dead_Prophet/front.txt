@@ -1,0 +1,22 @@
+This image is a playing card, specifically a Nemesis card from the "Aeon's End: The New Age" expansion, titled "Thrice-Dead Prophet." The card features a detailed illustration at the top, followed by rules text.
+
+**Top Illustration Section:**
+The artwork depicts a large, monstrous entity emerging from a shadowy, cavernous background. The creature appears to be a construct made of a sickly, yellowish-green material, possibly stone or a fleshy, waxy substance. Its form is bulky and segmented, with multiple swirling, bulbous sections. Embedded within these segments are several distorted, human-like faces. The most prominent face, located on the upper right, is wide-mouthed in a silent scream, with deep eye sockets and a pained expression. Below and to the left of it, another face is visible, also appearing tortured. The texture of the creature is smooth yet uneven, with deep folds and ridges that catch the light. The lighting is dramatic, with a strong, greenish light source from above and slightly behind the creature, casting deep shadows that emphasize its grotesque form. The background is a dark, indistinct cave environment with stalactites hanging down, illuminated by a gloomy green light. To the right, there are dark, crystalline structures, one of which is a cluster of sharp, blue-grey shards.
+
+**Middle and Bottom Text Sections:**
+Below the illustration is a horizontal banner with a textured, aged paper background. In the center is the title "THRICE-DEAD PROPHET" in a bold, gothic script. Directly below the title is a red circular emblem with a thick border, containing the white number "40" in a bold sans-serif font.
+
+Below this banner is a large, curved text box with a clean white background containing subtle, repeating hexagonal patterns. The box is divided into three columns by vertical lines.
+
+*   **Left Column ("UNLEASH"):** The heading "UNLEASH" is at the top in a large, bold font. Below it, the text reads: "Thrice-Dead Prophet gains 5 life. Then, if it has 60 or more life, it gains one nemesis token."
+
+*   **Right Column ("INCREASED DIFFICULTY"):** The heading "INCREASED DIFFICULTY" is at the top in a large, bold font. Below it, the text reads: "SETUP: Thrice-Dead Prophet gains 15 life."
+
+*   **Bottom Section ("ADDITIONAL RULES"):** This section is at the bottom and contains a bulleted list under the heading "ADDITIONAL RULES":
+    *   "• At the end of the nemesis turn, if Thrice-Dead Prophet has four or more nemesis tokens, discard the top card of the nemesis deck and Thrice-Dead Prophet loses four nemesis tokens."
+    *   "• Thrice-Dead Prophet has no maximum life."
+    *   "• When Thrice-Dead Prophet has 99 or more life, it ascends to immortality and the players lose."
+    *   "• When the nemesis deck is empty, the Thrice-Dead Prophet has completed the final ritual and the players lose."
+
+**Card Border:**
+The entire card is framed by a dark, organic, root-like or jagged border that is broken in places, especially around the white text box, giving it a corrupted or ancient feel. The edges of the white text box have a sharp, angular design congruent with the crystal theme. The color palette of the card is dominated by dark greens, blacks, and yellowish-greens in the artwork, contrasting with the cream and white tones of the text area.

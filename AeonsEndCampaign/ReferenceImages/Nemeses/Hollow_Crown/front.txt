@@ -1,0 +1,22 @@
+**Character Reference Notes: Hollow Crown**
+
+**Subject:**
+The character is the central armored figure from the "Hollow Crown" card art.
+
+**Character Description:**
+This is a gaunt, skeletal, humanoid figure with a body composed of reddish-brown, sinewy, desiccated muscle, resembling exposed flesh or dried meat. The ribcage is prominent, and the limbs are thin and emaciated, showing clear anatomical details of bone structure beneath the flesh. The figure wears a large, bone-colored, segmented crown that wraps around the head area, featuring two large, upward-swooping "wings" or horns on either side. The crown is hollow and obscures the face, leaving the front open to reveal nothing within. There is no visible face, eyes, or mouth. The figure has two bone-colored shoulder pauldrons with a layered, armored design. A white fabric sash is draped across the chest and right shoulder, contrasting with the body's color. The left hand is resting on a tall, dark green staff, and the right hand is raised near the crown, with pointed, clawlike fingers. The pose is upright, looking upwards, giving a sense of contemplation or ritual.
+
+**Materials and Textures:**
+-   **Body:** Desiccated, fibrous muscle texture, like dried meat or bark, in deep reds and browns.
+-   **Crown & Pauldrons:** Bone or worn, aged ivory, with cracks, weathering, and a slightly rough, matte finish.
+-   **Sash:** Worn, thick off-white fabric, with folds and shadows, suggesting a heavy linen or canvas.
+-   **Staff:** Dark, painted wood, smooth but with signs of use, possibly a very dark green or brown.
+
+**Lighting and Color:**
+The scene is lit from below and the right, casting deep shadows on the left side of the figure and highlighting the textures of the crown, pauldrons, and raised right hand. The color palette is dominated by deep reds, browns, and bone-whites, with dark greens and blacks in the background and framing.
+
+**Background Environment:**
+The figure is positioned in front of a dark, indistinct, grey stone wall with vertical mortar lines. The overall setting is dark and cavernous.
+
+**Framing:**
+The character portrait is encased in a frame resembling twisting, thorny, dark green and brown vines, consistent with the game's aesthetic. The text "HOLLOW CROWN" runs across the bottom third of the portrait in a white font.
