@@ -44,6 +44,7 @@
 ## Player Comments
 
 - Need post mission epilogue/debrief of the story. Need to have more than one possible mission based on the storyline. Some should have timweframes and consequences, etc.
+- Note that we normally have 4 mages for a battle, but we choose 2 3 or 4 depending on how many players we have. This needs to be wound into the story to expain why some of the mages could not take part, e.g because of limited resoiurces, other reasons, etc. Be creative.
 
 ---
 
