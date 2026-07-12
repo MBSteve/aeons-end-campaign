@@ -1,5 +1,366 @@
 {
-  "mages": {},
+  "mages": {
+    "Adelheim": {
+      "type": "mage",
+      "name": "Adelheim",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Adelheim",
+      "infobox": {},
+      "overview": "Adelheim is a powerful support/utility mage, especially effective against any nemesis that relies heavily on attacks or powers. The Aethereal Ward ability allows Adelheim to block nemesis attacks and powers, while Amethyst Shard provides card cycle to an ally. Adelheim is one of a handful of mages who have a starting deck of 5 Crystals.",
+      "ability": "Spend 5 charges to activate this ability during the nemesis draw phase: When a nemesis attack or power card is drawn but before it is resolved, you may discard it. It has no effect. (The nemesis does not draw a replacement card)",
+      "lore": "It is folly what I do, to make things in a place where everything is broken. But still, I bring my hammer down. We all have work to do and I'll not let pride keep me from it. Ours is an army of fools, yes. We make weapons of the very breaches they wander through. No mystery we die so, when we try to play with deadliest powers we know. But what of it truly? This is still the way of the things, in spite of all that has passed: some people die while the rest must fight. So I bring my hammer down, again and again. Mending swords. Fashioning strangeness from breach-touched ore. They ask it of me and thus it is done, for folly or not.",
+      "strategy": "Adelheim functions best as a support or utility mage, giving other players card draw and safety from nemesis cards throughout the game. Opening your II breach on your first turn of the game is often justified, as you start with 2 Sparks. During his second turn of the game, Adelheim will likely draw 5 Crystals, allowing him to gain more expensive cards than other mages at that point. If playing with Outcasts content, Amethyst Shard can discard a curse from an ally's hand, getting it out of their way temporarily.",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Brama": {
+      "type": "mage",
+      "name": "Brama",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Brama",
+      "infobox": {},
+      "overview": "Brama provides a support role through a strong healing ability; Brink Siphon allows Brama to heal one player for 4 life. Buried Light deals 1 damage and gains 1 .",
+      "ability": "Spend 5 charges to activate this ability during your main phase: Any player gains 4 life.",
+      "lore": "My conclave of sisters is long ago gone, all of them ash in the world above. I do not remember their names, only their faces and the brightness in their eyes. Their songs fade in the grey shadows of my many years, and I alone can still hear them. Only Gravehold is more ancient than I. Yet somehow I endure. This city looks to me for guidance, for I have walked a long, wearisome path to stand before them. This is my duty, my burden, my privilege. It was I who counseled them to collapse the mouth of the cave, to entomb us here. It was I who taught the mages to wield the sister-words. Where so many have slipped beneath the shadow, I have remained in light. Many say we are lost, that Gravehold is just that: our grave. They say that, like my sisters, we will be erased, our bones left to molder in the silence of this cave. But glory will be ours again and I will live to feel the sun and wind on my face once more. Faith, younglings. It is our best weapon.",
+      "strategy": "Brama is a simple and powerful support mage, capable of keeping players alive for a long time. However, she has no way of healing Gravehold if its life becomes critical. Opening your II breach on your second turn is often justified, as your deck starts with 2 Sparks (you'll likely have 4 thanks to Buried Light). Brama synergizes well with Lash , since his ability causes players to suffer damage.",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Jian": {
+      "type": "mage",
+      "name": "Jian",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Jian",
+      "infobox": {},
+      "overview": "Jian provides an offensive role, able to deal large amounts of damage throughout the game. Jian starts with 2 breaches open, making her immediately more capable of higher damage in the early game. Jian's ability, Black Mirror , allows her to cast any player's one spell twice, dealing massive damage by the mid to late game. Moonstone Shard gains 1 with an additional +1 that can only be spent on a gem.",
+      "ability": "Spend 4 charges to activate this ability during your main phase: Cast any player's prepped spell without discarding it. Then cast that prepped spell again. (Discard it afterward)",
+      "lore": "Father died. The orb. I took it in my hands. And then quiet was upon me. Orphan. Then the mages. I learned the sister-words. The spark. But never spoke them. Like Phaedraxa, I see. It changed me. There are many worlds. The nameless are a scourge to all. So, war. Once, I was born. Soon, I will save them, then become nothing. Everything in between is just waiting. A web. It's all a web.",
+      "strategy": "Jian is an offensive mage with incredible damage potential. For example, using her Black Mirror ability on a Planar Insight with all breaches open can deal 14 damage, without having to wait for your next casting phase. Black Mirror is also one of the cheapest abilities in the game, allowing Jian to use it multiple times in a game. Jian has a total of 4 Sparks in her starting deck, making it a bit more difficult to gain expensive gems and spells in the early game. Her Moonstone Shard alleviates this by allowing her to gain a 4 gem on her first turn. When playing with one mage, all \"Any ally gains a charge\" effects will give yourself a charge instead. This makes cards like Mage's Talisman very effective at generating charges for Black Mirror. Jian synergizes well with a lot of support mages, including Kadir , who can set her up for a huge turn, and Dezmodia , who can use her Sigil breaches to add extra damage.",
+      "trivia": "The name of Jian's father is only mentioned in the very first edition (with the old component design) of the Core box on Focusing Orb .",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Kadir": {
+      "type": "mage",
+      "name": "Kadir",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Kadir",
+      "infobox": {},
+      "overview": "Kadir is a powerful support/offensive mage capable of setting up massive damage turns for herself or others with her Otherworldly Gate ability. Emerald Shard allows Kadir to gain 1 or heal any player 1 life.",
+      "ability": "Spend 5 charges to activate this ability during any player's main phase: That player may return up to three spells in their discard pile to their hand. That player may prep up to two spells to each of their opened breaches this turn.",
+      "lore": "I am alone in my hunger to explore the deeps. The elders say the ancient tribes once worshiped a sleeping god somewhere in the maze of tunnels and vaults below. I have journeyed farther than any others and seen many an oddity in the pure black silence, but none yet that resembles a god, asleep or otherwise. There is no peace to be had elsewhere in Gravehold. Woe fills the air like dust, a patina of dread scattered upon everything. But in the deep, ah, in the deep there is peace. In the deep, there is wisdom that wells up from within as your self dissolves into the emptiness. This is why we take the youngling mages there, to decant their minds, to clear their thoughts, even if only for that single pilgrimage. But I believe our true salvation lies beneath the city. Somewhere in the shadows is a place that even The Nameless cannot find. One day I will lead them to it, and they too will know peace.",
+      "strategy": "",
+      "trivia": "Original artwork by FitriaDes: https://www.deviantart.com/fitriades/art/Aeon-s-End-Character-617594942",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Lash": {
+      "type": "mage",
+      "name": "Lash",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Lash",
+      "infobox": {},
+      "overview": "Lash provides a support role, and focuses on manipulating the turn order deck for the mages' advantage. His Quicken Thought ability returns a player's turn order card to the deck, essentially allowing a player to take an extra turn. Quartz Shard allows Lash to look at the top card of the turn order deck , and decide to keep it there or move it to the bottom of the deck.",
+      "ability": "Spend 5 charges to activate this ability during any player's main phase: Shuffle any player's turn order card into the turn order deck. That player suffers 1 damage.",
+      "lore": "Like the jagged rocks around us, these are hard times. You can see it reflected in the eyes of even the heartiest folk: the fog of constant dread looming large within them. But me, I laugh, I smile. For any day is worth living well, no? What other use would it be? We are the lucky ones, though our journey may be paved with strife. I laugh anyway. Smile anyway. Let my voice be heard ringing against the wall of the cave, echoing into nothing. If today be my last, then let it also be my best. Often I stare down at the city from the balustrade, the dirt market being my favorite place to contemplate. The good people there, peddling their wares, the cacophony of their haggling, the scent of salted meat and brine. And I think to myself, \"The world does go on.\" And so it does, in spite of our trials, our great adversity. The people in the market, they still find it within themselves to sit at their stall and hope for a good day's profit. To savor the banter of a spirited haggle. To cook a simple yet tasty meal to share with loved ones. And at night in their hovels, they dream against the dark. There is no beauty in this world or any other greater than that.",
+      "strategy": "Lash is a unique support mage in that he can sustain himself in a solo game just as much as he can help others. While creating an infinite loop is unlikely, Lash in a solo game can end up taking multiple turns in a row by using his ability repeatedly. Quicken Thought is at its best when the turn order deck is empty - that way, the card you shuffle in is guaranteed to be drawn next turn. Lash can target an exhausted player with Quicken Thought, but it will instead deal 2 damage to Gravehold due to the mage being exhausted. Quicken Thought can be activated during any player's main phase, so it can be used if Lash's allies give him enough charges via cards like Ignite . Opening your II breach during your second turn of the game is often justified, as Lash's starting deck contains 2 Sparks. Lash synergizes well with mages that can heal players, to make up for his ability's damage effect.",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Mist (AE)": {
+      "type": "mage",
+      "name": "Mist (AE)",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Mist",
+      "infobox": {},
+      "overview": "Mist provides support role through both ability and unique card. Mist cast Divine Augury on her turn to allow an ally to draw 4 cards. Garnet Shard allows Mist to gain 1 or cast any player's prepped spell (including her own spell).",
+      "ability": "Spend 5 charges to activate this ability during your main phase: Any ally draws 4 cards.",
+      "lore": "The mages, they all think me brave, their closest substitute to Thraxir . His death was like all the others: swift and cruel. It is true, I have waded in the fire of the breach three times. Each time I have left splinters of myself behind, little shreds ripped from my bleeding soul. Though many beasts have been quieted by my blade, I must confess each one of them has scared me more than the last. I am not brave. Not like Thraxir, not like Brama . I simply do this because it was asked of me. I fight not truly for Gravehold alone, but selfishly - I would risk everything for the hope of leaving this place. I was made a dagger captain and taught the sister-words to wield the breach, but I am no difference than any one here: scared, desperate, and willing to die for an opportunity to once again be alive.",
+      "strategy": "Instacasting your own strong spell often makes you draw it a turn sooner. Try to keep your signature card synchronized with a strong spell!",
+      "trivia": "Original artwork by FitriaDes: https://www.deviantart.com/fitriades/art/Aeon-s-End-Character-617594720",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Phaedraxa": {
+      "type": "mage",
+      "name": "Phaedraxa",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Phaedraxa",
+      "infobox": {},
+      "overview": "Phaedraxa provides a support/defensive role as a mage. With her Auspex Rune ability she can prevent all damage to Gravehold and all players for one turn. Tourmaline Shard allows an ally to take 1 damage, but then destroy one card from their hand. Phaedraxa has only 3 breaches compared to the typical 4 of most breach mages.",
+      "ability": "Spend 5 charges to activate this ability immediately after a turn order card is drawn: Prevent any damage that the players or Gravehold would suffer during that turn.",
+      "lore": "Time is a web, like the ones the howling spinners weave in the deeps. Each strand reaches backwards and forward at once. What was, what is, what will be, there is no difference in the web. Silk is silk. Time is time. I spoke the sister-words before they were taught to me, before I could walk, but after the world was gone. Brama says that is because the wraiths of the sisters encircle me beyond the veil, but she understands not. There is no host of sister-ghosts guiding my path. There is no chorus of voices within me, only my own. I merely see the web and all trapped in it. I look at the survivors of this city, this beautiful and stark place hidden in the deep shadows. And in the web, I behold Gravehold, as it was and as it will be. I peel aside the door of a breach. And in the web, a breach widens, much like an eye struggling against the dark. I am born and I die. The Nameless are much the same. This is a web, no different, no more.",
+      "strategy": "You can open your IV breach on turn 2. However, it's also possible to focus your III, hold a crystal, and open that on turn 2. You may want to use this opening if you have focus in the market, since it will allow you to develop your breaches even more easily.",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Xaxos (AE)": {
+      "type": "mage",
+      "name": "Xaxos (AE)",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Xaxos",
+      "infobox": {},
+      "overview": "Xaxos is a support mage, providing a wide range of tools for allied mages. With his Metaphysical Link ability, Xaxos helps charge up all other mages abilities, as well as revealing and reordering the entire turn order deck, making the next few turns determined. With Flare Xaxos reveals the top card from the turn order deck and deals damage based off type of card shown (mage vs nemesis card). Most of Xaxos' breaches start in the most expensive orientation, making it particularly difficult for Xaxos to contribute much damage in the early game.",
+      "ability": "Spend 5 charges to activate this ability during any player's main phase: Activate during any player's main phase: Allies collectively gain 4 charges. Reveal the turn order deck and return the revealed cards in any order.",
+      "lore": "The others, they do not understand. For them, struggle is a virtue acknowledged by less cruel gods than these. They ignore the dark around them and seek a world whose name they cannot remember. But I have discerned our road to salvation, fractured and perilous, straight through the heart of the void. We may learn much from these creatures, these divinities, though dark they may be. Theirs is a power to cull worlds, to tear wide the membrane of the universe, to traverse the very emptiness that lay between. Is it not within reason to presume they may also have some means to shape worlds as well as destroy them? Perhaps they can whisper into existence more than their fell armies and beasts. The tools they wield are just that - tools. Who is to say we cannot use a tool for a better end? Yet these words alone are enough to brand me a mage heretic. It is for this reason I stifle them, though these thoughts echo behind my silence in a way that seems wisdom. For now, I will study our foes closely, and in doing so I shall learn how to lift us from this torment... no matter what means I must use.",
+      "strategy": "Using your ability at the end of the turn order cycle reveals the next turn order deck and gives you full control of that deck. Also, it can be activated on any player's turn, so don't be afraid to wait for an ally to have the last turn!",
+      "trivia": "Original artwork by FitriaDes: https://www.deviantart.com/fitriades/art/Aeon-s-End-Character-617593682",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Dezmodia": {
+      "type": "mage",
+      "name": "Dezmodia",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Dezmodia",
+      "infobox": {},
+      "overview": "Dezmodia is a supportive mage, capable of giving other players powerful custom breaches. Dezmodia's unique card Oblivion Shard helps her gain higher valued gems or charge up her ability as soon as possible. Dezmodia's ablilty Tempest Sigil allows her to replace any mages' level I or II breaches with upgraded versions that give +2 damage on cast, better than standard level III and IV breaches. Dezmodia's initial closed breaches will require a large amount of to open.",
+      "ability": "Spend 6 charges to activate this ability during your main phase: Any player destroys an opened I or II breach and returns any spells prepped to that breach to their hand. That player gains a Sigil breach and places it where the destroyed breach was. Then, that player may prep a spell from their hand to a breach. Sigil Breach I Sigil Breach II",
+      "lore": "I was born in the place between worlds. Yan Magda held me as I drew my very first breath and my true mother took her last. I still remember this, as though it only just happened. From that moment forth, I was her student. Time in the void is not as it is elsewhere. It moves too quickly, and sometimes not at all. My years are not what they seem. I am not as I seem. I remember being born, and, somehow, what it feels like to die. Like The Nameless, I live in the place in between. Brama and her sycophants, let them have Gravehold. Let them cower here in the dark. There will come a time when the void will swallow all. And I stare into the infinite with warm tears in my eyes, knowing in some strange way I am home.",
+      "strategy": "Your signature card has three purposes: gaining Gems, gaining a Charge, opening breaches and paying off nemesis stuff. It’s easy to forget how flexible it is, so consider all your options.",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Garu": {
+      "type": "mage",
+      "name": "Garu",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Garu",
+      "infobox": {},
+      "overview": "Garu is the oathsworn protector of Yan Magda , a hulking brute with strange crystalline protrusions jutting from his shoulders and elbows. His memory prior to his time with Yan is lost to him. He is powerful, trained by Yan, though not a natural mage. With Torch he easily focuses any player's breaches from the very beginning of the game, and has the raw power to do up to 18 damage with his special ability Colossal Force .",
+      "ability": "Spend 5 charges to activate this ability during your main phase: Discard up to four of your prepped spells. Deal 2 damage plus 4 additional damage for each spell you discarded divided however you choose to the nemesis or any number of minions.",
+      "lore": "My first day in Gravehold, a child in the hovels asked if I was a monster. Though I laughed, the words cut deep. I see the way they look upon me, with doubt, with horror. In truth, I cannot remember being anything other than this. I wandered the void, then ended up here. There is no more to my story. My life before is but an echo, a single familiar sound deep in the hollow of my heart. I hear a voice, a child's voice. And under the rasping of my breath, its wordless cries fill me with dread and longing. I can taste the name, but never enough to utter it aloud. I knelt that day in the hovels, and forced a smile upon my face. 'The world is full of monsters, little one. But not all of them are bad.'",
+      "strategy": "Gary wants to find a way to crack at least one of his breaches open early, but 2 is still really good for him. An opening 4 turns I often go for is: Turn 1: Focus III Turn 2: Focus III with Torch and buy a 3-cost gem. Turn 3: Open III Turn 4: Open II",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Gex": {
+      "type": "mage",
+      "name": "Gex",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Gex",
+      "infobox": {},
+      "overview": "Gex is a flexible mage, capable of removing cards from other mages' decks and taking them for herself through her ability Vimcraft Oath . Gex could be supportive, removing low-cost cards from allies' decks, making them more efficient. Alternatively, other mages could work together to give Gex high valued cards, increasing her power very quickly. Shattered Geode allows Gex to take the top card of one ally's discard deck, adding it to her hand. There is no restriction on what cost or type of card this is. Gex's ability allows her to destroy two 0 cards from her discard pile, increasing the efficiency of her own deck.",
+      "ability": "Spend 5 charges to activate this ability during your main phase: Destroy up to two cards in your discard pile that cost 0 . Any ally draws one card and gains 2 life.",
+      "lore": "A hammer is the perfect weapon for our fight, because it doesn't have to be a weapon. Swords must be swords, spears must be spears, and bows must shoot arrows. But a hammer can be a tool, can build as well as destroy. A hammer helps us remember we have something to protect, something beyond our fight. Brama and I have had many long discussions about how appearances matter, and how they don't, and how to look inside them to the truth. I remind her of my training, when I chose my gem. Even she looked at me askance when I returned with a plain grey rock. Until I showed her the spell to look beyond the surface to the beautiful geode within. Hidden power, hidden reasons, these suit our purposes best. Especially now, when we are surrounded by so many others with hidden thoughts. Neither I nor Brama can fully divine the mind of Yan Magda , nor the mind of the being we once called Mist . Both claim to be allies. Both have helped in the fight so far, that much must be admitted. Nevertheless, I will keep my greatest reasons, and my greatest powers, in reserve. Just in case.",
+      "strategy": "Synchronize your signature card with a card that lets allies discard for higher consistency. Also, if you are an ally of Gex, consider putting a powerful card on top of your discard pile to let Gex pick it up.",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Mazahaedron": {
+      "type": "mage",
+      "name": "Mazahaedron",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Mazahaedron",
+      "infobox": {},
+      "overview": "Mazahaedron is the last of the henge mystics. The Conclave is an order of sister mages. The henge mystics were their brother counterpart in The World That Was, shamans, prophets, and augurs. Mazahaedron believes that the world is a massive ancient organism and that they have taken shelter within its body, a sacred place, the very heart of the world. To this end, he refuses to let his feet touch the ground out of reverence, perpetually levitating. Mazahaedron is a supportive mage, with a unique card, Worldheart Shard , that benefits others if it's to be used to its fullest potential. Mazahaedron's ability Underearth Mantra gains him low-cost gems, while also healing Gravehold.",
+      "ability": "Spend 4 charges to activate this ability during your main phase: You may gain a gem that costs 4 or less from any supply pile. Gravehold gains 4 life.",
+      "lore": "If one listens, this cave speaks an ancient tongue. We are reminded that the world is a living, breathing thing. A sacred beast in which we thrive. Here, under its skin, inside its very heart, most remain unknowing, and fewer still grateful to behold such a thing. 'Worlds within worlds,' as the henge mystics say. 'Lights within lights.' I marvel at the wonder that surrounds me, the life that burgeons in spite of our bleak ordeal. There is a wisdom in every stone, a truth in every shadow. The echoes of our own voices are but a mirror. And for this very reason, I have never, nor will ever, let my feet touch the hallowed earth below. And though my brothers fade in the grim quiet above, their wisdom remains my compass. Open your eyes, I say. Listen. The Nameless are but weak fevers to this world, and like all sickness, they will pass.",
+      "strategy": "Your signature card is good at gaining cards, but it's easy to forget how cards can fall off hard in terms of value, especially when you're not the one gaining them. At a point, cards hit very heavy diminishing returns. Pay attention to how much use a card would get before the game ends.",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Mist (WE)": {
+      "type": "mage",
+      "name": "Mist (WE)",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Mist_(War_Eternal)",
+      "infobox": {},
+      "overview": "Mist returns in War Eternal , transformed from when last seen in the Core set. Mist continued daring to travel into the breaches to fight the Nameless in the void, but this time something attached itself to her, and returned with her. She now acts as an entirely different person, or perhaps a different creature all together. Mist now serves as a highly offensive character, with her ability Exalted Brand capable of unloading massive damage on her turn, while redistributing allies' spells. Amethyst Paragon allows an ally to prep a spell from their hand, even to a closed breach.",
+      "ability": "Spend 6 charges to activate Exalted Brand during your main phase: Cast up to three different spells prepped by any number of players. For each spell cast this way, place that spell into any ally's hand.",
+      "lore": "I am the vessel now. I -the 'I' I was, at least - entered the breach, as I had done thrice before, as in my absurd and youthful eagerness to slay these creatures, I even desired to fight them where they lived. As if the beasts we fight would be intimidated to fight in the void. Child that I was, fortune was with me, as I was victorious. But as I turned to leave the breach, a much greater fortune awaited. I remember I was just about to step through, when I heard a sound. A humming, a ringing, yet more musical, as if a thousand crystal insects sang a chorus. In an instant, the sound surrounded me. In a second instant, the sound entered me. The events that happened to the 'me' that was, those seem to me now at a remove. Old hurts, childhood loves, battle fears - my memories of the time before the change are but memories of memories now, as if I remember a vivid story told to me rather than events in my own life. But, oh, even so, I remember how much the sound hurt. It ate and burned, fire and acid. The sound grabbed my body and convulsed it from the inside, every mote of my being individually seized and shaken. If I had had any control over my body, I would have fallen to the ground and screamed. But I could only burn. I am sorry for what happened to the 'me' that was. I am sorry for the pain it caused her. But it was the only way to prepare her for my task. I am the vessel now.",
+      "strategy": "Convince your allies to pick up a lot of spells. This is good advice for Aeon's End in general, but especially applies to this Mist.",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Quilius": {
+      "type": "mage",
+      "name": "Quilius",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Quilius",
+      "infobox": {},
+      "overview": "Quilius is an offensive mage, capable of increasing her power through the course of a game, if she plays carefully. Quilius starts with 2 opened breaches, and 4 spells between her starting cards. If she uses her unique Extinguish to land the killing blow on a minion , then she will gain a trophy token. The more trophies Quilius collects, the more damage she does with her special ability Quietus Vow .",
+      "ability": "Spend 5 charges to activate this ability during your main phase: Deal 2 damage for each Trophy token you have.",
+      "lore": "One. Two. Three. Four. Five. One. In the monastery cavern, when I was a child. The morning I earned some of these scars. So far away, back in The World That Was. The monks found me first, bleeding and blasted. When they asked what had happened, I said only that I killed it. What else needed to be said? They didn't believe me until they found its body under the ruined wall. The monks started training me the very next day. Two. At the end of my training. A test of my skills. The monks suggested a lesser being, but I wanted to bring back one of my own choosing, one that would move me further on the path. I dragged its head behind me for days before I found my way back. I graduated late, but with highest distinction. Three. I lay in wait for this one. It had to be this one, for the path, and this place was the only place where one of these beasts had ever been seen. I lay in wait for a long time. By the end of the third year, I began to despair of its existence. My patience was rewarded. The greatest lesson an assassin learns is not how to kill. It's how to wait. Four and five are yet to come. But I know they will come to me and offer themselves through combat. And I will kill them and move along the path. Each step brings me closer. Each kill brings me closer to the mind of the gods. Look into the eyes when you make a kill. You may get a glimpse of the creature's true master.",
+      "strategy": "Quilius is notably weak. A developer-approved variant is to focus her III breach twice and give her a trophy token at the start of the game. Variant by Derrick Vo. Ruling screenshot. If you want to play her without artificially buffing her, ignore her ability and trophies entirely.",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Ulgimor": {
+      "type": "mage",
+      "name": "Ulgimor",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Ulgimor",
+      "infobox": {},
+      "overview": "Ohat was once just a dirt merchant trading in Gravehold's market. But the bizarre creature Ulgimor attached itself to Ohat, acting as his literal shadow, but so much more powerful. The two are now inseparable; Ohat hides and Ulgimor ravages. Ulgimor's special ability Eidolon Shroud allows it to gain 6 life, one of the highest life gains available. If Ulgimor is defeated, then it is a great support character, healing allies for 5 life. Ulgimor's unique card, Coal Shard , drives Ulgimor's life down quickly while granting the highest gain of any mage's started gem.",
+      "ability": "Spend 6 charges to activate this ability during your main phase: Gain 6 life. If you are exhausted, any ally gains 5 life instead.",
+      "lore": "I am a coward and cowards are not meant to fight wars. As cowards are wont to do, I ran when I saw the Umbra Titan heave from the feigned corpse of the Prophet , pushing fellow dirt merchants and even a child so that I might save my own life. When the Titan's shadow loomed over me, everything changed in an instant. 'Ulgimor.' This is the only word it says, not that anyone else can hear it. Thus I have taken to calling the creature this name, as have others. It is everything I am not, yet the breach mages insist it is, by extension, some part of me. They have taught it their ways, giving me some lump of enchanted coal to try and control the thing. As it frenzies in battle, I cower behind the shield Adelheim forged, waiting for it all to end. But Ulgimor would never let this happen, for without me no shadow would be cast. I take what little comfort I can in this notion, though we both know the life of a coward suits me better than that of a hero.",
+      "strategy": "Pay very close attention to your first couple of turns. You get insane amounts of aether early, but will usually have to \"pay it back\" by buying charges, so you have to use your early high-aether turns to your advantage.",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Yan Magda": {
+      "type": "mage",
+      "name": "Yan Magda",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Yan_Magda",
+      "infobox": {},
+      "overview": "Yan Magda was an exiled mage in The World That Was, punished for questionable practices. Now she is an extremely powerful mage, both on her own and with others. Yan Magda's ability Imperium Ritual allows her to gain any card from the supply, no matter the price. If all of Yan Magda's breaches are opened, then an ally may gain any card as well. However, Yan Magda starts with three of her breaches in the furthest possible closed orientation. Her unique spell, Illuminate , allows Yan Magda to deal damage slowly over time as she focuses breaches.",
+      "ability": "Spend 5 charges to activate this ability during your main phase: Activate during your main phase: Gain a card from any supply pile. If you have four opened breaches , any ally gains a card from any supply pile and places it on top of their deck.",
+      "lore": "I still remember the day The Conclave sentenced me to sleep. You see, they did not believe in killing, as necessary a thing as it may seem to all other creatures and creeds. My crime, among others, was in questioning the nature of their ways. And thus the punishment was to entomb my mind in the gulag of my still body for eternity. They called this the 'Black Mausoleum.' And so it was that I lay in the hollow of my sarcophagus, drawing what then I thought was the last conscious breath of my very long life. The light died all around me and with it I went, trapped in the amber of dreams. I cannot recall my time in the sepulcher of sleep. Just blackness and quiet unending. But there came a day when the light spilled across my face and I gasped as a brutish man yanked me from my coma. All around us were tendrils of strange light spiraling into infinity, each one flecked with what seemed a world in miniature. I still remember plucking one of those delicate lights from the nothing, unaware I had snuffed out an entire world. In time our cadre of orphans grew in number and in strangeness. We lost many companions along the way, each erased like that tiny light in the spiral. Their faith gave me then strength to journey forward, though in my heart it was retribution that urged me on. There was a day when the spiral seemed to fall away and a sudden cold was upon us. Garu 's labored breath reverberated the dirt crunching under foot. And this was the first time I knew I was truly awake. This was the day we met Indira and learned the truth of it. And once again, I found myself entombed in the black quiet of another world.",
+      "strategy": "One of her biggest strengths is her ability to act as insurance against an early minion, focusing her II breach four times on her first two turns. If that ends up being your opening, consider keeping Spark and Illuminate prepped so you can buy a 5-cost gem or relic and cycle it every turn to try and catch up from the slower start.",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Nym": {
+      "type": "mage",
+      "name": "Nym",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Nym",
+      "infobox": {},
+      "overview": "Nym is a unique breach mage, providing a different sort of offensive role. Nym does not help deal damage to the Nemesis or its minions, but rather pushes the game closer to its secondary win condition, emptying the nemesis deck through his ability Terminus Barrier . Fellow players should be aware of Nym's ability and monitor the state of the nemesis deck, to see which win condition they should focus on. While the other players cannot help speed up the rate of cards the nemesis is playing, they can play more defensively, focusing damage on minions rather than the nemesis.",
+      "ability": "Spend 5 charges to activate this ability during your main phase: Discard the top card of the nemesis deck. If you discarded an attack card, discard an additional card.",
+      "lore": "The Nameless... what a stupid name for these things. It makes no sense. It's just frightened people trying to understand something they don't. Monsters. That's what these things are. Nothing more, nothing less. Malastar says respecting one's foe is the straightest and clearest path to defeating them. But why would I respect monsters? Malastar is wrong. Respect is a useless concept in this fight - I have no respect for those freaks and I have turned as many of them to cinder as anyone. A lot of people are afraid of \"The Nameless,\" but not me. They think I am too young to know what fear is, but really, fear is the only thing we younglings know. But I choose not to fear them any more. I won't give them anything other than my fire.",
+      "strategy": "Nym is a peculiar and highly situational mage. Playing with Nym should be considered thoroughly before a game, as their ability can be actively detrimental to the player(s). This is because discarding cards from the top of the Nemesis deck causes the Nemesis to progress through tiers faster, causing the player(s) to have to deal with more dangerous cards before they might otherwise be ready. There is one main situation where Nym's ability may be useful, and that is attempting to win by \"decking out\" the Nemesis. However, this can be quite risky for the aforementioned reasons. Additionally, some nemeses explicitly cannot be defeated this way, completely nullifying this strategy, such as Thrice-Dead Prophet. Other nemeses, such as Gate Witch, do not have such a rule stated up-front, but can still not be defeated this way due to having Nemesis cards that place themselves back into the Nemesis deck. A second, even more situational use for Nym's ability is discarding a Nemesis card that has just been put back on the top of the Nemesis deck by another effect. This would effectively discard the card from play, albeit in an inefficient, roundabout way.",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Reeve": {
+      "type": "mage",
+      "name": "Reeve",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Reeve",
+      "infobox": {},
+      "overview": "Reeve is an offensive mage focused on killing minions, with her ability Quelling Blade able to deal a total of 8 damage spread across two minions, and costing only 4 charges. Obsidian Shard can produce 3 , allowing Reeve an economy swing early in the game, if she is willing to take the damage. Reeve also starts with two breaches that are close to open, making an open level 4 breach fairly easy to get.",
+      "ability": "Spend 4 charges to activate this ability during your main phase: Deal 5 damage to a minion. Deal 3 damage to a different minion.",
+      "lore": "I lost the arm to tainted jade . I felt it creeping through my arteries and lopped it off without a thought. Best to lose the arm and keep the rest, no? Kadir says I was born for this, meant to live here and now in this damnable hole in the ground to fight these things. And she has the right of it. This is who I am, what I am: a blunt instrument to be used against monsters. My life matters not for much more than that. And I am at peace with it. Whenever those bells ring I feel my heart swell as I heave my chopper from its sheath. I smell the air burn as the breach opens and I cannot run there fast enough. We all have a purpose, a gift to give. This is mine.",
+      "strategy": "If there's a 6 cost in the market that really interests you, you can purchase it without giving up your breach development and draw it on turn 4. Just open your II breach turn 1, cast only one spark on turn 2 and focus your III breach, then you'll draw into Obsidian Shard, 3 crystals, and a spark. Cast two of your sparks, and you'll be able to draw straight into that 6-cost card on turn 4.",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Z'hana": {
+      "type": "mage",
+      "name": "Z'hana",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Z%27hana",
+      "infobox": {},
+      "overview": "Z'hana is a defensive mage, able to heal Gravehold for 7 life every Sanctum Glyph activation. Eternal Ember allows Z'hana an offensive advantage too, able to 'double cast' a prepped spell (one cast from Eternal Ember, another from the normal cast). Z'hana starts slightly disadvantaged with no open breaches, but has the economy to start focusing right away, and her Level 4 Breach starts fully focused, only needing to be opened. Z'hana could have an open level 4 breach at the end of her first turn.",
+      "ability": "Spend 5 charges to activate this ability during your main phase: Gravehold gains 7 life.",
+      "lore": "Through the flames I could hear them calling for me. My mother, my father. Their voices drowned in fire and smoke... That was the day I lost my family. That was the day I discovered I was a mage. My philosophies on The Nameless are even less popular than Xaxos '. Many times I have slept in the crypts for things I have said to others. But many more nights I have fought back the dark, side by side with those who locked the crypt door behind me. I have journeyed to the cave mouth many times, sitting in the weak light that somehow manages to penetrate the mountain of rubble that bars out way back to The World That Was. Each time I go, I remove a stone. If they catch me, the crypts await. But I always go back, removing another stone and yet another. One day I will seek whatever awaits me beyond this place. One day I will remove the last stone.",
+      "strategy": "You can deal infinite damage with Temporal Helix or abilities like it! This is the strongest tip, but you ought not to use it unless you want to ruin Game Night. This has been altered to not work in the digital version (Eternal Ember can't target itself) and it is not the designer's intention. A less game breaking tip is that it's incredibly important to find a way to get 2 breaches open as Z'hana to get her signature card ready to rock.",
+      "trivia": "Original artwork by FitriaDes: https://www.deviantart.com/fitriades/art/Aeon-s-End-Character-617594267",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Malastar": {
+      "type": "mage",
+      "name": "Malastar",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Malastar",
+      "infobox": {},
+      "overview": "Malastar can be both a supportive and offensive mage, depending on how he is played. His unique starter card Immolate can be used to gain charges if left in a spare open breach, and his Gift of Aether ability will gain impressive spells for himself or others, and can swing the game drastically due to the immediate nature of the ability. Malastar has only three breaches available, but can open a III breach on the first turn, granting +1 spell damage immediately.",
+      "ability": "Spend 6 charges to activate this ability during your main phase: Gain a spell from any supply pile. You may prep that spell to any player's opened breach.",
+      "lore": "You can always tell which younglings will be mages. Mostly, they are girls, but sometimes a boy-child will carry the spark, though weaker than their sister-kind. Training each of them is my sad calling, for mages come and go like the black days in this place. First, they learn the sister-words, the mage's tongue, the language of all things. Next we fashion them a gem, one that is theirs alone, a conduit for their nascent power. After this, Kadir takes them deep within the bowels of the cave, where they must find their way back with only their gem to protect them. Many find their way home, but we have lost many would-be mages in my years. A student's last task is to slay a beast, armed again only with their gem and their wits. The child is dropped down a shaft outside Chasmwalk, left alone with whatever miscreation we have snared from the void. Sometimes the creature is wounded, weak, but always they are hungry. A student that navigates this ordeal is named apprentice. After that, one need only survive long enough to earn the rank of mage.",
+      "strategy": "Pay attention to the turn order deck when you use your ability. It can especially make the difference if a scary minion is on the field!",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Indira": {
+      "type": "mage",
+      "name": "Indira",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Indira",
+      "infobox": {},
+      "overview": "During her Apprentice ordeal, Indira was attacked by a Needlemaw after falling into a chasm full of glyph covered columns. She fought off the Needlemaw but was knocked unconscious by falling rock. Yan Magda and Garu found and returned her to Gravehold. As Indira never formally completed her training, she is not a true breach mage; this is reflected by her having only 1 breach available to her. However, Indira is still an offensive mage; her ability Pyromancer's Guile and two copies of her unique Twin Opal allow her to cast spells directly from her hand. This makes Indira capable of reacting quickly, casting spells the same turn she drew them.",
+      "ability": "Spend 4 charges to activate this ability during your main phase: Cast any number of spells in hand. Those spells each deal 1 additional damage. You may destroy a card in your discard pile.",
+      "lore": "Malastar was kind at least. He took my hand and bade me sit before he gently explained Brama 's decision. It was a matter of the proper form, he said. I had not completed the entire apprentice's ordeal. I had not returned to Gravehold alone. Were I to be allowed to call myself a mage without completing the ordeal, other younglings might press for other exceptions. 'We cannot have any weakening of the customs of the mages, for the mages are too important to our survival,' he told me. But no, it would erode the faith of those around me to have to work with me, Brama said, and so it was for the best that I take my gem and my years of study and all the spells I had learned and go become a dirt merchant or sentry upon the balustrade. That is what Brama said. But the truth is, it wasn't for the lack of completing the ordeal. It was because she no longer trusted me. More precisely, she did not trust me upon returning in the company of Yan Magda . So now, in a great irony, I study with Yan Magda. I listen to her tales, her time spent in between worlds. She speaks truths others dare not utter, and for this alone she was branded a heretic. And through her words I hone my skills. How tragic that both women reach for the same goals, and yet cannot reach together.",
+      "strategy": "Perhaps the most important action you can take as Indira is finding a way to free up her Twin Opals so they don't have to cast Sparks all day. The two main ways to do this is to either destroy her sparks or open her III breach, so try and make a plan to do one of those.",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Remnant": {
+      "type": "mage",
+      "name": "Remnant",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Remnant",
+      "infobox": {},
+      "overview": "Remnant is a peculiar entity, an aethereal imprint of what may have once been a person. Now they are reduced to an almost entirely non-physical form, clinging to this world and refusing to let go. Remnant has their own unique II breach, which once opened, grants +1 per cast spell (for that turn). Remnant's unique Void Shard helps to open breaches more quickly. Remnant's ability Ephemera Masque helps them act as support, either drawing cards for allies (from their discard piles) or healing Gravehold.",
+      "ability": "Spend 5 charges to activate this ability during your main phase: Any ally returns two cards in their discard pile to their hand. OR Gravehold gains 5 life.",
+      "lore": "Yan Magda insists I was once someone else. A man. A woman. Perhaps a child. I had a name and a life that was somehow lost. She explained that I am now but a fragment of my former self, a trick of the light given form and thought. A ghost in a world of those soon to follow. But I have no memory of who or what I was. I know only that I must persist. It is always a struggle. Were I to have a body, I would likely describe the agony that is maintaining this form. I would likely fall to the cold ground and fill the world with screams as I begin to unravel. But I feel nothing because I am nothing. There is no pain, only the urge to linger a little longer. I cannot depart, not yet. So I sharpen what I think are my thoughts and force my way back into the world, to this dire place full of battered souls. I am needed here, whatever I may be, wherever this may be. My task remains unfulfilled. I must persist.",
+      "strategy": "When discarding Void Shard, don't just discard it before your crystals every time willy-nilly. It might be better to delay it so it lets you focus a breach on a different turn.",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Sparrow": {
+      "type": "mage",
+      "name": "Sparrow",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Sparrow",
+      "infobox": {},
+      "overview": "Sparrow is a very useful support mage, helping accelerate all of her fellow mages to greater power. Early in the game, Sparrow's ability Eldritch Tether may be used to focus any mages' breaches a total of 4 times. Later, the same ability may be used to instead help allies draw and prep up to 3 spells, leading to large swings. Sparrow's unique spell, Smolder , allows her to prep it to her breaches immediately, which all start as closed.",
+      "ability": "Spend 5 charges to activate Eldritch Tether during your main phase: Activate during your main phase: Focus any player's breach . Repeat this three additional times. OR Any ally with no closed breaches draws three cards and then preps up to three spells from their hand.",
+      "lore": "What I'm saying is, we're making it too complicated. Ever since they showed up, it's been bicker and argue, argue and bicker. Why all this talk? We know we need to fight, so let's go fight. No talking needed for that. Brama says Yan and her pack of miscreants are heretics and cannot be trusted, that the help they gave in the battle with the Thrice-Dead Prophet was just to throw us off. I bet they saw we were winning anyway; we could have done it without them no matter what anybody says. And let us not forget the aftermath of that fight... I have an idea - keep them fighting The Nameless. They will die in battle, or they'll slip up and betray their true loyalty, in which case I'll kill them myself. Either way we'll be rid of them, and that suits me just fine.",
+      "strategy": "Consider opening your II Breach on turn 1. Even though Smolder can be prepped to closed breaches, it is beneficial to keep it prepped instead of being forced to cast it on the following turn. For example, it means you get to have a 5-cost card instead of a 4-cost card in your hand on turn 3. Being able to prep Smolder to closed Breaches will still come in handy later when you have other spells in hand that must be prepped to opened (or focused) Breaches. Given the second option of her ability, Sparrow is unusually strong alongside a mage that can open their breaches faster than average due to great starting positions or other factors.",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    },
+    "Xaxos (V)": {
+      "type": "mage",
+      "name": "Xaxos (V)",
+      "wiki": "https://aeonsend.wiki.gg/wiki/Xaxos_(The_Void)",
+      "infobox": {},
+      "overview": "Xaxos first appeared in the Core box. His story continues in The Void , as he continues to explore dangerous and powerful alternatives to the accepted magic of the other breach mages. Xaxos requires sacrifice from his allied mages to be powerful. His unique spell, Pyre , requires an ally to discard a card to gain its full effect. Xaxos' ability Praetorian Halo also requires an ally to discard a card from hand, this time at random. In return, Xaxos is able to gain many small benefits; 1 life, a focused breach, and a card destroyed.",
+      "ability": "Spend 5 charges to activate this ability during your main phase: Any ally gains 1 charge and discards a random card in hand. Focus one of your breaches. Gain 1 life. Destroy a card in your hand or discard pile.",
+      "lore": "There are others now. Others like me. Others that believe there is a wisdom to be had in our supposed enemies. Yan Magda only reinforces this theory, as she walked between worlds with her gaggle of oddities for aeons. The void may yet be our salvation, our ascension. But we must be caution, lest we face the gallows. As we have seen since Yan's arrival, Brama is a suspicious soul. Thus we meet in the ruins of the Cragbellows, clandestine and clad in robes. Behind masks, we practice our blood magic and peer into the fractured barrier between our world and theirs. The dead air that spills from the breach carries whispers. And in time, those whispers have told us what must be done. Were the others to hear these whispers, they would say the end is near. And they would be right. The end is fast approaching. But not ours. Our time is just beginning.",
+      "strategy": "Your ability isn't particularly high impact, and that's okay. The scaling aspect of it means that you'll want to be activating it early, if at all, so I'd avoid getting cards that get charges. Most of his power comes from his signature card trivializing early minions.",
+      "trivia": "",
+      "images": {
+        "front": "front.jpg",
+        "back": "back.jpg"
+      }
+    }
+  },
   "nemeses": {
     "Rageborne": {
       "type": "nemesis",

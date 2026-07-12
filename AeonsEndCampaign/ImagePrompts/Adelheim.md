@@ -46,7 +46,7 @@
 
 ## Artistic Direction
 
-- **Composition**: 85mm portrait, head-and-shoulders or three-quarter. Subject slightly off-centre, looking to the left as if assessing a distant threat. Soft blurred Gothic stonework behind him.
+- **Composition**: Full-body standing shot, wide environmental framing. Subject centred, standing in a Gothic stone chamber or forge, facing slightly left as if assessing a distant threat. The surrounding environment — anvil, forge, crystalline tools — visible in the frame. Full figure from head to boots.
 - **Mood**: Calm, composed, quietly formidable. The stillness before action.
 - **Lighting**: Warm amber light from one side (candlelight or low torchlight), cool shadow on the opposite side. Subtle violet catchlight on one cheek from the amethyst shard.
 - **Colour Palette**: Muted charcoal, deep navy, weathered leather brown, subtle violet accent.

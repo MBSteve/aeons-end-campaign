@@ -212,19 +212,37 @@ def get_output_path(fields: dict, repo_root: Path) -> Path:
 # Image generation
 # ---------------------------------------------------------------------------
 
-def generate_image(prompt: str, api_key: str) -> bytes | None:
+def generate_image(prompt: str, api_key: str, reference_images: list[Path] | None = None) -> bytes | None:
     """Call OpenRouter to generate an image using the Gemini image model."""
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Content-Type": "application/json",
     }
 
+    # Build multimodal content: text + optional reference images
+    content_parts = [{"type": "text", "text": prompt}]
+
+    if reference_images:
+        print(f"  Including {len(reference_images)} reference image(s)...")
+        for img_path in reference_images:
+            if img_path.exists():
+                with open(img_path, "rb") as f:
+                    b64 = base64.b64encode(f.read()).decode("utf-8")
+                ext = img_path.suffix.lstrip(".")
+                content_parts.append({
+                    "type": "image_url",
+                    "image_url": f"data:image/{ext};base64,{b64}"
+                })
+                print(f"    Added: {img_path.name}")
+            else:
+                print(f"    WARNING: Reference image not found: {img_path}")
+
     payload = {
         "model": IMAGE_MODEL,
         "messages": [
             {
                 "role": "user",
-                "content": prompt,
+                "content": content_parts,
             }
         ],
         "max_tokens": 8192,
