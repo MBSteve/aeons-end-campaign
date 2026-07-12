@@ -1,12 +1,11 @@
-# Session Report Template
+# Session Report
 
-> Copy this template for each post-game report. Fill in all fields. Delete unused sections.
 
 ---
 
 ## Session Information
 
-- **Session ID**: [e.g. S01, S02, ...]
+- **Session ID**: S01
 - **Date**: 2026-07-12
 - **Mission Name**: Mission 1: What the Dark Attracts
 - **Chapter**: 1
@@ -31,7 +30,7 @@
 
 ## Memorable Events
 
-- Xaxos did 16 damage. Kadir gave her life
+- Xaxos did 16 damage on one turn. Kadir gave her life. Aidelheim never got to finish his Amplify Vision build, but added regular damage throughout
 
 ---
 
@@ -43,8 +42,10 @@
 
 ## Player Comments
 
-- Need post mission epilogue/debrief of the story. Need to have more than one possible mission based on the storyline. Some should have timweframes and consequences, etc.
+- Need post mission epilogue/debrief of the story. 
+- Need to have more than one possible mission based on the storyline. Some should have timeframes and consequences, etc.
 - Note that we normally have 4 mages for a battle, but we choose 2 3 or 4 depending on how many players we have. This needs to be wound into the story to expain why some of the mages could not take part, e.g because of limited resoiurces, other reasons, etc. Be creative.
+- be creative around the spell usage,etc
 
 ---
 
