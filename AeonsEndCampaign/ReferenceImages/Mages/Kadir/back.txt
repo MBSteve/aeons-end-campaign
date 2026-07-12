@@ -1,0 +1,23 @@
+**Character Description:**
+
+*   **Subject:** A female human adventurer, appearing to be in her late 20s or early 30s.
+*   **Build and Pose:** Athletic and toned build. She stands facing the viewer with her arms crossed firmly over her chest. Her posture is confident and grounded, with her head turned slightly to her right, gazing off-camera with a resolute, slightly distant expression.
+*   **Face and Hair:**
+    *   **Hair:** Shoulder-length, wavy golden-blonde hair, parted slightly off-center. It is not perfectly neat, suggesting an active lifestyle.
+    *   **Face:** She has a determined look, with a slight furrowing of her brows. Her skin is fair. Pushed up onto her forehead is a pair of brass-framed steampunk-style goggles with dark leather straps and dark, circular lenses.
+*   **Outfit (Torso and Arms):**
+    *   **Inner Gear:** A white bandage-like wrap is visible on her left upper arm. On her forearms, she wears large, segmented gauntlets made of dark metal plates and leather straps. Each gauntlet features a glowing red jewel-like conduit integrated into its structure, radiating a faint red light.
+    *   **Shirt:** She wears a short-sleeved, muted olive-green V-neck t-shirt made of a sturdy, well-worn cotton material. A dark grey or black undershirt is partially visible at the neckline.
+    *   **Sash:** Tied diagonally across her body from her right shoulder to her left hip is a long, white fabric sash or scarf. The fabric is loose, flowing, and appears worn, with frayed and torn edges trailing down her left side.
+*   **Outfit (Waist and Legs):**
+    *   **Belt and Equipment:** She wears a wide, brown leather heavy-duty belt with a large, rectangular brass buckle. The belt is laden with various leather pouches and tools. On her right hip is a holster that seems to hold a weapon, though it is partially obscured by the sash. A metal wrench with an elongated handle is tucked into a loop, and the head of a pickaxe is visible, clipped to the belt's back.
+    *   **Pants and Legwear:** She wears dark, possibly brown or reddish-brown, durable trousers made of a canvas or leather material. Over her knees are round, armored knee pads with a metallic, coppery finish.
+    *   **Footwear:** She wears tall, sturdy brown leather boots with thick soles, suitable for rugged terrain.
+*   **Materials and Textures:** The clothing and equipment show significant signs of wear and tear. The metal parts have scratches and tarnish, the leather is scuffed and creased, and the fabrics are faded and frayed. The overall aesthetic is a blend of practicality and steampunk engineering.
+
+**Background and Lighting:**
+
+*   **Setting:** The character stands at the foot of a wide, weathered stone staircase. The architecture is ancient, with monolithic stone structures. The ground is uneven and rocky, possibly dirt or stone pavement.
+*   **Environment Details:** In the mid-ground, several tall, slender posts with flickering oil lamps cast a warm orange glow. Other, less distinct figures are silhouetted on the stairs and in the distance. The atmosphere is dim and subterranean, like an ancient underground city.
+*   **Lighting:** The primary light source is the warm, flickering light from the oil lamps, creating dramatic highlights and deep, long shadows. The light primarily illuminates the character from her left, highlighting the edges of her armor and the folds of her clothing. The overall lighting is low-key and atmospheric.
+*   **Colour Palette:** The scene is dominated by warm earth tones, including browns, muted greens, coppery metals, and deep oranges from the light sources. The white sash provides a high-contrast element. The background fades into deep indigos, browns, and blacks.

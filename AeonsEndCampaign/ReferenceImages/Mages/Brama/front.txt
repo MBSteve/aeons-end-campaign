@@ -1,0 +1,50 @@
+This description is written as reference notes for a photorealistic CGI artist tasked with recreating the character and scene shown in the image.
+
+### 1. Character: Basic Information & Anatomy
+*   **Name:** Brama (as indicated by text).
+*   **Role:** Breach Mage Elder.
+*   **Age:** Elderly (approx. 60-70+).
+*   **Ethnicity/Skin Tone:** Deep dark brown skin with warm undertones.
+*   **Anatomy & Skin Details:**
+    *   **Face:** Significant aging signs are visible. Deep crow's feet around the eyes, pronounced nasolabial folds running from nose to corners of the mouth, forehead wrinkles, and sagging skin under the chin and on the neck. Skin texture should be mature, with visible pores and loss of elasticity.
+    *   **Hands:** The visible right hand is similarly aged, with prominent knuckles, veins, wrinkles across the back of the hand and fingers. Fingernails are short and practical.
+*   **Build:** Stout and solid. Thick-set, though the body shape is heavily concealed by draped layers of clothing.
+*   **Pose:** Standing upright, framed from just below the hips up. Torso is facing slightly to the right, but the head is turned to look almost toward the camera. The right arm is raised to hold a staff; the left arm is down by the side.
+*   **Expression:** A calm, gentle smile with closed lips. Eyes are warmly engaged, crinkling slightly at the corners, looking forward.
+
+### 2. Hair and Grooming
+*   **Hair Colour:** entirely silver-white grey texture is coarse and matte, not silky.
+*   **Style:** Pulled back tightly from the forehead and sides into a bun at the back of the head (bun is partially obscure but implied by the pull). A few shorter, wispy hairs escape near the temples and ears.
+
+### 3. Apparel & Accessories (Layer by Visible Layer)
+*   **Inner Neckline:** A cream or off-white under-tunic is barely visible right at the base of the neck. Above this is a dark purple band forming the neckline of the main garment.
+*   **Main Tunic/Poncho:** A heavy, drape-heavy overgarment, likely thick wool or dense cotton. The primary colour is deep maroon/crimson.
+    *   **Yoke Pattern:** Across the chest and shoulders is a decorated horizontal band: a solid teal/turquoise stripe, followed by a zigzag pattern alternating between cream/pale yellow and purple triangles.
+    *   **Lower Pattern:** On the lower torso area of the maroon tunic, there is a large, stylized floral or organic pattern rendered in dull gold, purple, and muted light blue hues.
+*   **Right Sleeve Drape:** A distinct section of fabric over the right arm (holding the staff) is a mustard yellow/deep gold colour, showing heavy folds and wrinkles consistent with thick cloth.
+*   **Sash/Belt:** A thick, diagonal sash runs from the left hip down towards the right thigh. It is teal/turquoise with orange leather ties and a large, circular orange leather boss/buckle on the right hip.
+*   **Jewelry:**
+    *   **Earrings:** Large, thick, polished gold hoop earrings.
+    *   **Necklaces:** Three layered strands.
+        *   Top: Medium-sized spherical teal/turquoise beads.
+        *   Middle: Small spherical gold beads.
+        *   Bottom: Slightly larger, slightly elongated gold beads, looping lower than the others.
+    *   **Bracelet:** A very thick, solid gold cuff bangle on the left wrist.
+
+### 4. Equipment and Props
+*   **Staff (Right Hand):** Held firmly by the right hand in an upper section.
+    *   **Shaft:** Dark brown, rugged wood.
+    *   **Grip Area:** Wrapped in a lighter, textured material (perhaps linen or thin leather) secured by three distinct reddish-brown horizontal straps.
+    *   **Top Element:** Just above the grip, white fabric ties hold a bundle of stiff, dark brown, dried reed-like bristles or possibly dark feathers. Below this bundle is a wide, polished gold metal cuff band around the wooden shaft.
+
+### 5. Background Environment
+*   **Setting:** An ancient stone settlement built into a cliff face at twilight/night. The style is painterly, slightly out of focus.
+*   **Architecture:** Multi-level structures made of rough-hewn beige/brown stone blocks. Several small, square windows emit a warm, yellow-orange light.
+*   **Landscape:** Rocky, uneven terrain leading up to a large, dark cave entrance directly behind the character's head. The sky visible at the top left shows dark blue night tones.
+
+### 6. Lighting and Atmosphere
+*   **Key Light:** A strong, warm light source from the front-right (relative to the character). This creates warm highlights on her right cheek, forehead, the gold jewelry, and the folds of the yellow sleeve, while casting soft shadows on the left side of her face and body.
+*   **Ambient Light:** The background is dominated by dark blue/purple twilight shadows, contrasted sharply by the small points of warm light from the windows. The overall mood is calm and settled.
+
+### 7. UI Elements (To be excluded from CGI render but noted for context)
+The character is framed within a card interface with a purple border. Text reads "BRAMA", "BREACH MAGE ELDER". Various game stats and abilities ("STARTING HAND," "STARTING DECK," "Brink Siphon") are overlaid in white dye-cut text blocks. There are slots for "CHARGE" at the bottom. These elements are flat graphic overlays and not part of the physical scene.

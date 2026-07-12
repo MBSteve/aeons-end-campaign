@@ -1,0 +1,41 @@
+This description is intended for a CGI artist to recreate the character depicted in her artwork, excluding the surrounding card interface, text, and UI elements.
+
+**1. Character Subject & Pose**
+*   **Identity:** Female human, appearing to be a young adult (approx. early 20s).
+*   **Build:** Slender, athletic, and toned figure.
+*   **Pose:** Standing straight, cropped at the hips. The body is angled slightly to the viewer's right, but the head is turned sharply to look to the viewer's left over her shoulder. The gaze is directed off-camera.
+*   **Visibility:** The character is visible from the top of her hooded head down to just below the hip belt. The right arm is cropped just below the elbow. Hands are not visible.
+
+**2. Head and Face**
+*   **Complexion:** Pale, fair skin tone.
+*   **Expression:** Stern, serious, and intense. Lips are closed in a neutral, firm line. Eyebrows are dark and slightly furrowed.
+*   **Eyes:** Striking, bright cyan (light teal/blue) irises. Sharp, angular eye shape.
+*   **Hair:** Short, dark brown to black hair. Choppy, layered bangs fall over the forehead, partially obscured by the hood.
+*   **Distinguishing Mars:** A distinct, dark reddish-brown scar or brand pattern is located on the cheek under her left eye (viewer's right side). It radiates outwards in cracked lines.
+*   **Neck:** High cheekbones and a sharp jawline. A dark, tight choker or high collar of the undersuit is visible tightly around the neck.
+
+**3. Outfit Colors, Materials, and Layers**
+The outfit is a combination of practical leather, armored plating, and tiered fabric.
+
+*   **Color Palette:** Dominated by deep royal blue, earthy matte brown/tan, metallic gold, and dark brown leather.
+*   **Layer 1: Undersuit (Torso & Arms):** A form-fitting bodysuit in deep royal blue. The material appears to be a smooth, tensile fabric or treated leather, showing slight stretch folds at the waist.
+*   **Layer 2: Armor (Shoulders):** Prominent, segmented pauldrons on both shoulders. The main plates are deep royal blue with a slight matte finish. They are heavily trimmed with thick, polished metallic gold borders and rivets that catch the light sharply.
+*   **Layer 3: Cloak/Hood (Head & Torso):** A heavy, simple hood and cloak made of a coarse, woven matte fabric (like canvas or heavy wool) in a muted earthy brown/tan color. It covers the top and back of the head, casting a shadow over the upper face. The fabric drapes diagonally across the chest from the left shoulder towards the right hip, showing deep folds.
+*   **Layer 4: Strapping & Hardware (Chest & Waist):**
+    *   A dark brown leather strap runs horizontally across the upper chest, securing the cloak. It features a rectangular metal buckle on the right side near the neck.
+    *   The cloak is secured near the left clavicle by a large, circular metal brooch/clasp. It is silver or steel with an elaborate, embossed starburst or floral design.
+    *   A wide, dark brown leather belt is cinched tightly around the waist.
+
+**4. Equipment and Props**
+*   **Bandolier of Knives:** Strapped to the left side of her abdomen/hip area, over the blue bodysuit, is a set of four throwing knives. They are held in individual dark leather loops attached to the belt/harness system.
+*   **Knife Details:** Only the handles and tops of the blades are visible. Handles are cylindrical and metallic silver/steel. The visible tops of the blades suggest a sharp, diamond shape.
+*   **Armbands:** Simple, dark brown leather armbands are worn on both biceps, just below the shoulder armor.
+
+**5. Environment and Lighting**
+*   **Setting:** A vast, dark subterranean cave or "breach." In the mid-ground and background, there is a multi-level settlement built into the dark rock walls. The architecture is blocky, stone-like, and utilitarian.
+*   **Atmosphere:** The air is murky and hazy. Small, indistinct particles (dust or perhaps faint snow) are suspended in the air.
+*   **Background Lighting:** The background is dim. Warm, yellow/orange light emanates from various rectangular windows and possible torches within the distant settlement structures, creating small pools of warmth against the cold, dark grey and brown rock.
+*   **Character Lighting:** The character is lit by a cool, diffused light source from the front-left. This creates sharp metallic highlights on the gold trim and knives, and casts deep shadows under the hood, beneath the cloak folds, and on the right side of her torso, defining her musculature.
+
+**6. Magical Effects**
+*   There are no active, glowing magical effects visible on the character or her equipment in this static pose. The scar under her eye has an arcane appearance but is not currently emitting light.

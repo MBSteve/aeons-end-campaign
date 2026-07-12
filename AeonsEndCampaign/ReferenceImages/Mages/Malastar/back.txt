@@ -1,0 +1,51 @@
+This image is a character illustration from a fantasy setting, accompanied by flavor text. The following description focuses solely on the visual elements, intended as reference material for a photorealistic CGI recreation.
+
+**1. Character: Physical Appearance**
+*   **Subject:** Human male.
+*   **Age:** Appears middle-aged. Evidence includes deep creases around the eyes (crow's feet) and nasolabial folds, as well as a receding hairline.
+*   **Build:** Broad-shouldered, stocky, and capable physique. Even distribution of weight.
+*   **Pose:** Standing in a three-quarter stance, body turned slightly towards the viewer's right. Head is turned forward. Feet are planted firmly shoulder-width apart.
+*   **Face:** Olive/tan skin tone with a somewhat weathered texture. Serious, scrutinizing expression with lips slightly pursed.
+    *   **Eyes:** Right eye is open, brown colored iris, focused intently on an object held close to it. Left eye is covered by a brown leather eyepatch that angles diagonally across the forehead.
+    *   **Hair:** Dark brown/black hair, closely cropped on top with a receding hairline.
+    *   **Facial Hair:** A full, well-groomed Van Dyke beard and mustache, dark brown in color.
+
+**2. Character: Clothing and Gear**
+*   **Torso Layer 1 (Base):** A short-sleeved tunic in a deep teal or forest green color. Fabric appears to be a heavy, matte cotton or linen weave.
+*   **Torso Layer 2 (Over):** A heavy hooded cowl or vest in a desaturated dark grey/blue. The material looks thick, possibly felted wool or heavy canvas. The hood is pushed back, gathering around the neck.
+*   **Belts and Straps:**
+    *   **Baldric:** A wide, dark brown leather strap runs diagonally from the right shoulder to the left hip. It features a worn brass buckle on the chest area. The leather shows indentations and scuffs.
+    *   **Waist Belt:** A wide utility belt made of thick brown leather with a rectangular brass brass belt buckle in the center.
+*   **Leg-wear:** Baggy, dark (black or charcoal grey) trousers, possibly of a heavy wool material, tucked into the boots.
+*   **Footwear:** Heavy brown leather boots reaching mid-calf. They show significant wear, scuffs at the toes, and creasing at the ankles. Straps with brass buckles are present across the instep and near the top cuff against the shin.
+*   **Arm Accessories:**
+    *   **Right Arm:** A simple brown leather armband/cuff cinched just above the bicep.
+    *   **Left Arm:** A substantial dark brown leather bracer covering the forearm from wrist to elbow, secured with two visible straps and small buckles.
+
+**3. Character: Equipment and Hands**
+*   **Left Hand:** Held up to the right eye. Between the thumb and forefinger, he holds a multifaceted, cut gemstone.
+    *   **Effect:** The gem emits a potent, vibrant green glow, acting as a primary light source for the face and hand.
+*   **Right Hand:** Held at waist level, bent at the elbow. The hand grasps a glass test tube or vial.
+    *   **Content & Effect:** The vial contains a bright, self-luminescent purple liquid.
+*   **Belt Equipment:** Attached to the waist belt are various items:
+    *   **Pouches on Right Hip:** A medium-sized, rounded leather pouch with a flap closure.
+    *   **Pouches on Left Hip:** A larger, rectangular leather pouch.
+    *   **Tools:** Tucked behind the right hip pouch is a small hammer or mallet with a wooden handle and metal head. A weapon hilt (possibly a dagger) is partially visible behind the left hip pouch.
+
+**4. Environment and Background**
+*   **Setting:** An exterior stone structure at night, possibly a temple entrance or dungeon exterior. It feels subterranean due to the overwhelming darkness.
+*   **Architecture:** Stone steps leading up to a platform in the upper center. Heavy stone pillars serve as torch mounts. The stone is rough-hewn and dark grey.
+*   **Atmosphere:** Hazy and dark. Smoke is visible rising from the torches. The deep background fades quickly into complete blackness.
+
+**5. Lighting and Color Palette**
+*   **Primary Lighting Source:** The green glowing gem in the character's hand provides intense green key light on the right side of his face, the eyepatch strap, and his left hand/shoulder.
+*   **Secondary Lighting Source (Environmental):** Several torches mounted on stone pillars in the background burns with warm orange/yellow flames. This provides a warm rim light on the character's shoulders and back, and illuminates the stone steps and smoke.
+*   **Tertiary Lighting Source:** The purple liquid in the vial casts a faint purple glow on the right hand and abdominal area.
+*   **Overall Palette:** dominated by dark earth tones (browns, greys, blacks) heavily shadowed. Punctuated by intense color light sources of emerald green, warm orange, and violet purple. The character's teal shirt is the primary mid-tone color.
+
+**6. Text Overlay (Right Side)**
+There is a block of cream-colored serif text on a dark textured background to the right of the illustration. The text reads:
+"It is written:
+YOU CAN ALWAYS TELL WHICH YOUNGLINGS WILL BE MAGES. MOSTLY, THEY ARE GIRLS, BUT SOMETIMES A BOY-CHILD WILL CARRY THE SPARK, THOUGH WEAKER THAN THEIR SISTER-KIND. TRAINING EACH OF THEM IS MY SAD CALLING, FOR MAGES COME AND GO LIKE THE BLACK DAYS IN THIS PLACE.
+FIRST, THEY LEARN THE SISTER-WORDS, THE MAGE'S TONGUE, THE LANGUAGE OF ALL THINGS. NEXT WE FASHION THEM A GEM, ONE THAT IS THEIRS ALONE, A CONDUIT FOR THEIR NASCENT POWER. AFTER THIS, KADIR TAKES THEM DEEP WITHIN THE BOWELS OF THE CAVE, WHERE THEY MUST FIND THEIR WAY BACK WITH ONLY THEIR GEM TO PROTECT THEM. MANY FIND THEIR WAY HOME, BUT WE HAVE LOST MANY WOULD-BE MAGES IN MY YEARS.
+A STUDENT'S LAST TASK IS TO SLAY A BEAST, ARMED AGAIN ONLY WITH THEIR GEM AND THEIR WITS. THE CHILD IS DROPPED DOWN A SHAFT OUTSIDE CHASMWALK, LEFT ALONE WITH WHATEVER MISCREATION WE HAVE SNARED FROM THE VOID. SOMETIMES THE CREATURE IS WOUNDED, WEAK, BUT ALWAYS THEY ARE HUNGRY. A STUDENT THAT NAVIGATES THIS ORDEAL IS NAMED APPRENTICE. AFTER THAT, ONE NEED ONLY SURVIVE LONG ENOUGH TO EARN THE RANK OF MAGE."

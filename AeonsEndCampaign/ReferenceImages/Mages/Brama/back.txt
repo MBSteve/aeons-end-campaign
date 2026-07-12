@@ -1,43 +1,82 @@
-This is a detailed visual reference breakdown of the character and environment in the image.
+Here are detailed reference notes for generating a photorealistic CGI model of the character, presented as a full visual analysis.
 
-**SUBJECT OVERVIEW**
-*   **Character:** An elderly human woman.
-*   **Age:** Geriatric (70+). Skin is deeply wrinkled, particularly on the face, neck, and hands.
-*   **Build:** Slender frame, stooped posture typical of advanced age.
-*   **Pose:** Standing full-body, feet planted shoulder-width apart. Body is slightly turned to the viewer's left. Right hand grips a staff; left arm hangs loosely at her side. Her gaze is directed off-camera to the left.
-*   **Expression:** Stoic, weary, with lips gently pressed together.
+---
 
-**HEAD & FACE**
-*   **Skin:** Dark brown, heavily textured with deep frown lines, crow's feet, and bags under the eyes. Showcases many age spots and natural imperfections.
-*   **Hair:** Silvery-white, coarse texture. Pulled back tightly into a neat bun at the nape of the neck. The hairline is slightly receding.
-*   **Eyes:** Dark irises, slight yellowing of the sclera.
-*   **Jewelry:** Large, thick, gold-colored metal hoop earrings, polished but not perfectly smooth.
+### 1. Character Identity & Physiology
 
-**OUTFIT (TOP TO BOTTOM)**
-*   **Neck:** Multiple layered necklaces over the tunic neckline.
-    *   Top layer: A choker with small dark beads and a central gold-colored metal pendant.
-    *   Middle layer: A long strand of turquoise/cyan spherical beads.
-    *   Bottom layer: A strand of dark, reddish-brown beads with a large, irregularly cut green gemstone pendant set in gold metal.
-*   **Torso (Inner/Main Layer):** A deep green tunic or robe made of heavy, woven fabric (like wool or thick cotton). It has a central vertical panel of reddish-purple fabric bordered by lighter green trim. The green sections feature faded golden-yellow patterns (swirls and geometric motifs). Sleeves reach the forearms.
-*   **Torso (Outer/Drape Layer):** A large drape of rich golden-yellow fabric with elaborate, faded gold brocade patterns. It covers the right shoulder and arm, hanging down the right side of her body to the knee. The fabric appears thicker and stiffer than the green tunic, possibly silk brocade.
-*   **Waist:** A wide, multi-layered green fabric sash serves as a belt, tied at the front.
-*   **Accessories:**
-    *   **Left Wrist:** A thick stack of plain gold-colored metal bangles.
-    *   **Waist (Left Side):** A small, rectangular green leather or canvas pouch hanging from the belt by straps, with a gold metal buckle closure.
-*   **Lower Body:** Below the tunic and drape, a purple skirt or under-robe is visible, reaching the ankles. It appears less patterned.
-*   **Footwear:** Sturdy, dark brown leather boots or shoes with rounded toes, mostly hidden by the robes.
+*   **Subject:** An elderly human woman, referred to in the text as the last of a "Conclave of Sisters."
+*   **Age:** Advanced age (70s+). Marked by deep nasolabial creases, crows' feet around the eyes, and forehead wrinkles. The skin on her neck and hands is loose and textured with age.
+*   **Ethnicity/Skin Tone:** Dark brown skin tone with warm undertones.
+*   **Build:** Bony, slightly weary but standing upright with a sturdy posture. Average height.
+*   **Face & Expression:** A gentle, composed expression. She offers a warm, slightly weary smile. Her dark, steady eyes look forward with resilience.
+*   **Hair:** Short, tightly coiled natural hair. The color is antique silver-grey, receding slightly at the temples.
+*   **Head Accessories:** A very thin, metallic silver wire band or circlet sits subtly in her hair, roughly an inch back from the hairline.
 
-**PROP: STAFF**
-*   **Held:** In the right hand, gripped firmly below the head.
-*   **Shaft:** Made of dark, gnarled wood showing natural grain, knots, and wear. The base is capped with a conical brass or bronze metal ferrule.
-*   **Head:** Elaborate design. The wood branches out. A large, faceted, glowing purple crystal shard is suspended centrally within brass/gold metal prongs. Above it, the wood is pinched by brass bands, and two smaller, duller purple crystals are embedded. A metal ring is attached near the top, from which a small metal charm or bell hangs.
-*   **VFX:** The central purple crystal has a strong internal glow and casts a purple light onto the surrounding wood and the character's right hand.
+### 2. Pose & Action
 
-**ENVIRONMENT & LIGHTING**
-*   **Setting:** A large, dark subterranean cavern or underground city. Structures are made of rough, dark stone. Stairs lead upwards in the background left. Pillars and archways are visible in the mid-ground.
-*   **Ground:** Uneven, dark stone floor.
-*   **Lighting Source:** Multiple sources. Warm, orange light from braziers or torches in the background (left and center). Cool, blue/green ambient light fills the shadows from the right and above.
-*   **Lighting Direction & Quality:** The primary light on the character is warm, coming from the upper left, highlighting her face and the golden drape. Strong blue/green rim lighting is present on the right side of her body and staff, defining her form against the dark background. The lighting is high-contrast, creating deep shadows across her figure.
+*   **Standing Pose:** Full-body standing view, oriented slightly to the viewer's right.
+*   **Right Hand:** Firmly holding a tall staff. The hand grips the staff shaft at chest height.
+*   **Left Hand:** Relaxed down at her side near her hip.
+*   **Weight Distribution:** Balanced on both feet, looking stable.
 
-**TEXT OVERLAY (FOR CONTEXT ONLY, NOT VISUAL)**
-*   The text confirms her role as an ancient elder and leader within the underground city of Gravehold.
+### 3. Outfit & Layers (Top to Bottom)
+
+The clothing is multi-layered, textured, and shows significant signs of wear; garments are faded, creased, and slightly stiff from age, not flowing silk.
+
+**Neck & Chest Area:**
+*   **Necklaces (Layered trio):**
+    *   *Top (Choker):* A short strand of vibrant turquoise nugget beads.
+    *   *Middle:* A medium-length strand of small, oxidized brass/gold metal beads.
+    *   *Bottom (Long pendant):* A long strand holding a large, polished, roughly rectangular turquoise slab pendant framed in metal.
+*   **Yoke/Collar:** A distinctive V-shaped patterned fabric yoke covering the shoulders and chest. It features horizontal stripes of dyed fabric in muted earth tones: deep ochre, faded olive green, and creamy linen, separated by thin reddish lines. Small, subtle geometric diamond patterns are woven into these stripes.
+
+**Torso & Arms:**
+*   **Outer Robe/Vest:** A heavy, woven cotton or wool garment (tunic/vest style) in a deep reddish-purple color. It has wide elbow-length sleeves. The color is faded in areas of high wear, like the shoulders and edges.
+*   **Under-Sleeves:** Emerging from beneath the purple robe are long, semi-fitted sleeves made of a mustard-yellow woven fabric, reaching her wrists.
+*   **Bracelets:**
+    *   **Right Arm:** A wide, chunky cuff bracelet made of beaten, oxidized brass, worn on the forearm just below the purple sleeve's edge.
+    *   **Left Wrist:** A similar wide, beaten brass cuff bracelet.
+
+**Waist & Hips:**
+*   **Sash:** A wide, off-white cotton sash is tied around her true waist, with long tails draped down the front center.
+*   **Belts:** Two distinct leather belts sit low on her hips over the purple robe and white sash.
+    *   *Top Belt:* Thick, dark brown leather with heavily tarnished brass rectangular plates and buckles.
+    *   *Bottom Belt:* A slightly thinner, plain tan leather belt.
+*   **Pouches:** Attached to the belts on her right hip are two stacked rectangular utility pouches made of moss-green leather with lighter tan trim and simple button closures.
+
+**Skirt & Legs:**
+*   **Main Skirt:** The tunic transitions into a long skirt that reaches just above the ankles. The central fabric is the same mustard-yellow as the under-sleeves.
+*   **Side Panels:** Wide side panels on the skirt feature large, faded circular/swirling abstract patterns printed in muted olive green and pale mauve on the yellow field.
+*   **Footwear:** Dark, utilitarian leather boots are visible at the hem. They are scuffed and covered in cavern dust.
+
+### 4. Equipment: The Staff
+
+Held under her right arm, resting on the ground. It is taller than she is.
+*   **Shaft:** A natural, dark wooden branch, smoothed but retaining natural imperfections.
+*   **Grip:** Just below the head, a section is tightly wrapped with white cloth or leather strips, secured by darker twine.
+*   **Head/Finial:** A complex piece. The wood branches at the top to clutch a large, multifaceted, violet-colored crystal. Below this crystal is a circular wooden structure with a large central hole, resembling a stylized eye or gear.
+*   **Magical Effect:** The violet crystal at the top glows with a faint, internal purple light, casting very subtle illumination on the wood casing around it.
+
+### 5. Environment & Lighting
+
+*   **Setting:** The character stands on a rough stone floor. Behind her is a vast underground cavern city ("Gravehold"). Indistinct stone staircases, rock walls, and faint structural outlines are visible in the deep gloom.
+*   **Lighting Direction:** Strong, warm source light comes from the *lower left*.
+*   **Lighting Quality:** The light is warm and orange (like firelight or a magical torch). It strongly highlights the left side of her face, the texture of her hair, the folds of her yellow and purple clothing on the left side, and the texture of the staff.
+*   **Shadows:** Deep, dramatic shadows are cast off her right side, obscuring details on the right side of her clothing and blending into the dark background.
+
+### 6. Colour Palette Details
+
+The overall palette is earthy, muted with age, and warm due to the lighting.
+*   **Skin:** Rich dark brown.
+*   **Hair:** Antique silver.
+*   **Robe:** Deep reddish-purple (faded).
+*   **Sleeves/Skirt:** Mustard yellow (faded).
+*   **Skirt Patterning:** Muted olive green, pale mauve.
+*   **Yoke:** Ochre, olive green, cream.
+*   **Leather (Belts/Pouches):** Dark brown, tan, moss green.
+*   **Metal (Jewelry):** Oxidized brass, oxidized silver hue.
+*   **Turquoise:** Vibrant cyan-blue with dark matrix lines.
+*   **Crystal:** Glowing violet.
+
+---
+**Note on Text:** The image contains a large block of justified text on the right side, printed in an off-white serif font. This is narrative text and not part of the physical scene, but it covers the background on the right.

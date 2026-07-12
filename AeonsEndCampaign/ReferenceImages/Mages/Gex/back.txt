@@ -1,0 +1,67 @@
+This is a detailed visual analysis of the provided image, structured as reference notes for a 3D artist tasked with creating a photorealistic CGI model of the character and scene.
+
+---
+
+### 1. Character: Anatomy, Attributes, and Pose
+
+*   **Subject Gender:** Female.
+*   **Age Apparent:** c. 28–35 years old.
+*   **Build Type:** Extremely athletic and muscular warrior physique. Low body fat. Shoulders are broad, biceps and triceps are highly defined, and abdominal muscles (six-pack) are clearly visible.
+*   **Overall Pose:** Standing grounded and square to the viewer. Feet are planted shoulder-width apart. The character holds a massive hammer across the back of her neck and shoulders.
+*   **Head and Face:**
+    *   **Hair:** Shaved head (buzz cut). Very short dark hair stubble is visible evenly across the scalp.
+    *   **Skin Tone:** Warm, reddish-brown.
+    *   **Face Shape:** Strong jawline. High cheekbones.
+    *   **Expression:** Resolute, serious, and focused. Mouth firmly closed. Eyes looking directly forward at camera height.
+    *   **Face Markings:** Distinctive red paint applied around both eye sockets, resembling a mask or heavy eye makeup, extending dramatically toward the temples and cheeks.
+*   **Hands and Action:**
+    *   **Left Hand:** Gripping the metal shaft of the hammer just below the head, knuckles showing tension from the weight, resting near her left clavicle.
+    *   **Right Hand:** Relaxed at her side, hanging loosely near her hip.
+
+### 2. Clothing and Accessories (Layer by Layer)
+
+*   **Torso (Base Layer):** A form-fitting, cropped tank top in a bright lime green. The material appears to be a stretch cotton or jersey knit, conforming tightly to her muscular build.
+*   **Neckwear:** A thin, tight black choker with a small, metallic rectangular focal point in the center throat area.
+*   **Wristwear:**
+    *   **Left Wrist:** A wide, thick black leather cuff.
+    *   **Right Wrist:** A very thin black band (leather cord or cloth).
+*   **Waist and Hips:**
+    *   **Main Belt:** A wide, worn brown leather belt with multiple layers and heavy metal (possibly iron or steel) buckles and fittings.
+    *   **Harness/Pouches:** Attached to the main belt is a secondary layer of brown leather straps holding at least one visible dark grey canvas or leather utility pouch on her right hip.
+    *   **Tabard/Loincloth:** Hanging from the front of the belt is a long panel of fabric matching the lime green crop top. It reaches mid-shin, and the bottom edge is heavily torn, frayed, and tattered.
+*   **Legs:**
+    *   **Trousers:** Baggy trousers in a dark greenish-teal color. Material appears durable, like a heavy cotton canvas or twill, showing loose folds around the knees where they are tucked into the boots.
+*   **Feet:**
+    *   **Boots:** Knee-high brown leather combat boots. They feature thick soles and multiple horizontal leather straps with metal buckles up the calves. The leather is heavily scuffed and dirty from use.
+
+### 3. Equipment and Props
+
+*   **Main Weapon (Hammer/Maul):** A massive, two-handed maul.
+    *   **Hammer Head:** A huge, solid block of dark grey forged metal (steel or iron). The faces are flat and blunt. The edges show wear, scratches, and indentations from impact.
+    *   **Shaft:** A long, thick metallic pole (bright silver/steel). It features segmented black grips (rubber or wrapped leather material) spaced along the main holding area and near the head.
+
+### 4. Setting and Environment
+
+*   **Location:** An exterior ancient stone structure, possibly a temple or city entrance.
+*   **Ground:** Uneven stone pavement or dirt.
+*   **Background Elements:** Wide stone steps lead upwards behind the character. To the right are indistinct, dark stone architectural elements. At least three small, silhouetted figures are visible walking on the distant steps/terraces.
+*   **Atmosphere:** Hazy and somewhat dim. There is heavy aerial perspective (fog/dust) obscuring distant details.
+
+### 5. Lighting and Colour Palette
+
+*   **Primary Lighting Source:** Warm, low-angle light coming from the viewer's right (the character's left side). This suggests sunset, sunrise, or nearby torches. This light creates warm highlights on her left shoulder, arm, side of the face, and the hammerhead, while casting long shadows to the left.
+*   **Secondary Lighting:** Cooler, dim ambient twilight fills the shadowed areas.
+*   **Colour Palette:** Dominated by earth tones and muted greens.
+    *   *Greens:* Bright lime green accent (top, loincloth), dark teal (pants).
+    *   *Browns:* Leather gear, skin tone, ancient stone.
+    *   *Greys/Metals:* Hammer, stone architecture.
+    *   *Red:* Distinctive face paint.
+
+### 6. Magical Effects
+
+*   **Visible Effects:** None. There are no glowing runes, magical auras, or supernatural energies visible on the character or her equipment in this static shot.
+
+### 7. Image Layout Note
+
+*   The character and environment occupy the left two-thirds of the frame.
+*   The right third of the image features a dark, semi-transparent overlay box containing blocks of white serif text (a quote and narrative description about the character and her hammer).

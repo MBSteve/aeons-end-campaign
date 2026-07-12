@@ -1,0 +1,13 @@
+This is a reference image for a character named Mazahaedron on a game card.
+
+**Character Description:**
+Subject is an elderly man with deep red skin, covered in intricate dark red and black tribal tattoos on his face, chest, arm, and wrist. He has a long, flowing grey beard and a disheveled mane of grey hair with a topknot. His eyes are closed in a serene expression.
+
+**Outfit & Pose:**
+A thick, deep red fabric, possibly wool, is draped over his left shoulder, forming a toga that crosses his chest and obscures his lower body. His right arm is bare, revealing more tattoos. He wears a dark, textured cuff on his left wrist. His left hand is raised in a gesture, palm open and facing forward, with an eye symbol tattooed on the palm and circular patterns on his wrist.
+
+**Environment & Lighting:**
+The background is a dark, cavernous setting with indistinct stone structures and warm yellow light sources, possibly windows. The primary light source is warm and comes from the left, casting shadows on the right side of his body and highlighting the texture of his skin and clothing.
+
+**UI Elements:**
+The character portrait is enclosed in a purple border. Above him are four circular icons with symbols: a sun, a crescent moon, a circle, and a diamond, labeled I, II, III, and IV, respectively. To the right, white text reads "MAZAHAEDRON" and "HENGE MYSTIC." Below are boxes for "PLAYER NUMBER" and "LIFE," followed by "STARTING HAND" and "STARTING DECK" lists, and the "Underearth Mantra" ability description. At the bottom are four square buttons with "20" and an icon. The left and right edges have vertical tabs labeled "DECK" and "DISCARD." The overall color palette is dominated by deep reds, dark greens, and warm yellows.

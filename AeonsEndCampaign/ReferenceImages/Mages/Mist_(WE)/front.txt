@@ -1,0 +1,56 @@
+This image is a character card from a board game, featuring a central illustration and surrounding user interface elements. The following is a detailed description for photorealistic CGI reconstruction aimed at the character illustration.
+
+### 1. Character: MIST
+
+**General Information:**
+*   **Age:** Young adult female (estimated early-to-mid 20s).
+*   **Build:** Athletic, lean.
+*   **Pose:** Bust-shot view. The body is turned three-quarters to the right, showing the left shoulder and side profile. The head is turned sharply to the right, looking off-camera, almost in complete profile. Only the upper torso from the hips is visible.
+
+**Head and Face:**
+*   **Skin:** Olive/tan complexion with smooth texture.
+*   **Face Shape:** defined jawline, high cheekbones, prominent straight nose.
+*   **Eyes:** Dark brown irises. The glance is intense, directed sharply to the right.
+*   **Expression:** Serious, focused, slight furrow in the brows, mouth closed in a neutral line.
+*   **Makeup/Markings:** Distinctive sharp, black geometric makeup around the right eye, resembling a stylized spade or diamond shape extending over the brow bone and down onto the cheek. A smaller, simple black mark under the left eye. Eyebrows are dark and defined.
+*   **Hair:** Dark chocolate brown. Cut into a chin-length bob. Straight, with texture, curving slightly inward at the ends. Thick bangs cover the forehead, slightly parted just off-center.
+
+**Outfit and Armor:**
+*   **Torso Base:** A sleeveless, form-fitting top made of a matte, dark charcoal grey fabric.
+*   **Left Shoulder Armor (Pauldron):** The most prominent piece of gear. A large, curved metal plate covering the shoulder cap and upper deltoid.
+    *   *Material/Finish:* Deep violet metal with a satin sheen, highly reflective of environment lighting.
+    *   *Details:* Decorated with raised brass or gold trim in swirling patterns. Three oval, domed gems are embedded directly into the front face of the armor; they glow with an internal warm orange-red light.
+*   **Back/Harness:** A smaller segment of matching violet metal plating is visible on the upper back, connected by dark leather or synthetic straps. Lower down, near the armpit/latissimus, another glowing orange-red circular fixture set in golden metal is visible.
+*   **Waist:** A thick, matte red fabric sash or belt is clenched tight around the waist.
+*   **Left Arm:** The visible left arm, from just above the wrist extending up to the mid-bicep (disappearing under the shoulder armor), is tightly wrapped in layered cloth bandages. The color is pale mint green or off-white, with evident fabric weave texture and slight shadowing between layers.
+
+**Hands:**
+*   Not visible within the frame.
+
+### 2. Environment and Lighting
+
+**Background Setting:**
+*   A settlement built into a desert canyon cliffside at twilight or deep night.
+*   **Architecture:** Adobe-style, cubic buildings constructed from tan and brown stone/clay. Square windows emit warm yellow lamplight. Stone stairs and terraces connect different levels.
+*   **Landscape:** Dark, craggy rock faces tower behind the buildings. Sparse, dry brush vegetation is visible near the stairs.
+*   **Depth:** The background is significantly out of focus (bokeh), creating depth behind the sharp character portrait.
+
+**Lighting and Realism:**
+*   **Primary Light Source:** Strong, warm yellow-orange light source from below and the right (likely fires or torches from the settlement).
+*   **Impact on Character:** This creates sharp highlights on the bridge of her nose, cheekbone, chin, and the front edges of her violet armor, casting deep shadows on the left side of her body and face.
+*   **Secondary/Ambient Light:** Cool, dark blue-green ambient light captures the shadowed areas and the night sky tones.
+*   **Emissive Elements:** The gems in her shoulder armor and back harness actively glow red-orange, contributing slightly to local lighting.
+
+### 3. User Interface Overlay
+
+The illustration is framed by a game card interface:
+*   **Border:** A dark purple frame surrounds the entire image.
+*   **Top Banner:** Four circular icons numbered I, II, III, IV (Roman numerals) with distinct symbols (fire, rotation, omega, omega).
+*   **Side Banners:** Vertical text reading "DECK" on the left and "DISCARD" on the right.
+*   **Right Panel (Data Field):** A textured dark background containing text.
+    *   "MIST" in large white serif font.
+    *   "VOIDWALKER" in smaller gold font.
+    *   Sections for "PLAYER NUMBER", "LIFE", "STARTING HAND", "STARTING DECK" with associated white text values.
+    *   "Exalted Brand" ability title in gold.
+    *   Ability description text in white.
+*   **Bottom Edge:** Six identical gold-rimmed tokens displaying the number "20".

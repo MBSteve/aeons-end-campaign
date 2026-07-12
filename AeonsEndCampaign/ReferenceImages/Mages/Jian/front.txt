@@ -1,0 +1,30 @@
+This is a detailed reference description for a photorealistic CGI recreation of the character Jian from the card image.
+
+**Character Name:** Jian
+**Occupation:** Breach Mage Orphan
+
+**Overall Appearance:** Young male character, human, with a slight, youthful build. He is shown from the waist up, standing and looking slightly to his left.
+
+**Face:**
+*   **Eyes:** The most crucial feature. Both pupils are glowing with a bright, solid, cool white light. There are no irises or pupils visible, just the intense white glow that slightly illuminates the skin around them. The eye shape is almond, with neutral lids.
+*   **Skin:** Pale, smooth, and youthful with soft, even texture. The skin has subtle warm highlights from the environmental light sources and cool shadows on the unlit side of his face.
+*   **Features:** Soft, rounded facial structure with high cheekbones and a small, refined nose. The mouth is small, with a straight, closed-lip expression that is neutral to slightly serene. The chin is soft and rounded. There is no visible facial hair, scars, or markings other than the glowing eyes.
+*   **Hair:** Short, straight, black hair cut into a simple, neat bowl-cut style. A thick, straight fringe covers the forehead, ending just above the eyebrows. The hair has a slight sheen and shows minimal individual strands, suggesting a dense, uniform texture.
+
+**Outfit:**
+*   **Outer Shawl/Cape:** A large, heavy brown shawl or short cape is draped over his shoulders, covering his upper arms and chest. It is made of a thick, textured fabric like rough wool or heavy cotton twill, with visible diagonal folds and deep creases. The edges appear slightly worn, with subtle fraying. The colour is a warm, earthy brown.
+*   **Tunic/Jacket:** Under the shawl, he wears a fitted, deep green tunic or jacket. The fabric appears smooth but firm, possibly a treated canvas or light leather. It features a high, standing collar that is lined on the inside with a wide band of golden yellow fabric. The front of the tunic has a vertical closure secured by a row of small, flat, circular gold buttons, partially visible. The long sleeves are also green, ending in simple cuffs that are slightly visible under the shawl.
+*   **Waist:** Around his waist, he wears a wide, crimson red sash made of a smooth fabric, wrapped horizontally in multiple folds. Over the sash, there is a thick, golden leather belt with a large, circular gold buckle. The buckle has a design of concentric rings.
+*   **Lower Body:** Below the belt, the dark green fabric of the tunic or a separate skirt is visible.
+
+**Equipment / Props:** No visible weapons, staves, or magical tools are shown in this portrait.
+
+**Hands:** The hands are not visible, as they are concealed beneath the brown shawl.
+
+**Lighting:** The primary light source is from the upper right, which is warm (orange/yellow from the background windows and the header icons), casting soft highlights on the right side of his face, the gold collar lining, and the folds of the shawl. The left side of the face and body are in cool, deep shadow. The glowing white eyes provide a small, localized light source on the skin immediately surrounding them.
+
+**Background:** A dark, ancient stone city built into a cliff face at night, showing square illuminated windows with warm orange light. The architecture is blocky and built from dark, weathered stone. Large, dark rock formations dominate the scene, with a dark blue/purple night sky visible in the upper area. The overall atmosphere is cold and mysterious.
+
+**Colour Palette:** Deep greens, warm browns, crimson red, gold, dark greys/blues, and warm orange from the light sources. The dominant effect is the contrast between the warm light and cool shadows.
+
+**Special Effects:** The glowing white eyes are the primary magical effect. The warm light from the background and the icons in the header also create a soft, magical atmosphere.

@@ -1,0 +1,64 @@
+This reproduction note is designed for a CGI artist to build the character from the ground up, focusing on physical geometry, material textures, lighting interactions, and volumetric effects based on the provided illustration.
+
+### 1. Character Essentials: Physique, Face, and Pose
+
+*   **Subject:** Female human mage, appearing young adult (approx. late teens to very early 20s).
+*   **Build:** Slender, athletic frame. Roughly 5'5" to 5'7" proportions.
+*   **Pose (Hovering Suspended):**
+    *   The character is floating in mid-air. The torso is upright but twisted slightly towards viewer-left.
+    *   **Right Arm:** Extended forward and slightly bent at the elbow. Hand is open, palm facing slightly upward and forward, fingers tense and splayed, generating magic.
+    *   **Left Arm:** Held close to the body, bent at the elbow. Hand is a loose fist resting near the left hip.
+    *   **Right Leg:** Dramatically bent at the knee, lifting the thigh while tucking the lower leg and foot backwards and upwards towards the glutes.
+    *   **Left Leg:** Hanging largely straight down, toe pointed slightly downwards.
+*   **Face & Expression:**
+    *   **Skin:** Fair/pale complexion, smooth texture.
+    *   **Eyes:** Large, intense, wide open, staring directly forward. Dark irises (deep brown or black-violet) reflecting the magical light.
+    *   **Brows:** Dark, drawn together in a fierce, determined frown.
+    *   **Mouth:** Small, set in a firm, resolved straight line.
+*   **Hair:** Dark brown/black, thick and voluminous. It is collar-bone length with no distinct parting. The hair is being blown upwards and backwards dynamically by the magical energy rising from her body.
+
+### 2. Full Outfit & Materials (Layer by Layer)
+
+*   **Innermost Layer (Undershirt/Dress):**
+    *   **Material:** Billowy, lightweight off-white/cream cotton or linen.
+    *   **Sleeves:** Puffy, ending just below the elbows with gathered elastic cuffs. Deep folds and wrinkles due to the fabric's volume.
+    *   **Skirt:** A voluminous, pleated skirt extending to mid-calf. It billows outwards due to the hovering motion and rising energy.
+    *   **Condition:** Clean but creased fabric.
+*   **Outer Layer (Sleeveless Tunic):**
+    *   **Material:** Stiff, heavy maroon/burgundy canvas or suede.
+    *   **Cut:** Sleeveless vest with a V-neckline. It has flared skirt panels that sit over the white underskirt, ending at mid-thigh.
+    *   **Trim:** All edges (neck, armholes, hem) are bordered with a thick, flat yellow-gold fabric trim (possibly embroidered).
+*   **Belt:**
+    *   **Material:** Medium-width brown leather strap.
+    *   **Buckle:** Simple, rectangular brass buckle connected in the center front.
+*   **Scarf/Cowl:**
+    *   **Material:** Thick, heavy-knit wool in a deep magenta/fuchsia color.
+    *   **Drape:** Wrapped thickly around the neck and draping over the left shoulder. A long tail of the scarf flows dynamically behind her to the right, caught in the energy updraft.
+    *   **Condition:** The very end of the flowing tail is frayed and tattered.
+*   **Boots:**
+    *   **Material:** Deep red/maroon leather, matching the tunic. Solid construction with thick soles.
+    *   **Style:** Knee-high length. Front crisscross lacing with a lighter tan/yellow cord running from ankle to top.
+
+### 3. Accessories & Equipment
+
+*   **Arm Wraps:** White cotton bandage wraps tightly wound around the right forearm, from wrist to elbow.
+*   **Leg Wraps:** Similar white cotton bandage wraps on the left leg, just below the knee on the shin and calf.
+*   **Belt Pouches (Right Hip):** Two cylindrical pouches attached to the leather belt. Made of red leather or heavy stiff fabric. They contain items with visible wooden or cork caps (possibly scrolls or vials).
+
+### 4. Magical Effects (Volumetric & Lighting)
+
+The magic is the defining visual element and primary light source.
+
+*   **Primary Effect (Right Hand):** A concentrated sphere of chaotic magical energy forms in the open palm. It is a mix of electric purple, vibrant pink, and bright blue/white at the core. It looks gaseous and volatile, with sparks and plasma-like tendrils.
+*   **Secondary Effect (Body Aura):** A strong magical aura engulfs the entire character. This energy appears as rising, flame-like wisps and steam in purple and deep pink tones, outlining her silhouette from head to toe and flowing upwards.
+*   **Lighting Interaction (Crucial):** The magic acts as an intense, close-proximity rim light. It casts sharp, vibrant purple and pink highlights on the edges of her hair, the folds of the scarf, the tunic trim, the white sleeves, and the leather of the boots. The rest of the character is relatively shadowed in contrast.
+
+### 5. Background Environment (Atmospheric)
+
+The background is completely out of focus, providing context through shapes and ambient color only.
+
+*   **Setting:** Nighttime exterior. Appears to be ancient stone ruins or a grand stairwell.
+*   **Right Side:** Wide, blurred grey stone steps leading upwards. A high stone wall further back. A faint, ambient green glow is visible far in the upper right distance.
+*   **Left Side:** Indistinct dark shapes, possibly pillars or trees cloaked in shadow.
+*   **Ground & Air:** Dark, uneven ground. The air is heavy with dark atmospheric haze and mist.
+*   **Ambient Lighting:** Very dim, warm light source from the upper right (perhaps a torch or moon out of frame) illuminates the steps weakly.

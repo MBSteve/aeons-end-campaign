@@ -1,0 +1,52 @@
+This is a detailed reference breakdown for a photorealistic CGI recreation of the character depicted on the card. The source image is a stylized 2D illustration; the goal is to translate its painted textures and exaggerated forms into realistic 3D geometry, materials, and lighting.
+
+### 1. Character Overview & Anatomy
+*   **Gender/Race:** Human Male.
+*   **Age:** Mid-40s to early 50s. Rugged, weathered appearance.
+*   **Build:** Hyper-mesomorphic, extremely muscular and bulky. Exaggerated proportions with massive shoulders, chest, traps, and arms. Very low body fat, skin is tight against muscle bellies with visible vascularity on biceps and forearms.
+*   **Pose:** Static standing pose. Legs wide apart in a stable stance. Torso slightly turned to viewer's left. Head turned down and left, chin tucked. Both arms straight down at sides, hands clenched into tight fists.
+*   **Skin:** Deeply tanned, leathery texture. Sun-weathered with distinct pores, crow's feet around eyes, and deep furrow lines on the forehead and brow. A long, pale, healed scar line runs diagonally across the left pectoral muscle towards the shoulder.
+
+### 2. Head & Face
+*   **Face Shape:** Broad, square jawline with heavy masseter muscles. Prominent, thick brow ridge casting shadows over eyes. Wide nose.
+*   **Expression:** Grim, brooding intense scowl. Mouth firmly closed.
+*   **Eyes:** Deep-set. Irises are dark and indistinct in shadow.
+*   **Hair:** A distinct mohawk. Sides of the head are shaved close (stubble visible). A wide strip of dark brown/black hair runs from forehead to nape, slicked back with a slightly spiky, textured finish.
+*   **Facial Hair:** Full Van Dyke style goatee and mustache. Thick, coarse dark hair.
+
+### 3. Outfit & Equipment (Top Down)
+*   **Shoulder Harness:**
+    *   **Material:** Thick, worn dark olive-green leather. Edges are scuffed, showing lighter brown suede underneath. Surface has cracking and sweat stains.
+    *   **Construction:** Wide straps over shoulders connected to chest straps. Held together by functional rectangular brass buckles with some tarnishing.
+*   **Shoulder "Crystals":**
+    *   **Material:** Two massive, rough shards of opaque crystalline material (like rough quartz or bone) protruding from the shoulder harness straps.
+    *   **Colour/Texture:** Off-white, pale grey with internal fractures and inclusions. Surfaces are jagged, matte, and non-reflective, looking more like stone than polished gem.
+    *   **Attachment:** They appear embedded into or tightly wrapped by the leather straps of the harness.
+*   **Right Forearm Gauntlet:**
+    *   **Material:** A curved plate of forged, dull steel.
+    *   **Condition:** Scratched, dented, and pitted from use. Not shiny.
+    *   **Attachment:** Strapped to the forearm with two dark brown leather belts and buckles.
+*   **Trousers:**
+    *   **Material:** Heavy-duty canvas or denim work pants.
+    *   **Colour:** Dark charcoal grey.
+    *   **Fit/Condition:** Baggy, cargo style. Deep folds and wrinkles around clutching crotch and wide legs. Fabric is faded and worn at high-stress areas like the knees.
+*   **Belt:**
+    *   **Material:** Wide rhick dark brown leather.
+    *   **Buckle:** Large, rectangular, plain brass buckle, slightly dull.
+*   **Knee Pads:**
+    *   *(Note: Partially obscured by text overlay)*
+    *   **Material:** Rounded, cup-style pads. Likely hammered metal or hardened leather painted grey.
+    *   **Condition:** Heavily scuffed and scratched center surfaces.
+    *   **Attachment:** Strapped around the pant legs.
+*   **Boots:**
+    *   **Style:** Heavy, tall combat/work boots.
+    *   **Material:** Thick black leather.
+    *   **Condition:** Well-worn crease lines across the vamp. Soles are chunky rubber. Lower sections are covered in dust and dried mud.
+
+### 4. Lighting & Atmosphere
+*   **Environment:** Outdoors, nighttime. An urban or ruin setting with stone steps rising in the background and indistinct stone structures. Ground is uneven dirt/pavement.
+*   **Primary Light Key:** Strong, dramatic light from the upper left (front-side). It casts harsh shadows under the brow, nose, chest muscles, and on the right side of the body, sculpting the musculature. Light colour is relatively neutral warm white.
+*   **Secondary Light (Rim):** A cool, cyan/green ambient light source is present on the far right background. It provides a subtle rim light on the right edge of his right arm, the right crystal shoulder piece, and the edge of the boots.
+
+### 5. Text Overlay (Contextual placement only)
+*   A large block of white serif text is overlaid on the right half of the image, partially obscuring the background stairs, the character's left leg, and left boot. The CGI recreation should ignore this text and reconstruct the obscured areas based on the visible materials.

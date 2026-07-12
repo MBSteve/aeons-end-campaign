@@ -135,6 +135,12 @@ def describe_asset(asset_dir: Path, asset_name: str, asset_type: str):
         print(f"  Directory not found: {asset_dir}")
         return
 
+    # Skip if already described
+    combined_path = asset_dir / "descriptions.json"
+    if combined_path.exists():
+        print(f"  Already described (descriptions.json exists), skipping.")
+        return
+
     image_files = sorted(asset_dir.glob("*.jpg")) + sorted(asset_dir.glob("*.png"))
 
     if not image_files:

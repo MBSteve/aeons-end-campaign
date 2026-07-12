@@ -1,0 +1,64 @@
+This is a detailed visual reference guide for recreating the character Nym from the provided card art as a photorealistic CGI model.
+
+### 1. Character Physiology
+
+*   **Identity:** Nym.
+*   **Apparent Age:** Late teens to very early twenties.
+*   **Gender:** Male.
+*   **Build:** Lean muscular physique. Defined deltoid and biceps visible on the right arm. Wide shoulders relative to a tapered waist (implied by vest fit).
+*   **Face:**
+    *   **Shape:** Defined jawline and chin.
+    *   **Skin:** Fair complexion. Notable scattering of, earthy brown freckles across the bridge of the nose and upper cheeks under the eyes.
+    *   **Eyes:** Medium blue-grey irises. Gaze is directed slightly upward and to the screen-right.
+    *   **Brows:** Dark brown, straight, slightly furrowed in a serious, intent expression.
+    *   **Mouth:** Lips held firm and closed. Neutral to slightly somber expression.
+*   **Hair:**
+    *   **Colour:** Deep reddish-brown russet/auburn.
+    *   **Style:** Short to medium length. Wild, messy, and spiky. Thick tufts stand up irregularly on top and frame the forehead.
+    *   **Texture:** Thick, slightly coarse, not overly groomed.
+
+### 2. Pose and Framing
+
+*   **Framing:** Portrait view, from the mid-chest up.
+*   **Orientation:** Body is turned three-quarters toward screen-right. Head is turned somewhat back toward the viewer but still angled right.
+*   **Arms:** Right arm is relaxed at the side, visible from the shoulder to mid-bicep. Left arm is obscured entirely by the large scarf.
+
+### 3. Outfit and Gear
+
+*   **Scarf (Dominant Element):**
+    *   **Description:** A massive piece of fabric coiled thickly multiple times around the neck, completely obscuring the neck and resting heavily on the shoulders. It drapes significantly lower over the left shoulder.
+    *   **Colour:** Deep indigo blue.
+    *   **Material:** Thick, rough-woven wool or heavy cotton. The fabric should show substantial weight, deep creases, and shadowed folds. The texture should look somewhat worn and matte.
+*   **Undershirt/Vest:**
+    *   **Description:** A fitted sleeveless top worn beneath the scarf and straps.
+    *   **Colour:** Very dark blue or charcoal black.
+    *   **Material:** Durable canvas or thick cotton.
+*   **Right Shoulder Harness:**
+    *   **Description:** A thick leather strap passes over the right shoulder closer to the neck. It connects to a circular hardware element (possibly a buckle or attachment point) located near the right armpit.
+    *   **Material:** Dark brown, worn leather strap. Dark, matte metal hardware.
+*   **Tattoo:**
+    *   **Location:** Covering the entirety of the visible right deltoid and upper bicep.
+    *   **Design:** Thick, solid black tribal-style markings with sharp, angular turns and blocky swirling patterns. The ink appears opaque on the skin.
+
+### 4. Background Environment
+
+*   **Setting:** A dark, subterranean settlement or night-time cave canyon.
+*   **Immediate Background:** Rugged, dark grey rock faces flanking the character.
+*   **Mid-ground:** A multi-story stone structure built into the cliffside on the screen-left. It has several small windows glowing with warm orange light.
+*   **Atmosphere:** Dark, hazy, and cold. Deep shadows dominate.
+
+### 5. Lighting and Colour Palette
+
+*   **Primary Lighting Source:** Strong, cool light from the upper screen-right (perhaps moonlight filtering into a cave mouth).
+*   **Light Qualities:** This light creates sharp highlights on the right side of the face, the hair tips, and the top folds of the scarf, while casting deep, distinct shadows on the screen-left side of the face and body.
+*   **Secondary/Environmental Light:** Warm ambient glow from the background windows provides subtle warmth in the distance but does not significantly affect the character's lighting.
+*   **Overall Colour Palette:** Muted and dark. Dominated by deep blues (scarf, shadows), russet red (hair), skin tones, dark greys (rocks, vest), and dark brown (leather).
+
+### 6. Posing/Action
+
+*   **Hands:** Not visible in this framing.
+*   **Action:** The character is static, observing something off-camera with intent.
+
+### 7. Magical Effects
+
+*   None visible in this portrait visualization.

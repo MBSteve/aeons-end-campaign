@@ -1,0 +1,60 @@
+This is a reference breakdown of the character Phaedraxa from the provided image, intended for photorealistic CGI recreation.
+
+**1. CHARACTER SUBJECT: PHAEDRAXA**
+
+**Face & Head:**
+*   **Age/Apparent Age:** Adult, likely late 20s to 30s.
+*   **Skin:** Dark brown skin tone. Texture should show pores and some minor signs of wear/elements, not perfectly smooth. Sweat or slight oil sheen on highlights (forehead, nose bridge).
+*   **Facial structure:** Strong, defined jawline. High cheekbones. Brows are set low.
+*   **Expression:** Intense, focused frown. Eyebrows deeply deeply furrowed creating vertical lines between them. Mouth pursed tightly. Eyes narrowed, staring straight forward.
+*   **Eyes:** Dark irises, almost black. Sclera is off-white.
+*   **Magical Markings:** Prominent glowing, vein-like patterns radiating from beneath her right eye, across the cheekbone towards the temple, and slightly down the cheek. The color is molten gold. This is an *active light source*, casting warm light onto the surrounding skin and the structure of the eye socket. It should look like subsurface energy, not surface paint.
+
+**Hair:**
+*   **Style:** Thick, textured hair pulled back tightly from the face into a high, voluminous bun or ponytail (the exact termination is obscured). The hair strands are defined, looking like dreadlocks or very thick braids.
+*   **Color:** Predominantly dark brown/black base, with distinct, thick streaks of deep burgundy red throughout.
+*   **Accessories:** A thick, textured, cream-colored fabric band secures the hair high on the crown.
+
+**Build & Pose:**
+*   **Build:** Athletic and capable. Broad shoulders are implied by the armor. Thick neck.
+*   **Pose:** Standing, visible from mid-thigh up. The torso is angled slightly to the viewer's left, but the head is turned to face directly forward.
+*   **Framing:** The image cuts off just below the hip/mid-thigh area.
+
+**Outfit & Armor (Layer by Layer):**
+*   **Innermost Visible Layer:** A dark red or crimson long-sleeved tunic, visible on the arms and sides of the torso. The fabric looks like heavy cotton or linen, showing creases at the elbows.
+*   **Neckwear:** A very prominent, thick cowl or infinity scarf made of heavy, layered cream/off-white fabric. It folds multiple times around the neck. Texture should be coarse wool or canvas, perhaps slightly dirty.
+*   **Torso Armor:** A large, rigid metal chest plate that covers the upper chest and extends into large pauldrons (shoulder guards).
+    *   *Material:* Weathered metal, looking like dark iron or dull bronze. The edges have a lighter, brassy trim. The surfaces show scratches, dings, and general battle wear.
+    *   *Integrated Optics:* The armor features numerous embedded circular glowing elements. Three large ones on the right shoulder pad. A pattern of seven across the central chest plate (one central, six surrounding). These glow intently with a molten gold light, serving as primary light sources for the scene.
+*   **Arm Armor:** matching metal vambraces on the forearms, secured with visible dark leather straps and buckles over the red tunic. These also contain the embedded glowing gold circular elements.
+
+**Equipment:**
+*   **Staff/Weapon:** She is holding a large staff horizontally across her body. Only the central section is clearly visible.
+    *   *Material:* The visible portion near the hands is polished brass or gold metal, appearing to be part of a hilt guard or power conduit.
+    *   *Effect:* This metal section emits a very strong, bright molten gold glow, illuminating her midsection and hands.
+
+**Hands & Gloves:**
+*   **Hands:** Both hands are gripping the staff. The right hand is visible on top, gripping firmly. The left hand is underneath, partially obscured.
+*   **Gloves:** hands are covered in dark brown leather gloves with armored metal plates stitched onto the back of the hand and fingers.
+
+**2. ENVIRONMENT & LIGHTING**
+
+**Background Setting:**
+*   **Location:** A fortified settlement or outpost at night.
+*   **Architecture:** Mid-distance shows blocky, utilitarian stone or adobe buildings.
+*   **Lighting:** Several small, square windows glow with warm yellow internal light.
+*   **Geography:** Behind the buildings are dark, indistinct shapes suggesting high cliff walls or cave walls, implying the settlement is in a canyon or underground.
+*   **Atmosphere:** The air is hazy with smoke or dust, softening the background details.
+
+**Lighting & Colour Palette:**
+*   **Primary Light Source (Key Light):** The character is lit almost entirely by her own equipment. The glowing marks on her face, the gems in her armor, and the staff cast strong, warm (gold/yellow) light onto her face, armor edges, and hands. This creates high-contrast highlights and deep shadows.
+*   **Secondary Light Source (Fill/Rim):** Very weak, ambient warm light from the background settlement windows.
+*   **Colour Palette:** Dominated by deep gold/orange (lights), dark browns and bronzes (skin, armor base), dark reds (hair streaks, tunic), and cream (cowl). The background is muted dark greys, browns, and blacks.
+
+**3. UI OVERLAY (For context only, do not render):**
+*   The image is a card with a dark purple neon border.
+*   Top Left Icon: Red circle with diagonal line over Roman numeral 'I' (Deck).
+*   Top Center Icon: Yellow glowing orb over Roman numeral 'II'.
+*   Top Right Icon: Omega symbol over 'III'; Refresh icon over 'IV' (Discard).
+*   Right Panel Text: "PHAEDRAXA" (White, Serif), "BREACH MAGE SEER" (Yellow, Sans-serif), "Auspex Rune" ability text.
+*   Bottom Edge: Five metallic slots showing "20" and a coin icon.
