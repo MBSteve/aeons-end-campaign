@@ -1,98 +1,119 @@
 # Current Mission
 
-## Mission 1: What the Dark Attracts
+## Mission 2: The City Divided
 
 - **Campaign**: The Whisper Below
 - **Chapter**: 1
-- **Session**: S01
-- **Status**: Ready to play
+- **Session**: S02
+- **Status**: Awaiting player choice
 
-> **Story**: See `CampaignJournal.md` → Mission 1: What the Dark Attracts for the full narrative.
-
----
-
-## Mission Objective
-
-**Defeat the Nemesis.** Rageborne approaches from the east across the ash-fields. Intercept it before it reaches the outer wall.
+> **Story**: See `CampaignJournal.md` → Mission 2: The City Divided for the full narrative and context.
 
 ---
 
-## Nemesis
+## Player Choice Required
 
-### Rageborne
-- **Source**: Aeon's End (Base Game)
-- **Tier**: 2
-- **Setup**: Standard Rageborne setup per official rules
+The Council has identified two threats. **Choose one main mission.** The other will escalate.
 
-*Rageborne is a creature of pure fury, a living storm of teeth and talons. It does not plan, does not scheme — it simply destroys. Something in the depths has stirred it from its hunting grounds and pointed it at Gravehold like a weapon.*
+You may also **spend 1 Council Favour** on the side mission (The Ember in the Dark) to save the drake. The side mission is independent and can be taken alongside either main mission.
 
 ---
 
-## Nominated Mages
+## Side Mission: The Ember in the Dark
 
-*Choose three from these four:*
+**Cost: 1 Council Favour** to spend. If spent, the following occurs:
 
-| # | Mage | Source | Playstyle |
-|---|------|--------|-----------|
-| 1 | **Adelheim** | Aeon's End (Base) | Economy — generates Aether, buys powerful spells |
-| 2 | **Brama** | Aeon's End (Base) | Support — healing, deck manipulation, sustain |
-| 3 | **Kadir** | Aeon's End (Base) | Flex — balances economy with damage output |
-| 4 | **Xaxos (AE)** | Aeon's End (Base) | Spell-focused — charges breaches, casts often |
+A child found a dying drake (lesser dragon) in the Warrens near the Old Foundry. Its scales are charcoal-edged with faint orange — ember-coloured. It was displaced by the disturbance beneath the city and is starving, its body temperature dropping.
 
----
+The Council is divided on whether to save it. Elder Councillor Sera has made her position clear: "We are not the kind of city that lets things die in the dark." But resources are scarce. Saving the drake requires 1 Council Favour to requisition a heated chamber, meat from the city stores, and a scholar's time.
 
-## Market
+**If you spend:**
+- The drake is saved and becomes a **companion**. It does not affect Aeon's End gameplay directly but unlocks future narrative options (sensing hidden threats, discovering secret passages, eventually fighting alongside the mages).
+- **Choose one mage** as the drake's imprinted companion. The drake will appear in that mage's future story entries.
+- **Council Favour**: -1 (spent on the drake's care).
 
-*Standard 9-card market. Select from your Base Game collection. Recommended composition:*
-
-| Slot | Type | Recommendation |
-|------|------|----------------|
-| 1 | Gem (2-cost) | Diamond Cluster |
-| 2 | Gem (3-cost) | Sifter's Pearl |
-| 3 | Gem (4-cost) | Burning Opal |
-| 4 | Gem (5-6 cost) | Clouded Sapphire or Flexing Dagger |
-| 5 | Relic (3-4 cost) | Unstable Prism |
-| 6 | Relic (4-5 cost) | Focusing Orb |
-| 7 | Spell (3-4 cost) | Chaos Arc |
-| 8 | Spell (5-6 cost) | Ignite or Planar Insight |
-| 9 | Spell (6+ cost) | Blaze |
-
-*If you don't own a recommended card, substitute with another from Base Game of the same type and similar cost. The market should provide: 4 gems, 2 relics, 3 spells — with a good spread of costs.*
+**If you don't spend:**
+- The drake's fate is uncertain. The scholars do what they can, but without proper resources, the creature may not survive.
 
 ---
 
-## Bonus Objective (Optional)
+## Option A: The Vanished Swarm
 
-**Hold the Gate.** No mage may be exhausted when the Nemesis is defeated.
+### Mission Objective
+**Defeat the Nemesis.** The swarm that bypassed the East Gate has been tracked to the Outer Settlements. Defend the settlements before they are overrun.
 
-- **Reward**: +1 Council Favour, and the East Gate district gains the *Vigilant* trait (future missions at this location start with +5 Gravehold life).
-- **Failure**: No penalty — this is a stretch goal for experienced players.
+### Nemesis
+**Carapace Queen** (Tier 3, Base Game). Summons swarms of Husks — the more Husks in play, the more dangerous she becomes.
+
+### Mage Pool — Outer Settlements
+*Choose 3 from:*
+
+| # | Mage | Source | Starting District | Playstyle |
+|---|------|--------|-------------------|-----------|
+| 1 | **Adelheim** | Base Game | East Gate | Economy — generates Aether, buys powerful spells |
+| 2 | **Brama** | Base Game | Lower Markets | Support — healing, deck manipulation, sustain |
+| 3 | **Xaxos (AE)** | Base Game | East Gate | Spell-focused — charges breaches, casts often |
+| 4 | **Jian** | Base Game | Upper Ward | Flex — casts allies' prepped spells without discarding |
+| 5 | **Mist (AE)** | Base Game | Upper Ward | Deck cycling, consistent damage |
+| 6 | **Lash** | Base Game | Upper Ward | Risk/reward — damage scales with deck state |
+
+> **Brama is locked in.** Kadir is recovering in the Healer's Ward and unavailable. Mages from the Upper Ward can reach any district.
+
+### Market
+Standard 9-card market from Base Game. Recommended: 4 gems, 2 relics, 3 spells with a good spread of costs. Include at least one spell that can clear multiple minions.
+
+### Bonus Objective
+**No Settler Left Behind.** No supply pile may be emptied by the Nemesis (Prince of Gluttons-style devour effects from Carapace Queen's swarm).
+
+- **Reward**: +1 Council Favour. The Outer Settlements gain the *Fortified* trait (+5 starting Gravehold life in future missions at this location).
+- **Failure**: No penalty.
+
+### Consequences
+- **Victory**: Outer Settlements saved. +1 Council Favour. Supplies stabilise.
+- **Defeat**: Outer Settlements lost. Supplies -20, Population -15. Carapace Queen retreats to breed.
+
+### Escalation (if not chosen)
+The Outer Settlements face the swarm alone. Supplies -20, Population -15. The settlements are **lost**.
 
 ---
 
-## Special Campaign Rules
+## Option B: The Whisper's Echo
 
-None for this mission. Standard Aeon's End rules apply.
+### Mission Objective
+**Defeat the Nemesis.** Kellan Voss has stirred and the black crystal is pulsing in rhythm with a signal from the Deepvein Tunnels. Investigate the source at the Old Foundry before the signal intensifies.
 
----
+### Nemesis
+**Umbra Titan** (Tier 3, War Eternal). A manic, feral beast drawn from deep and dark places. Little intelligence, overwhelming force.
 
-## Victory Consequences
+### Mage Pool — Old Foundry
+*Choose 3 from:*
 
-- Rageborne is defeated. The immediate threat to the outer wall is neutralized.
-- The Council gains confidence in the assembled mages.
-- +1 Council Favour.
-- The mages gain their first intelligence about the connection between the disturbance below and the creatures it attracts.
-- A new story thread opens: *What else is coming?*
+| # | Mage | Source | Starting District | Playstyle |
+|---|------|--------|-------------------|-----------|
+| 1 | **Adelheim** | Base Game | East Gate | Economy — generates Aether, buys powerful spells |
+| 2 | **Brama** | Base Game | Lower Markets | Support — healing, deck manipulation, sustain |
+| 3 | **Xaxos (AE)** | Base Game | East Gate | Spell-focused — charges breaches, casts often |
+| 4 | **Dezmodia** | War Eternal | Upper Ward | Control — destroys breaches, manipulates nemesis deck |
+| 5 | **Mazahaedron** | War Eternal | Upper Ward | High-risk — charges breaches at cost of self-damage |
+| 6 | **Phaedraxa** | Base Game | Upper Ward | Ally-focused — empowers other mages |
 
----
+> **Brama is locked in.** Kadir is recovering in the Healer's Ward and unavailable. Mages from the Upper Ward can reach any district.
 
-## Defeat Consequences
+### Market
+Standard 9-card market from Base Game + War Eternal. Recommended: 4 gems, 2 relics, 3 spells with a good spread of costs.
 
-- Rageborne breaches the outer wall. The East Gate district is **damaged**.
-- Gravehold loses 10 Morale and 10 Defences.
-- The Council's faith in the mages is shaken — Council Favour starts at -1 for the next mission.
-- The creature retreats, wounded but alive. It may return.
-- A new story thread opens: *The Scarred Gate.*
+### Bonus Objective
+**Contain the Signal.** No mage may lose more than 4 life in a single turn.
+
+- **Reward**: +1 Council Favour. The black crystal is partially understood — unlocks a future research option.
+- **Failure**: No penalty.
+
+### Consequences
+- **Victory**: Crystal studied. Deepvein signal traced. New intelligence about the Whisper Below. +1 Council Favour.
+- **Defeat**: Signal intensifies. Threat level +1. Kellan Voss's condition worsens. Umbra Titan retreats into the depths.
+
+### Escalation (if not chosen)
+The crystal's signal intensifies. Threat level +1. Kellan Voss's condition worsens. Something in the Deepvein tunnels stirs.
 
 ---
 
@@ -100,6 +121,9 @@ None for this mission. Standard Aeon's End rules apply.
 
 After playing, report the following using the template in `Sessions/SessionTemplate.md`:
 
+- Which main mission you chose (A or B)
+- Whether you spent Council Favour on the side mission (The Ember in the Dark)
+- If side mission taken: which mage the drake imprinted on
 - Outcome (Victory / Defeat)
 - Mages used (which three you chose)
 - Remaining Gravehold life
@@ -113,4 +137,4 @@ After playing, report the following using the template in `Sessions/SessionTempl
 
 ---
 
-*Good luck, Breach Mages. The lull is over.*
+*The Council awaits your decision. Which path will you take? And will you save the ember in the dark?*

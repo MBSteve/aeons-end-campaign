@@ -1,10 +1,10 @@
 campaign:
   name: The Whisper Below
   version: 1.0
-  status: mission_1_ready
+  status: active
   chapter: 1
-  current_mission: mission_1_what_the_dark_attracts
-  sessions_played: 0
+  current_mission: mission_2_choice
+  sessions_played: 1
 
 party:
   player_count: 3
@@ -26,7 +26,7 @@ gravehold:
   defences: 70
   supplies: 65
   population: 80
-  council_favour: 0
+  council_favour: 1
   threat_level: 1
   damaged_districts: []
   lost_districts: []
@@ -35,7 +35,7 @@ gravehold:
 
 campaign_difficulty:
   base_level: experienced
-  consecutive_victories: 0
+  consecutive_victories: 1
   consecutive_defeats: 0
   adjustment: 0
 
@@ -44,81 +44,156 @@ heroes:
     - name: Adelheim
       source: base_game
       verified: true
+      district: east_gate
     - name: Brama
       source: base_game
       verified: true
+      district: lower_markets
     - name: Jian
       source: base_game
       verified: true
+      district: upper_ward
     - name: Kadir
       source: base_game
       verified: true
+      district: healers_ward
     - name: Lash
       source: base_game
       verified: true
+      district: upper_ward
     - name: Mist (AE)
       source: base_game
       verified: true
+      district: upper_ward
     - name: Phaedraxa
       source: base_game
       verified: true
+      district: upper_ward
     - name: Xaxos (AE)
       source: base_game
       verified: true
+      district: east_gate
     - name: Dezmodia
       source: war_eternal
       verified: true
+      district: upper_ward
     - name: Garu
       source: war_eternal
       verified: true
+      district: upper_ward
     - name: Gex
       source: war_eternal
       verified: true
+      district: upper_ward
     - name: Mazahaedron
       source: war_eternal
       verified: true
+      district: upper_ward
     - name: Mist (WE)
       source: war_eternal
       verified: true
+      district: upper_ward
     - name: Quilius
       source: war_eternal
       verified: true
+      district: upper_ward
     - name: Ulgimor
       source: war_eternal
       verified: true
+      district: upper_ward
     - name: Yan Magda
       source: war_eternal
       verified: true
+      district: upper_ward
     - name: Nym
       source: the_depths
       verified: true
+      district: warrens
     - name: Reeve
       source: the_depths
       verified: true
+      district: warrens
     - name: Z'hana
       source: the_depths
       verified: true
+      district: warrens
     - name: Malastar
       source: the_nameless
       verified: true
+      district: upper_ward
     - name: Indira
       source: outer_dark
       verified: true
+      district: warrens
     - name: Remnant
       source: outer_dark
       verified: true
+      district: warrens
     - name: Sparrow
       source: the_void
       verified: true
+      district: warrens
     - name: Xaxos (V)
       source: the_void
       verified: true
-  active: {}
+      district: upper_ward
+  active:
+    Adelheim:
+      source: base_game
+      missions_played: 1
+      victories: 1
+      defeats: 0
+      xp: 2
+      perks: []
+      titles: []
+      injuries: []
+      times_exhausted: 0
+      status: active
+      district: east_gate
+    Kadir:
+      source: base_game
+      missions_played: 1
+      victories: 1
+      defeats: 0
+      xp: 3
+      perks: []
+      titles:
+        - The Unbroken
+      injuries: []
+      times_exhausted: 1
+      status: recovering
+      district: healers_ward
+      recovery_missions_left: 1
+    Xaxos (AE):
+      source: base_game
+      missions_played: 1
+      victories: 1
+      defeats: 0
+      xp: 2
+      perks: []
+      titles: []
+      injuries: []
+      times_exhausted: 0
+      status: active
+      district: east_gate
   retired: {}
 
 relics: {}
 
 allies: {}
+
+companions:
+  drake_ember:
+    status: not_yet_saved
+    imprinted_mage: null
+    description: >
+      A young drake (lesser dragon) found dying in the Warrens near the Old Foundry.
+      Scales are charcoal-edged with faint orange — ember-coloured.
+      Displaced by the disturbance beneath the city. Requires 1 Council Favour to save.
+    narrative_perks:
+      - sense_breach_energy
+      - discover_secret_passages
+      - future_combat_potential
 
 nemeses:
   available:
@@ -182,30 +257,38 @@ nemeses:
       source: the_void
       tier: 4
       verified: true
-  defeated: []
+  defeated:
+    - name: Rageborne
+      source: base_game
+      mission: mission_1_what_the_dark_attracts
+      killed_by: Kadir
   escaped: []
   persistent_effects: []
 
 missions:
-  completed: []
-  failed: []
-  active:
+  completed:
     - id: mission_1_what_the_dark_attracts
       title: "What the Dark Attracts"
       chapter: 1
       session: S01
       nemesis: Rageborne
-      nemesis_source: base_game
-      tier: 2
-      location: East Gate / Ash-Fields
-      setting: above_ground
-      nominated_mages:
-        - Adelheim
-        - Brama
-        - Kadir
-        - Xaxos (AE)
-      bonus_objective: hold_the_gate
-      status: ready
+      outcome: victory
+      mages: [Kadir, Adelheim, "Xaxos (AE)"]
+      gravehold_remaining: 10
+      exhausted: [Kadir]
+      bonus_objective: failed
+      killing_blow:
+        mage: Kadir
+        note: dealt while exhausted
+  failed: []
+  active:
+    - id: mission_2_choice
+      title: "The City Divided"
+      chapter: 1
+      session: S02
+      status: player_choice_required
+      side_mission_available: the_ember_in_the_dark
+      side_mission_cost: 1_council_favour
   available: []
 
 story:
@@ -215,12 +298,13 @@ story:
       status: active
     - id: what_else_is_coming
       title: What Else Is Coming?
-      status: pending
-      unlocks_on: mission_1_victory
+      status: active
   resolved_threads: []
   hidden_flags:
     east_gate_vigilant: false
     east_gate_damaged: false
+    kellan_crystal_studied: false
+    outer_settlements_threatened: false
 
 assets:
   generated:
@@ -287,6 +371,6 @@ assets:
       status: generated
 
 history:
-  last_session_id: null
-  last_updated: 2026-07-10
-  pending_action: play_mission_1
+  last_session_id: S01
+  last_updated: 2026-07-12
+  pending_action: player_choice_mission_2

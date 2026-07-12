@@ -6,7 +6,9 @@ A dossier of all Nemeses encountered during the campaign.
 
 ## Defeated Nemeses
 
-*None yet.*
+| # | Nemesis | Source | Mission | Killed By | Notes |
+|---|---------|--------|---------|-----------|-------|
+| 1 | Rageborne | Aeon's End (Base) | S01: What the Dark Attracts | Kadir (while exhausted) | Drawn to Gravehold by the disturbance below; intercepted at the East Gate. Kadir struck the killing blow as she collapsed from exhaustion. |
 
 ## Escaped Nemeses
 
