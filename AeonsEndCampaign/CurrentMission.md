@@ -7,39 +7,13 @@
 - **Session**: S01
 - **Status**: Ready to play
 
----
-
-## Story Introduction
-
-The summons went out three days ago. Breach Mages from across the scattered sanctuaries have been arriving at Gravehold's gates in ones and twos — some striding through the main causeway with entourages, others slipping in through the Warrens without announcement. The Council has billeted them across the Upper Ward, and the Spire's great hall hums with the low murmur of old rivals and stranger alliances rekindling.
-
-Elder Councillor Sera has not slept.
-
-She stands at the Spire's eastern balcony, watching the dawn bleed grey across the ash-fields beyond the outer wall. The healers' report on Kellan Voss sits unread on her desk. She already knows what it says: no change. The crystal still pulses. The miner still does not wake.
-
-A runner appears on the balcony steps, breathless.
-
-"Councilor. The eastern watchtower reports movement beyond the ash-fields. Something large. It's coming this way."
-
-Sera does not turn. "How long?"
-
-"An hour. Maybe less."
-
-She closes her eyes. Of course. The lull is over.
-
-"Summon the mages to the East Gate. All of them. We'll sort out who stays and who goes when we see what we're facing."
-
-The runner hesitates. "Councilor… the watchtower said it's not alone. There are things moving in the ash. Smaller things. A lot of them."
-
-Sera finally turns. Her face is calm, but her eyes are the colour of old iron.
-
-"Then we'd better be quick."
+> **Story**: See `CampaignJournal.md` → Mission 1: What the Dark Attracts for the full narrative.
 
 ---
 
 ## Mission Objective
 
-**Defeat the Nemesis.** A creature has been drawn to Gravehold by the psychic disturbance emanating from beneath the city. It approaches from the east, across the ash-fields, with a swarm of lesser horrors in its wake. The mages must intercept it before it reaches the outer wall.
+**Defeat the Nemesis.** Rageborne approaches from the east across the ash-fields. Intercept it before it reaches the outer wall.
 
 ---
 

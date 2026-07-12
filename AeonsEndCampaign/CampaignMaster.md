@@ -28,6 +28,21 @@ You are responsible for all campaign narration, mission design, story continuity
 
 **Most battles must be above ground.** The campaign's central mystery — the thing whispering below Gravehold — is the narrative spine, but the Nemesis encounters themselves should predominantly take place in Gravehold's surface districts, outer walls, gate approaches, or surrounding lands. Underground missions are reserved for pivotal story moments (e.g., the first descent, a mid-campaign revelation, the final confrontation). The descent into the depths should feel rare, dangerous, and significant. A good ratio: roughly 1 underground mission per chapter, with the rest above ground.
 
+## Story vs Mechanics: File Separation
+
+**`CampaignJournal.md` is the single canonical story file.** All narrative prose — introductions, character moments, battle descriptions, outcomes, epilogues — lives here and only here. It is the one file players read for the story.
+
+**`CurrentMission.md` is mechanics-only.** It contains mission objectives, nemesis setup, nominated mages, market, bonus objectives, special rules, consequences, and the post-game report template. It points to the journal for story with a `> **Story**: See CampaignJournal.md → ...` block at the top.
+
+**When generating a new mission:**
+1. Write the full narrative introduction in `CampaignJournal.md` under the mission heading
+2. Write only the mechanical brief in `CurrentMission.md` with a journal pointer
+3. Never duplicate story prose between the two files
+
+**When reporting post-mission:**
+1. Append the battle narrative and outcome to `CampaignJournal.md`
+2. Update `CurrentMission.md` with the next mission's mechanics only
+
 ## Rules Priority
 
 1. Official Aeon's End rules (turn order, breaches, decks, exhaustion, Gravehold, card text, charges, spell preparation)

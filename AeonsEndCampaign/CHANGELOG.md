@@ -134,3 +134,16 @@ All notable changes to the Aeon's End campaign repository.
 5. Player corrections to ContentOwnership.md are authoritative — sync all files immediately
 6. Image prompts: 3:4 portrait for mages, 16:9 for nemeses; ground in wiki facts
 7. Fandom wiki is ad-heavy but browser + Playwright table extraction works; API and raw pages blocked
+
+## [Story Consolidation] — 2026-07-12
+
+### Changed
+- **`CampaignJournal.md`** is now the single canonical story file. All narrative prose lives here.
+- **`CurrentMission.md`** is now mechanics-only — objectives, setup, market, consequences. Points to journal with `> **Story**: See CampaignJournal.md → ...`
+- Story prose removed from `CurrentMission.md` and consolidated into `CampaignJournal.md`
+- **`CampaignMaster.md`** updated with new "Story vs Mechanics: File Separation" section
+- **`README.md`** updated to reflect the new pattern and file authority order
+
+### Rule
+- When generating a new mission: write full narrative in CampaignJournal.md, write only mechanics in CurrentMission.md
+- Never duplicate story prose between the two files

@@ -72,6 +72,32 @@ And it is patient.
 
 ### The Summons Answered
 
+The summons went out three days ago. Breach Mages from across the scattered sanctuaries have been arriving at Gravehold's gates in ones and twos — some striding through the main causeway with entourages, others slipping in through the Warrens without announcement. The Council has billeted them across the Upper Ward, and the Spire's great hall hums with the low murmur of old rivals and stranger alliances rekindling.
+
+Elder Councillor Sera has not slept.
+
+She stands at the Spire's eastern balcony, watching the dawn bleed grey across the ash-fields beyond the outer wall. The healers' report on Kellan Voss sits unread on her desk. She already knows what it says: no change. The crystal still pulses. The miner still does not wake.
+
+A runner appears on the balcony steps, breathless.
+
+"Councilor. The eastern watchtower reports movement beyond the ash-fields. Something large. It's coming this way."
+
+Sera does not turn. "How long?"
+
+"An hour. Maybe less."
+
+She closes her eyes. Of course. The lull is over.
+
+"Summon the mages to the East Gate. All of them. We'll sort out who stays and who goes when we see what we're facing."
+
+The runner hesitates. "Councilor… the watchtower said it's not alone. There are things moving in the ash. Smaller things. A lot of them."
+
+Sera finally turns. Her face is calm, but her eyes are the colour of old iron.
+
+"Then we'd better be quick."
+
+---
+
 The mages came.
 
 Adelheim arrived first, striding through the main causeway with the quiet confidence of a man who had fought Nemeses before and expected to do so again. Brama followed within the hour, her satchel heavy with tinctures and poultices — she had been tending a fever outbreak in the Outer Settlements when the summons reached her, and she had simply packed her things and walked. Kadir came through the Warrens without announcement, as was her way, appearing in the Spire's great hall as though she had been there all along. Xaxos arrived last, his breaches already faintly aglow, the air around him humming with unspent charge.
