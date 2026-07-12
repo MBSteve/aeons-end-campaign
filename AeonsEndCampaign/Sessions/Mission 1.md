@@ -30,7 +30,7 @@
 
 ## Memorable Events
 
-- Xaxos did 16 damage on one turn. Kadir gave her life. Aidelheim never got to finish his Amplify Vision build, but added regular damage throughout
+- Xaxos did 16 damage on one turn. Kadir gave her life. Aidelheim never got to finish his Amplify Vision build, but added regular damage throughout. Needlemaw was killed quickly without much damage. 
 
 ---
 
