@@ -1,0 +1,82 @@
+This is a description of a fantasy trading card, divided into the illustration on the upper half and the game text on the lower half, framed by an ornate border.
+
+***
+
+### I. The Illustration (Upper Half)
+
+**Subject:** A monstrous humanoid figure.
+
+**Face and Head:**
+*   The face is mostly obscured by a rigid half-mask covering the upper head and the left side of the face.
+*   The mask is a tarnished, brownish-gold material, possibly aged leather or distressed metal. It features four distinct, sharp tines pointing upwards from the top edge, resembling a partial crown.
+*   A large, roughly circular cut-out on the left side of the face mask reveals a hollow, dark void where an eye should be.
+*   Below the mask, near the jawline on the right side, patches of green, leathery skin are visible.
+*   The creature's mouth is open in a slight snarl or grimace, revealing jagged, yellowish-white teeth.
+*   No hair is visible; the head is covered by the mask and a hood.
+
+**Build and Pose:**
+*   The figure has a hunched, powerful build with long limbs.
+*   The pose is dynamic and aggressive. The figure is hunched forward.
+*   The left arm is raised high, angled backward over the head, with the forearm parallel to the ground.
+*   The right arm is extended forward towards the viewer.
+
+**Hands:**
+*   Both hands are oversized, with sickly green skin.
+*   Each finger terminates in a long, curved, bone-colored claw.
+*   The raised left hand is open and clawed.
+*   The right hand is opened forward in a grasping gesture, fingers slightly curled.
+
+**Clothing and Armor:**
+*   **Cloak:** The primary garment is a heavy, hooded cloak in a deep magenta/plum color. The material appears heavy, like thick wool or velvet, with deep folds creating strong shadows. It is heavily worn; the edges, particularly the trailing section behind the figure to the right, are severely tattered and ragged, blending into the dark background.
+*   **Arm Armor:** On the upper arms, just below the shoulders of the cloak, there are dull gold or bronze cylindrical bands or cuffs.
+*   **Leg Armor:** The left thigh is visible, covered in segmented green armor plating, possibly chitinous or oxidized metal. The segments are riveted, with gold or bronze trim on the edges.
+
+**Equipment/Props:**
+*   Hanging from the creature’s waist (attached by unidentifiable straps hidden by the cloak) is a second mask. This is possibly the "Crooked Mask" referred to in the title.
+*   This hanging mask is humanoid in shape, made of a bronze-colored material that looks metallic. It features hollow eye sockets, a prominent nose, and a downturned mouth crooked to one side. It is angled downward.
+
+**Environment and Background:**
+*   The background is abstract and atmospheric, devoid of specific landmarks.
+*   It is a gradient of deep indigo and violet at the top, transitioning down to almost black near the horizon line, suggesting a night sky over a gloomy landscape.
+*   Low, dark, indistinct shapes form a horizon line near the creature's hips.
+
+**Lighting:**
+*   Dramatic, high-contrast lighting from the top-left.
+*   Bright highlights hit the left shoulder of the cloak, the top edges of the head mask, the tops of the claws, and the knuckles of the right hand.
+*   The rest of the figure is cast in deep shadow, obscuring details on the torso and the creature’s right side.
+
+**Color Palette (Illustration):**
+*   Dominant: Deep Magenta/Plum, Sickly Green, Shadow Black/Dark Blue.
+*   Accents: Tarnished Gold/Bronze, Bone Yellow-White.
+
+***
+
+### II. The Card Layout and Text (Lower Half & Frame)
+
+**Card Frame:**
+*   The entire card is bordered by an ornate, organic frame resembling intertwined roots, vines, and sinew in shades of indistinct blues, greens, and purples.
+
+**Title Bar and Cost:**
+*   Separating the illustration from the text is a horizontal, textured banner in a teal/blue-green color. It contains the text "CROOKED MASK" in black capital serif font.
+*   To the left of the title banner is a circular dark red emblem containing the number "70" in white outline font.
+
+**Text Box Background:**
+*   The lower half has a parchment-like texture in warm beige/tan, lighter in the center and slightly darker toward the edges.
+
+**Text Content:**
+*   The text is split into two columns initially by a thin vertical line, with headers in bold capital letters. Below these columns is a full-width section under another bold header.
+
+*   **Left Column Header:** **UNLEASH**
+*   **Left Column Text:** Any player gains a corruption and places it on top of their deck. That player shuffles their discard pile into their deck.
+
+*   **Right Column Header:** **INCREASED DIFFICULTY**
+*   **Right Column Text:** **RULES:** When a corruption is destroyed, place it into any player's discard pile instead of returning it to the corruption deck.
+
+*   **Bottom Section Header:** **ADDITIONAL RULES** (Centered)
+*   **Bottom Section Text:** A list of six bullet points (denoted by small circles):
+    *   When a corruption is destroyed, place it on the bottom of the corruption deck.
+    *   When a player would gain a corruption and the corruption deck is empty, Gravehold suffers 2 damage instead.
+    *   At the start of each player's turn, before that player's casting phase, that player resolves all corruptions in their hand, in any order.
+    *   At the end of each player's main phase, that player resolves all corruptions they drew during their turn.
+    *   Corruptions may not be played at any other time.
+    *   When a player gains a corruption, that player may not look at the corruption unless it is placed into their hand.

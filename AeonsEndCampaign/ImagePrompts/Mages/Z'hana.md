@@ -1,0 +1,85 @@
+# Image Prompt: Z'hana
+
+> **Style Guide**: Cinematic dark-fantasy realism, photorealistic high-end fantasy game cinematic, grounded medieval Gothic setting, mature naturalistic character design, realistic ageing and skin texture, weathered layered fabrics and tarnished metal, restrained practical costume, dramatic chiaroscuro lighting, warm candlelight against cool ambient shadows, muted charcoal and earthy colour palette, subtle atmospheric haze, shallow depth of field, highly detailed face, tactile materials, sombre dignified mood, natural proportions, realistic film colour grading, 35mm environmental portrait, subtle film grain, sharp facial focus, softly blurred Gothic background. AVOID: steampunk, brass machinery, gears, goggles, pipes, Victorian industrial, excessive ornamentation, glowing runes, neon lighting, colourful magic effects, anime, comic book style, obvious digital painting, visible brush strokes, glossy plastic skin, beauty retouching, fashion photography, perfect symmetry, young-looking face, exaggerated armour, oversized pauldrons, ornate crown, sexualised costume, heroic pose, smiling, saturated colours, clean new clothing, bright daylight, flat lighting, generic fantasy illustration, cartoon, concept sketch, low-detail background.
+
+---
+
+## Asset Information
+
+- **Asset Name**: Z'hana Portrait
+- **Purpose**: Mage portrait for Heroes/Roster.md and mission briefs
+- **Intended Repository Path**: `Images/Mages/Z'hana.png`
+
+---
+
+## Canonical Facts
+
+### Lore
+
+Through the flames I could hear them calling for me. My mother, my father. Their voices drowned in fire and smoke... That was the day I lost my family. That was the day I discovered I was a mage. My philosophies on The Nameless are even less popular than Xaxos '. Many times I have slept in the crypts for things I have said to others. But many more nights I have fought back the dark, side by side with those who locked the crypt door behind me. I have journeyed to the cave mouth many times, sitting in the weak light that somehow manages to penetrate the mountain of rubble that bars out way back to The World That Was. Each time I go, I remove a stone. If they catch me, the crypts await. But I always go back, removing another stone and yet another. One day I will seek whatever awaits me beyond this place. One day I will remove the last stone.
+### Overview
+
+Z'hana is a defensive mage, able to heal Gravehold for 7 life every Sanctum Glyph activation. Eternal Ember allows Z'hana an offensive advantage too, able to 'double cast' a prepped spell (one cast from Eternal Ember, another from the normal cast). Z'hana starts slightly disadvantaged with no open breaches, but has the economy to start focusing right away, and her Level 4 Breach starts fully focused, only needing to be opened. Z'hana could have an open level 4 breach at the end of her first turn.
+### Ability
+
+Spend 5 charges to activate this ability during your main phase: Gravehold gains 7 life.
+### Strategy Notes
+
+You can deal infinite damage with Temporal Helix or abilities like it! This is the strongest tip, but you ought not to use it unless you want to ruin Game Night. This has been altered to not work in the digital version (Eternal Ember can't target itself) and it is not the designer's intention. A less game breaking tip is that it's incredibly important to find a way to get 2 breaches open as Z'hana to get her signature card ready to rock.
+
+---
+
+## Reference Image Details
+
+The following is a detailed description of the official card art for this character. Use this as a guide for the character's appearance, equipment, pose, and setting.
+
+### Card Front (Full Body Reference)
+
+This is a full-body still-image of a human-like woman in ornate dark red and dark blue/black attire, standing against a dimly lit stone plaza.
+
+*   **Face:** The woman has a stern, determined expression, looking slightly off-camera to the left. Her eyes are dark, and her skin is light brown. Her dark brown hair is pulled back into a single braid that lies over her left shoulder. There are some dark spots or markings on her forehead.
+*   **Build:** She has an athletic, possibly warrior's build.
+*   **Pose:** She stands facing forward, arms lowered, holding one curved silver blade in each hand. The blades are held with the points down.
+*   **Clothing:** Her outfit is complex, featuring layered fabrics and what appears to be leather or light armour. It looks worn. A large, loose red fabric cowl or cape drapes over her head and shoulders. Underneath, she wears a dark blue/black fitted top or corset with red trim and details. Similar dark blue/black layered fabric forms a skirt or loincloth with red fabric draping over it, cinched at the waist with a belt. Below the skirt, dark red leggings and boots are visible, with segmented armour on her knees and shins. Many parts of the fabric look slightly torn or rough at the edges.
+*   **Equipment:** She wears dark blue/black metal gauntlets with red trim on both forearms. Around her biceps are bands of sheer or translucent red fabric. The two blades she holds are silver metal, curved like scimitars, with dark handles; they look well-used but clean.
+*   **Hands:** Her hands are gloved, holding the handles of the blades firmly.
+*   **Background:** The background is blurred but shows a large, open plaza paved with stone slabs at night. There are wide stone steps and low stone walls. In the middle ground and distance, several small torches mounted on posts are lit, casting warm light. There are no other figures clearly visible.
+*   **Lighting & Palette:** The lighting is dim and warm, coming from the torches in the background and perhaps an unseen source off-camera to the viewer's left, casting shadows on the right side of her body. The colour palette is dominated by dark red, dark blue/black, and the warm yellow/orange of the torchlight.
+*   **Text:** A block of white text overlays the right half of the image, describing her background.
+
+### Card Back (Detailed Portrait Reference)
+
+This image is a character card for "Z'HANA, BREACH MAGE RENEGADE" from a tabletop game, presented in a dark, illustrative style with a digital interface overlay. The central figure, Z'Hana, is depicted from the waist up, facing forward with a serious and determined expression.
+
+**Face and Hair:** Z'Hana has a youthful yet stern face. Her complexion is tan with warm undertones. She has dark, defined eyebrows and almond-shaped eyes with dark irises, looking directly ahead. A small, circular red bindi or mark sits low on her forehead between her eyebrows. Her long, dark brown hair is styled into a thick, neat braid that falls over her left shoulder. The braid is secured with a leather-like tie near the end. A few loose strands of wavy hair frame her face.
+
+**Outfit and Gear:** She wears a layered outfit. A prominent orange-brown scarf or cowl is draped around her neck and chest, made from a fabric with some visual texture. Underneath, she wears a dark, form-fitting top in deep indigo/black with teal blue geometric accents or panels on the chest, patterned with subtle curved and angular lines. Her left shoulder is protected by a pauldron made of dark red-brown material with an uneven, perhaps organic or worn surface, showing some scuffing and reflection from a warm light source. A silver metallic armband wraps around her left bicep. Below the armband, her left forearm is covered by a sleeve with a complex, reddish-brown and black ornate pattern, possibly a tattoo or decorated fabric, extending towards her wrist (hands are not visible). Below the teal-accented top, a dark belt with orange and red circular motifs is partially visible. Her pose is confident with a slight turn of the left shoulder forward.
+
+**Environment and Lighting:** The background is a dark, moody night scene of a fortified settlement or city built into a rocky landscape. Jagged rock formations rise behind her. Several small, warm yellow light sources (likely windows or braziers) illuminate the dark buildings in the middle ground. Above, a dark, cloudy sky is full of faint specks resembling snow or stars. The overall lighting on the character is dim but directional, with warm light highlighting her left shoulder pauldron and the folds of her orange scarf, contrasting with cooler, blue tones on her back and the background. The color palette is dominated by deep blues, charcoal blacks, rich reds, and muted oranges, creating a dramatic atmosphere.
+
+**UI Elements:** The illustration is framed by a game interface. At the top, there are circular icons labeled "I" with a red prohibition sign, "II" with a 'C' symbol, "III" with a padlock symbol, and "IV" with a 'C' symbol, connected by a white line. On the left edge, the word "DECK" is printed vertically. The top right corner records the character info: "Z'HANA" in large text, followed by "BREACH MAGE RENEGADE". Below are boxes for "PLAYER NUMBER" and "LIFE", and fields for "STARTING HAND" (1x Eternal Ember, 4x Crystal) and "STARTING DECK" (4x Crystal, 1x Spark). Below a divider line, the special power "Sanctum Glyph" is listed, with the text "ACTIVATE DURING YOUR MAIN PHASE: Gravehold gains 7 life." At the very bottom right edge, the word "DISCARD" is printed vertically. Five small, identical circular tokens with the number "20" are positioned at the bottom center.
+
+---
+
+## Artistic Direction
+
+- **Composition**: Full-body standing shot, wide environmental framing. Subject centred or slightly off-centre, facing forward or slightly angled. Gothic or ruined environment visible around them. Full figure from head to boots.
+- **Mood**: Dramatic, sombre, weathered. The atmosphere of a world under siege.
+- **Lighting**: Dramatic chiaroscuro — warm light from one side, cool shadow on the other. Muted, naturalistic.
+- **Colour Palette**: Muted, earthy, desaturated — charcoal, deep navy, leather brown, aged metal. Small accent colours from magical effects where appropriate.
+- **Art Style**: Photorealistic dark-fantasy cinematic. Like a film still, not a fantasy illustration.
+- **Aspect Ratio**: 3:4 portrait.
+
+---
+
+## Status
+
+- [ ] Image generated
+
+---
+
+## Markdown Reference
+
+```markdown
+![Z'hana](Images/Mages/Z'hana.png)
+```

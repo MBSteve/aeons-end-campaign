@@ -1,0 +1,32 @@
+Okay, I will provide an exhaustive, detailed description as a reference for a photorealistic CGI artist.
+
+**CGI Reference Notes:**
+
+**1. Subject: The Gate Witch Creature (Top Pane)**
+
+*   **Face & Expression:** Skull-like head with a wide, screaming open mouth showing a row of small, sharp teeth. Deep-set, glowing yellow eyes. Wrinkled, aged texture around the eyes and forehead. No nose or ears, with dark, receding sockets.
+*   **Skin:** Sickly, greenish-yellow skin tone, appearing leathery, mummified, and taut against muscle and bone. Visible veins and sinew, particularly on the arms, neck, and chest. The texture should be dry, with deep cracks and folds.
+*   **Hair:** A few disheveled, dark, brittle strands cling to the top and sides of the head.
+*   **Build:** Emaciated, sinewy build with prominent clavicles, ribs, and spine. Long, lanky arms.
+*   **Pose:** Crouched pose, forward-leaning, with both arms extended forward and slightly down. Hands are claw-like, with long, dark, sharp fingernails, reaching out.
+*   **Clothing & Accessories:** A dark, tattered drape or cloth, possibly deep purple or black, hangs loosely over the left shoulder and across the lower torso, obscuring the midsection. The fabric is coarse, frayed at the edges.
+*   **Visible Equipment/Props:** None.
+
+**2. Magical Effects & Lighting**
+
+*   **The "Breach" (Portal):** A large, circular, intense golden magical portal forms the background behind the creature. It glows with a brilliant, crackling golden energy. Inside the portal, there are swirls and tendrils of yellow light, possibly with faint lightning bolts and smoke. The edge of the portal is jagged and constantly fluctuating.
+*   **Lighting Direction & Quality:** The dominant light source is the golden portal, casting a strong, warm, yellow-orange light on the creature's back, shoulders, and the tops of its arms and head. The light should be intense enough to create highlights on the leathery skin. The rest of the scene is dark, with deep shadows in the folds of skin, the screaming mouth, and the lower body.
+*   **Energy Glow:** The edges of the purple root-like border and the top of the white text box are also softly illuminated by the golden light from the portal.
+
+**3. Card Structure & Layout (Contextual Elements)**
+
+*   **Top Pane (Creature):** A horizontal pane containing the Gate Witch.
+*   **Purple Border (Magical Roots):** A thick border runs horizontally below the top pane and above the bottom pane. It consists of intertwined, dark purple, root-like tendrils that appear to be glowing with faint purple and golden energy.
+*   **White Text Box:** A large, central white box with a subtle textured paper pattern. It contains the black text:
+    *   **Header:** A stylized number '7' in a gold circle, followed by the bold word 'SETUP'.
+    *   **Rule Text:** A bullet point followed by the text 'o Gate Witch gains one nemesis token.'
+*   **Bottom Pane (Flavor Text & Footer):**
+    *   **Flavor Text:** Multiple lines of black, italicized text (see OCR).
+    *   **Footer:** The line "INDIRA, BREACH APPRENTICE" followed by small copyright information.
+*   **Overall Composition:** The card has a dark, void-like black background outside the main elements.
+*   **Color Palette:** Dominantly gold (portal, lighting), dark greenish-yellow (creature), dark purple (border), and black/white (text boxes, backgrounds).

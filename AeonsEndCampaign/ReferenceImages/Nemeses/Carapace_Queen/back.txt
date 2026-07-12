@@ -1,0 +1,48 @@
+This image is a close-up photograph of a physical playing card from a fantasy tabletop game. The card features a large illustration of a creature, a title banner, and a text box containing lore and game rules.
+
+### **1. The Creature (Top Illustration)**
+
+**General Appearance:** A colossal, bipedal, mantis-like monstrosity composed of thick, segmented, natural armor plates and bio-mechanical elements. The overall impression is one of ancient, hardened biology fused with clockwork or alien technology.
+
+**Color Palette & Texture:** The primary color of the creature is a sickly, pale yellow-green (chartreuse) that darkens into mustard ochre and brownish-grey in the recesses and shadows. The texture is that of aged, hardened chitin or bone, polished in high areas but showing wear, scratches, and segmentation lines that appear almost mechanical inside the joints.
+
+**Head & Face:**
+*   **Shape:** Triangular, widening at the top, mantis-like.
+*   **Eyes:** Two large, bulbous, multifaceted compound eyes situated on the far sides of the head. They are dark reddish-brown.
+*   **Crest:** A prominent, rigid, three-pronged crest rises from the top center of the head. The central spike is the tallest and thickest.
+*   **"Skull Face":** Embedded centrally in the forehead area, directly below the crest, is a distinct, small, skull-like visage (humanoid shape but alien proportions), colored the same yellow-green as the armor. It has dark eye sockets and a grimacing mouth slit.
+*   **Mouthparts:** Below the skull visage are complex, heavily segmented raptorial mouthparts.
+
+**Torso & Build:**
+*   **Thorax:** A heavily armored, multi-layered thorax. The plates overlap, creating a deep V-shape down the center chest.
+*   **Abdomen:** Partially obscured but appears bulbous and segmented, extending backwards.
+
+**Appendages:**
+*   **Raptorial Forelimbs:** Two massive, folding forelegs held high in a "praying" posture against the chest. The femur segments are thick with serrated inner edges and backward-pointing defensive spikes. The tibia segments fold tightly against them, ending in large, vicious, curved hooks.
+*   **Walking Legs:** Four thinner, multi-jointed legs (two visible per side) support the lower body. They are spidery and end in sharp points.
+
+**Wings/Elytra:** Two massive, semi-translucent wing cases (elytra) sweep upwards and outwards from behind the torso, framing the creature. They share the yellow-green coloration but show a complex network of darker veins and have jagged, serrated posterior edges.
+
+**Pose:** Static, facing directly forward. The raptorial arms are folded tight to the body.
+
+**Lighting & Effects (Illustration):** The creature is back-lit by a diffuse, sickly green/yellow glow emanating from an unseen source behind it, highlighting the edges of its armor and wings. Frontal lighting is dim, casting deep shadows that emphasize the segmentation.
+
+**Background Setting (Illustration):** Indistinct, murky, greenish-brown atmosphere, suggesting a cavern or a diseased sky.
+
+### **2. Card Layout and Elements**
+
+**Title Banner (Middle):**
+*   An elongated oval shape with pointed ends, separating the illustration from the text box.
+*   **Border:** A prominent, glowing border that looks like cracked ice or electrical energy in bright cyan and blue tones.
+*   **Background:** A deep teal/dark blue gradient.
+*   **Text:** "CARAPACE QUEEN" in a black serif font.
+*   **Number Icon:** To the right, connected by the glowing blue border, is a small circle containing the number "3" in black.
+
+**Text Box (Bottom):**
+*   **Background Texture:** Aged parchment or treated vellum. It is stained yellow-beige, with visible fibrous texture, creases, dark specks, and water damage discolorations.
+*   **Frame:** A thick, heavy border that appears organic and corrupt. It resembles gnarled, dark purple and grey roots, veins, or hardened alien tissue, with deep red highlights in the cracks.
+*   **Lore Text:** Two paragraphs of black serif text describing the creature's various names (Mother-of-Husks, Swarm Daughter), its nature as leading armies of "clockwork things," and a saying regarding the "husks" it breeds ("To kill one is to breed six").
+*   **Divider:** A thin, ornamental black horizontal line with tapered ends separates the lore from the rules.
+*   **Setup Text:** The heading "SETUP" in bold black serif text, followed by two lines of instructions for placing a "Husk Track" and two "husks."
+
+**Physicality:** The card itself shows slight wear on the actual edges and corners, indicating physical handling.
