@@ -1,0 +1,52 @@
+This is a detailed physical description of the character and environment depicted in the image, written for a photorealistic CGI reconstruction.
+
+### Character Description
+
+**Subject Overview:**
+A human male figure in mid-dynamic pose, appearing to be a young adult (late 20s to early 30s). He has a lean but robust build with broad shoulders. The body is oriented slightly to the viewer's right, with a wide stance; the left leg is forward and bent, the right leg braced back.
+
+**Head and Face:**
+*   **Complexion:** Pale, cool-toned skin.
+*   **Facial Structure:** Angular jawline, high cheekbones, partially obscured by hair and collar shadows.
+*   **Eyes:** Intensely glowing solid red, with no visible pupils or irises. They emit a small amount of red light onto the immediate surrounding skin. They are deep-set under a strong brow ridge.
+*   **Mouth:** Wide open in an intense shouting or screaming expression. Upper teeth are visible but indistinct.
+*   **Hair:** Dark brown/black, thick, shoulder-length, and wavy. It is blowing dynamically upwards and backwards, suggesting upward wind or magical pressure. Several strands blow across the left side of his face.
+
+**Outfit and Clothing Layers:**
+The general aesthetic is military-inspired Gothic.
+
+*   **Outer Coat:** A heavy, ankle-length greatcoat made of deep midnight blue material, likely heavy wool or felted velvet. It holds a stiff shape but billows dramatically behind him. It features a tall, stiff standing collar lined with deep crimson red fabric. Large lapels fold back, revealing the same crimson lining. The entire coat perimeter, lapels, and collar are edged with distinct metallic gold braid trim.
+*   **Waistcoat:** Beneath the coat is a fitted vest in deep crimson red. A row of metallic gold buttons runs down the center front.
+*   **Shirt/Neckwear:** A glimpse of a clean white shirt collar and a ruffled white cravat is visible at the neck, above the waistcoat.
+*   **Trousers:** Fitted trousers in the same midnight blue material as the coat.
+*   **Boots/Greaves:** Tall boots reaching just below the knee. The base material is dark blue leather. They couple as armor, featuring polished gold metallic plate armor over the shins and insteps, gold trim along the top cuff and ankle, and three gold buckles/straps on the outer calf. The boots have a low heel.
+*   **Gloves:** Both hands are covered by dark blue leather gloves that tuck into the coat sleeves.
+
+**Wear and Condition:**
+The clothing appears well-maintained and clean, without visible tears, fraying, or heavy dirt. The gold trim is polished. The fabrics appear rich and heavy.
+
+**Hands and Action:**
+*   **Right Hand:** Raised high near the head, palm facing the viewer's left, fingers splayed wide in extreme tension.
+*   **Left Hand:** Held lower, near the left hip. The hand and forearm are completely consumed by a magical effect.
+
+**Magical Effects:**
+A concentrated mass of swirling, amorphous purple energy engulfs the left hand and forearm. This is a primary Object Source Light (OSL), casting intense purple light onto the left thigh, the top of the left boot, and the ground immediately beneath it. It creates distinct purple specular highlights on the gold trim and deep purple shadows on the blue fabric.
+
+### Environment and Lighting
+
+**Setting:**
+A stone urban or ruin environment at night. The ground is flat stone pavers. In the background, wide stone staircases ascend on both the left and right sides, flanked by stone balustrades. The atmosphere is hazy and dark.
+
+**Lighting:**
+*   **Primary Source (Magic):** The purple magical energy on the character's left hand provides strong local illumination and casts dramatic shadows.
+*   **Secondary Source (Environmental):** Warm orange light is present in the mid-ground and background, coming from visible gas lamps or torches on posts (one is visible to the right of the character's head). This warm light illuminates the distant stairs and the silhouetted figures.
+*   **Overall Key:** Low-key lighting with high contrast.
+
+**Background Elements:**
+Multiple indistinct silhouettes of humanoid figures are walking on the stairs and plaza in the middle distance.
+
+### Color Palette
+*   **Primary:** Deep Midnight Blue (coat, trousers, boots).
+*   **Secondary:** Deep Crimson Red (waistcoat, coat lining).
+*   **Tertiary:** Metallic Gold (trim, buttons, armor plates).
+*   **Accent/Light:** Vibrant Purple (magic effect), Pale/Cool (skin), Glowing Red (eyes).

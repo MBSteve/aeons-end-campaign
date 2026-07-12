@@ -1,0 +1,35 @@
+This description covers the visual elements of the character portrait located on the left side of the image card. It excludes all text, numerical values, and UI elements on the right side and bottom borders.
+
+**Character Overview**
+*   **Subject:** Female human, 'Sparrow'.
+*   **Age:** Appears young adult, likely late teens to early twenties.
+*   **Build:** Muscular and athletic, particularly visible in the shoulders and upper arms.
+*   **Visibility:** Seen from the mid-chest upwards.
+
+**Face and Head**
+*   **Expression:** Intense and strained. Eyes are wide open, almost bulging, gazing slightly upward and forward. Eyebrows are raised high and arched. The mouth is tightly pursed, lips pressed together closely, with the corners slightly downturned in grim determination.
+*   **Face Shape:** Strong, somewhat square jawline with a rounded chin. Nose is broad at the base.
+*   **Skin:** Tanned complexion. Showing signs of tension in the forehead wrinkles and around the eyes due to the extreme expression.
+*   **Hair:** Short, reddish-brown (auburn) colour. The texture is spiky and messy, standing straight out from the scalp in thick, defined clumps. It appears coarse.
+
+**Pose and Hands**
+*   **General Pose:** Shoulders are squared forward. The neck is tensed, head tilted slightly back.
+*   **Hands:** Clasped tightly together in front of the upper chest, just below the chin. Both hands are clenched, showing tension in the knuckles. The left hand covers the right hand.
+*   **Wrists/Forearms:** Both forearms extending down to the knuckles are heavily wrapped in off-white cloth bandages or athletic tape. The wrapping is thick and shows texture and layering.
+*   **Right Hand Detail:**Embedded within the bandages on the back of the right hand are four distinct, pyramid-shaped metal studs with a brassy or bronzed finish, arranged in a rough square formation.
+
+**Outfit and Armour**
+*   **Upper Body:** Bare upper arms and shoulders showing defined muscle tone.
+*   **Chest Armour:** She wears a rigid chest plate made of a dark, matte grey/black material (possibly matte metal or硬化 treated leather) with a high, curved neckline. It is held in place by thick black straps passing over the shoulders.
+*   **Undershirt:** Visible just under the shoulder straps is a tight-fitting, dark fabric undershirt.
+*   **Chest Details:** Mounted on the upper chest plate are two prominent, domed circular elements, painted a deep blue-purple colour with dark metal rims. Positioned between and slightly below these domes is a smaller, flat circular light source that emits a bright orange-yellow glow.
+
+**Background Environment**
+*   A stylized, dark stone environment, appearing to be a cliff face integrated with ancient, rough-hewn structures or ruins.
+*   The stone is dark grey and brown with patches of muted green moss or shadow.
+*   Several rectangular window openings in the background structures emit warm, orange flickering light, suggesting internal torches or fires.
+
+**Lighting and Colour**
+*   **Colour Palette:** Warm earth tones dominate the skin and background lights. High contrast between the dark armour/background and the warm highlights. Key colours: Auburn (hair), Tanned Flesh, Black/Matte Grey (armour), Off-white (bandages), Orange/Yellow (light sources).
+*   **Lighting Direction:** Primary light source is warm and comes from the front-right, casting defined shadows on the left side of the neck and face.
+*   **Magical Glow:** The small orange circle on the chest plate is an active light source. It casts a bright, warm orange rim light onto the bottom edges of the clasped hands and bandages, and the surrounding black chest plate.

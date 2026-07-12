@@ -1,0 +1,50 @@
+This is a detailed description of the character Yan Magda and the components of the game card shown in the image.
+
+**Character: Yan Magda**
+
+*   **Face and Expression:** Yan Magda is an adult human male. He has a stern, serious expression with a furrowed brow and a direct, unblinking stare. His eyebrows are dark, thick, and arched. The skin is tan with a rugged texture, showing lines on his forehead and around his eyes, indicating a man in his middle years. He has a strong jawline and prominent cheekbones. His mouth is a tight line.
+
+*   **Hair:** His hair is long, straight, and of a uniform pale yellow/blonde color. It falls evenly past his shoulders and rests on his chest, with a center part. The texture appears smooth.
+
+*   **Age and Build:** Yan Magda appears to be middle-aged. He has a stocky, broad-shouldered build, with a thick neck, suggesting significant physical strength.
+
+*   **Pose:** The character is presented in a static, forward-facing portrait pose, shown from the mid-chest up. His body and head are oriented directly towards the viewer.
+
+*   **Outfit:**
+    *   **Inner Layer:** A white fabric undergarment is visible at the neckline.
+    *   **Outer Layer:** He wears a robe or tunic with a pale, cool grey main body, made from what appears to be a heavy, durable fabric.
+    *   **Chest Detail:** Over the center chest and lower neck is a vertical brown leather panel, secured by four horizontal brown leather straps with round, gold-colored metal claps. This leather piece covers the white undergarment at the neck.
+    *   **Collar and Shoulders:** A prominent, high, stand-up collar is integrated with wide shoulder pauldrons. These features are a dark teal/green color with a metallic gold border trim. The pauldrons protrude slightly from the shoulders.
+    *   **Sleeves:** Long, wide sleeves, made of the same pale grey fabric as the main body, are visible.
+    *   **Wear-and-tear:** The clothing appears to be in good condition, without notable signs of damage or wear.
+
+*   **Accessories:** A thick gold necklace with large, rounded gold beads is worn high on his neck, just above the leather panel and collar.
+
+*   **Visible Equipment:** No weapons or other equipment are shown.
+
+*   **Hands:** Hands are not visible in the frame.
+
+*   **Background Environment:** The character is positioned against a dark, indistinct stone-walled background, possibly a cave or an ancient structure. There are vague shapes of stone blocks and perhaps pillars. A weak, warm yellow light source is visible in the distance, along with a few small points of light that could be dust motes or distant candles.
+
+*   **Lighting:** The character is illuminated by a soft, diffused light from the front and upper right, highlighting his face and the textures of his clothing. The light has a cool quality, contrasting with the warm yellow light in the background.
+
+*   **Colour Palette:** The dominant colors for the character are cool tones of pale grey, dark teal/green, and brown, with metallic gold accents and his pale blonde hair. His skin is a tan color. The background consists of dark, muted browns and greys with touches of warm yellow.
+
+*   **Magical Effects:** There are no visible magical effects or glows on the character himself.
+
+**Card Components**
+
+*   **Header:** The name "YAN MAGDA" is prominently displayed in a large, white font. Below it, the title "ENLIGHTENED EXILE" is in a smaller, golden font.
+*   **Icons:**
+    *   Three white circles with black text "C II," "C III," and "C IV" are arranged horizontally at the top against a dark purple background.
+    *   A small golden circle with an "I" inside is in the top left corner.
+    *   A small golden square with what appears to be a "3" inside is in the top right corner.
+    *   Five hexagonal golden tiles, each with the number "20" and a small arrow icon at the bottom, are arranged in a row at the bottom of the card.
+*   **Text Sections:**
+    *   **PLAYER NUMBER:** Blank field.
+    *   **LIFE:** Blank field.
+    *   **STARTING HAND:** "1x Illuminate, 4x Crystal."
+    *   **STARTING DECK:** "4x Crystal, 1x Spark."
+    *   **Imperium Ritual:**
+        *   **ACTIVATE DURING YOUR MAIN PHASE:** "Gain a card from any supply pile. If you have four opened breaches, any ally gains a card from any supply pile and places it on top of their deck."
+*   **Layout:** The character portrait occupies the left side of the card. The text and icons are on the right. Vertical text "DECK" is on the left edge, and "DISCARD" is on the right edge. The entire card is framed by a dark purple border.

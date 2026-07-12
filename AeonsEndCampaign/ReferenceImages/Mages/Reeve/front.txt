@@ -1,0 +1,39 @@
+This image is a character illustration from a card game, overlaid with game interface elements. The subject is a female warrior named "Reeve."
+
+**Subject: Character "Reeve"**
+
+*   **Framing & Pose:** The character is shown from the waist up in a dynamic action pose, twisting her torso toward the viewer's right. Her head is turned left, looking over her left shoulder. Her right arm is raised high and bent backward out of the top left of the frame, as if swinging a heavy object or preparing a spell. Her left arm is bent across her stomach, forearm parallel to the ground.
+*   **Face & Expression:** Her face is angular with a strong jawline. She has a strenuous, fierce expression: heavy furrowed brows, eyes narrowed, and her mouth slightly open showing clenched upper teeth. Her skin is a medium-dark brown tone, heavily contoured by dramatic lighting.
+*   **Eyes:** Her eyes are a striking, glowing amber/orange color with no visible pupils, suggesting a magical state.
+*   **Hair:** She has extremely thick, voluminous, wavy very dark brown/black hair. It is caught in motion, blowing wildly in heavy clumps horizontally toward the left side of the frame.
+*   **Age & Build:** She appears to be a young adult. She has an athletic, muscular build, visible in her bare right shoulder and bicep.
+*   **Outfit (Top Down):**
+    *   **Neck:** A thick, textured brown fabric scarf or cowl is wrapped loosely around her neck, blowing to the left with her hair.
+    *   **Torso Armor:** She wears segmented plate armor on her torso and right shoulder, made of a dark blue metal with a slightly matte finish. The plates are held with large, round gold/brass-colored rivets. The edges of the shoulder pauldron show a brown leather under-layer. The armor shows wear, with scratches and dents. Beneath the blue plates on her left side, brown leather straps and buckles are visible.
+    *   **Midriff:** Below the breastplate is a section of dark brown leather.
+    *   **Waist:** A wide reddish-brown leather belt with a large, round, flat brass buckle centered on her stomach.
+    *   **Lower Body:** Below the belt, the top of a dark, pleated skirt made of heavy fabric or leather is visible.
+*   **Arms:**
+    *   **Right Arm:** The upper arm is bare, showing muscle definition, with a simple brown leather strap band around the bicep. The forearm is obscured by the frame edge.
+    *   **Left Arm:** The forearm is heavily wrapped in a grey, segmented, armored gauntlet that looks like metallic bandages. The left hand is obscured behind a dark, indistinct foreground element on the right side.
+
+**Background Environment**
+
+The background is a dark, cavernous interior, possibly an underground city or mine.
+*   **Left Side:** Behind her, there is a descent of stone steps leading to a lower platform. On this platform, there are minuscule, indistinct figures near a glowing orange heat source (like a forge or magma pit), which casts warm light upward.
+*   **Right Side:** The right side of the background is heavily obscured by a semi-transparent dark overlay containing text, but shows vague, dark, cool-toned rocky cave walls.
+*   **Overall Atmosphere:** Gritty, smoky, and subterranean.
+
+**Lighting**
+
+The lighting is dramatic and high-contrast (chiaroscuro).
+*   **Primary Light Source:** A strong, warm orange light source acts as a key light from the lower-left front. This casts bright warm highlights on the right side of her face (cheekbone, nose, brow), the right side of her neck, the underside of her right arm, and the gold rivets on her armor.
+*   **Secondary Light/Shadows:** The rest of the figure is in deep shadow, illuminated by cool, ambient blue/grey cave light. The shadows under her jaw and on the left side of her face are very dark.
+
+**UI Overlays & Text**
+
+The image is a game card and contains significant graphic overlays:
+*   **Borders:** A dark purple border framing the entire image, with vertical text "DECK" on the left and "DISCARD" on the right.
+*   **Top Icons:** Four circular slots at the top with Roman numerals (I, II, III, IV) and small yellow/grey icons (a fire symbol in I, yellow rotation symbols in II, III, IV).
+*   **Right Text Panel:** A large, semi-transparent dark panel covers the right half, containing white text: "REEVE," "BREACH MAGE ELITE," "PLAYER NUMBER," "LIFE," "STARTING HAND: 1x Obsidian Shard 2x Crystal 2x Spark," "STARTING DECK: 3x Crystal 2x Spark," "Quelling Blade," "ACTIVATE DURING YOUR MAIN PHASE: Deal 5 damage to a minion. Deal 3 damage to a different minion."
+*   **Bottom Slots:** Four rectangular slots at the very bottom with the number "20" inside grey circular mechanisms.

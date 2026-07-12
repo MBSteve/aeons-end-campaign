@@ -1,0 +1,74 @@
+This is a detailed visual reference breakdown for a CGI artist to recreate the character, entity, and scene depicted in the image.
+
+---
+
+### 1. Character: The Man ("The Coward")
+
+**A. Demographics & Physique**
+*   **Age:** Late 30s to mid-40s.
+*   **Build:** Stocky, endomorphic, somewhat overweight. Thick neck and midsection visible beneath the armor.
+*   **Face:** Round face with fair skin that is flushed red, likely from exertion or fear.
+*   **Hair:** Short, dark brown to black hair with a slightly receding hairline. A short, patchy, unkempt beard and mustache of the same color.
+
+**B. Expression & Pose**
+*   **Expression:** Dominant features are fear and distress. Eyebrows are raised and furrowed tightly. Eyes are wide, staring upwards and slightly to his left, past the shield. Mouth is slightly open, teeth unclenched, jaw somewhat slack in worry.
+*   **Pose:** A defensive low crouch on stone steps.
+    *   **Legs:** Spread wide for stability. The right leg is bent deeply; the left leg is extended further down the steps.
+    *   **Torso:** Turned slightly to his right.
+    *   **Head:** Tilted back and turned left, looking up at the entity looming behind him.
+
+**C. Hands & Action**
+*   **Left Arm/Hand:** Holding a large shield. The forearm is braced behind the shield, holding it up and angled slightly backward to defend his head and left flank. The hand itself is hidden by the shield.
+*   **Right Arm/Hand:** Bent close to the chest. The gauntleted hand is tightly clutching a small, irregular, dark, textured object (described in the text as "enchanted coal") against his breastplate.
+
+### 2. Outfit & Armor Layers
+
+The armor shows signs of wear—scuffs, scratches, and slight dirt—but is generally well-maintained steel.
+
+*   **Layer 1 (Undermost): Padded Tunic (Gambeson):** Visible at the neck, elbows, and inner thighs. Made of heavy, quilted cotton or linen fabric colored rusty red/brown.
+*   **Layer 2: Trousers:** Dark charcoal grey fabric trousers visible beneath the tunic skirt and above the leg armor.
+*   **Layer 3: Loincloth/Tabard:** A long piece of dark charcoal grey, heavy woven wool fabric hanging from the waist down to just below the knees, covering the front of the trousers.
+*   **Layer 4: Steel Plate Armor:** Burnished steel with warm yellowish highlights from environmental lighting.
+    *   **Torso:** Solid steel breastplate with rolled edges.
+    *   **Shoulders (Pauldrons):** Rounded steel shoulder plates consisting of a main cup and two smaller articulated lames lower down, secured with rivets.
+    *   **Arms:** Steel couters protecting the elbows and vambraces covering the forearms.
+    *   **Hands (Gauntlets):** Articulated steel plate gauntlets covering the fingers, knuckles, and wrists.
+    *   **Legs:** Steel greaves covering the shins and calves, with articulated lame plates covering the top of the foot (sabatons).
+*   **Footwear:** Brown leather boots are visible beneath the steel sabatons at the toes and heels.
+
+### 3. Equipment & Props
+
+*   **The Shield (Left Hand):**
+    *   **Type:** Large, round shield.
+    *   **Construction:** Wood reinforced with metal.
+    *   **Wooden Parts:** The four quadrants beween the metal cross are made of light brown wooden planks, showing wood grain and surface scratches.
+    *   **Metal Parts:** A raised, circular brass or bronze boss in the center with a radial, sunburst-like pattern. A polished steel rim encircles the entire shield. A polished steel cross/plus shape connects the central boss to the outer rim.
+*   **The Object (Right Hand):** A small, fist-sized lump of raw, dark material. It appears matte black and irregularly faceted, like raw coal or rough obsidian.
+
+### 4. The Shadow Entity ("Ulgimor")
+
+**Visual Description:**
+*   **Nature:** A large, amorphous, semi-translucent manifestation of shadow and arcane energy emanating from behind the man.
+*   **Color/Texture:** Deep indigo to violet. The edges are smoky and wispy, trailing off into invisibility. The core is denser but still translucent enough to obscure the background slightly without blocking it entirely. It has an internal, pulsating magical glow.
+*   **Form:** Roughly humanoid upper torso looming significantly larger than the man. It features spiky, jagged projections on shoulders and head area.
+*   **"Face":** Indistinct, suggestive of a monstrous skull or roaring maw made of denser shadow, but lacking defineable eyes or features.
+*   **Limbs:** Large, clawed hands made of shadow are visible on the left and right, reaching forward as if to envelop the man or attack something in front of him.
+
+### 5. Environment & Background
+
+*   **Setting:** Ancient, overgrown stone ruins at twilight or night.
+*   **Ground:** Wide, shallow stone steps made of large, cracked grey flagstones. Some moss/dirt is visible in the cracks.
+*   **Mid-ground structures:** Pillars and low stone walls constructed from large grey blocks are visible behind the man.
+*   **Flora:** Thick, tropical jungle foliage (palm fronds, large ferns) grows over and around the stone structures.
+*   **Far Background:** The stairs continue ascending. Two distinct torches mounted on stone posts are visible, burning with bright orange/yellow flames.
+
+### 6. Lighting & Color Palette
+
+**Lighting Direction & Quality:**
+*   **Primary Light Source (Warm):** An unseen warm light source (like a large fire or sunset) from the front-right. This creates warm yellow/orange highlights on the man's face, the right side of his steel armor, the brass shield boss, and the stone steps.
+*   **Secondary Light Source (Magical/Cool):** The Shadow Entity emits a strong violet/indigo light. This rims the man's left side, his helmet-less head, and casts purple light onto the stone steps immediately beneath and behind him.
+*   **Environmental Light:** The background torches provide localized warm light pools in the distance.
+
+**Color Palette:**
+*   **Dominant Contrasts:** Warm yellows and steel greys of the man vs. cold, deep purples and blacks of the shadow entity.
+*   **Key Colors:** Burnished steel (grey/silver), Rusty Red (tunic), Charcoal Grey (tabard/trousers), Deep Indigo/Violet (shadow entity), Warm Yellow/Orange (highlights/fire), Stone Grey (background), Jungle Green (foliage).

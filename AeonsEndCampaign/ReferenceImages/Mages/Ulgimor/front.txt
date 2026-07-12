@@ -1,0 +1,56 @@
+This image is a character card illustration from a tabletop game. The following is a detailed visual breakdown of the physical elements visible within the frame, intended as reference for photorealistic CGI recreation.
+
+**1. The Character: Ulgimor**
+
+*   **Visibility & Pose:** Ulgimor is visible from the mid-chest up. He is a thickset human male, standing and oriented slightly to his left, but his head is turned to look towards the front-right. He is holding a shield, which obscures much of his lower chest.
+*   **Face:**
+    *   **Age Estimate:** Late 30s to late 40s.
+    *   **Shape:** Round face with a heavy jaw and thick neck.
+    *   **Skin:** Fair to medium tone, slightly ruddy complexion. Prominent nasolabial folds around the mouth.
+    *   **Eyes:** Small, dark brown, set deep under a heavy brow ridge. They are looking off-camera to the right.
+    *   **Unibrow/Brows:** Thick, dark brown eyebrows, slightly furrows.
+    *   **Expression:** The mouth is slightly open, showing no teeth. The expression is one of alertness, mild surprise, or exertion.
+*   **Hair:**
+    *   **Head Hair:** Very short, sparse, receding dark brown hair, cut close to the scalp (a buzz cut).
+    *   **Facial Hair:** A dark brown, well-maintained Van Dyke beard (mustache connected to a chin beard, with clean-shaven cheeks).
+*   **Build:** Stocky, broad-shouldered, heavy-set build.
+*   **Outfit & Armor:**
+    *   **Underlayer:** At the neck, a high-collared, dark navy or black textile gambeson or tunic is visible beneath the armor.
+    *   **Chest Armor:** Just below the neck, the top edge of a steel breastplate is visible.
+    *   **Right Shoulder Armor (Pauldron):** A large, rounded metal pauldon is prominent on his right shoulder. It is a dull silver/grey steel color with a brass or gold-colored engraved spiral design on the front face. Below the main plate, leather strapping with gold rivets secures it to the arm. There is a distinct, circular green gemstone or glass lens set into the upper part of this armor piece near the neck collar.
+    *   **Left Shoulder Armor:** Only the topmost edge of the matching left pauldron is visible behind the shield.
+*   **Equipment (Shield):**
+    *   **Type:** A large, round shield held in the left hand (hand not visible), positioned in front of the torso.
+    *   **Materials & Design:** The main face of the shield is made of painted wooden planks, alternating in curved stripes of medium grey and off-white cream. The shield is rimmed with a thick band of polished brass or bronze metal, showing rivet details.
+    *   **Boss:** The center feature is a large, stylized brass/gold metal boss with swirling, wave-like relief patterns.
+    *   **Damage:** There is a distinct notch or cutout on the upper left edge of the brass rim.
+
+**2. The Shadow Entity (Background Element)**
+
+*   A massive, monstrous entity looms directly behind Ulgimor, filling the upper center of the frame.
+*   **Material/Texture:** It appears to be made of solidified, translucent shadow or magical energy. It is not physical flesh. The texture is painterly, gaseous, and spiky.
+*   **Colour:** Deep violet grading into magenta and dark purple. It seems to generate its own internal glow.
+*   **Form:** The entity has a vague, pointed, snout-like head shape. Two empty sockets glow with bright purple light. Below the head, vertical striations suggest a ribcage or a gaping maw. Numerous sharp, spiky protrusions rise from its back and shoulders.
+
+**3. Background Environment**
+
+*   **Setting:** The background is indistinct but appears to be a subterranean or interior stone structure, possibly a dungeon or temple.
+*   **Details:** On the right side, vague architectural elements like stone stairs or pillars recede into the darkness.
+*   **Colour Palette & Mood:** Murky greenish-teal and dark grey tones dominate the background surroundings. The atmosphere is humid and dark.
+
+**4. Lighting**
+
+*   **Primary Light Source (External):** A warm light source from the front-right illuminates Ulgimor's face, the brass rim of his shield, and the metallic surfaces of his armor, creating distinct highlights and shadows.
+*   **Secondary Light Source (Magical):** The purple shadow entity behind him acts as a strong rim light, casting a violet glow on the left side of Ulgimor’s face, neck, and shoulder armor, separating him from the background.
+
+**5. GUI Elements (Card Overlay)**
+
+*   The illustration is contained within a card frame with purple borders.
+*   Top left: A yellow icon with the Roman numeral "I".
+*   Top center: Two icons with Roman numerals "II" and "III".
+*   Top right: A yellow icon with Roman numeral "IV", and the word "ULGIMOR" in large white text below it, followed by "SHADOWKIN BEAST" in smaller yellow text.
+*   Left side: Vertical text "DECK".
+*   Right side: Vertical text "DISCARD".
+*   Center right: Text boxes for "PLAYER NUMBER", "LIFE", "STARTING HAND", and "STARTING DECK".
+*   Bottom center: An ability text box titled "Eidolon Shroud".
+*   Bottom edge: Six identical rectangular tokens, each showing a silver circle with the number "20" inside.

@@ -1,0 +1,41 @@
+This description is written as a detailed reference for a CGI artist to recreate the character and scene from the provided image physically.
+
+**1. Character Subject**
+*   **Identity/Creature Type:** Humanoid female, likely Elven given the features and lore context.
+*   **Apparent Age:** Mature adult. The face shows sternness and experience rather than wrinkles; an ageless quality.
+*   **Build:** Tall, slender, with an upright, rigid posture.
+*   **Pose:** Standing full-figure, facing the camera squarely. Both arms are held slightly away from the sides of the body, bent at the elbows. Hands are held open at hip level, palms facing slightly upward and outward, fingers relaxed but somewhat splayed.
+
+**2. Head and Face**
+*   **Face Shape:** Long, somewhat narrow face with high cheekbones and a pointed chin.
+*   **Complexion:** Very pale, almost porcelain skin tone.
+*   **Expression:** Intense, stern, and unyielding stair directly forward. The mouth is closed in a firm, straight line. The brow is slightly furrows, creating a serious demeanor.
+*   **Eyes:** Deep-set. The color is indeterminate dark (shadowed dark brown or amber).
+*   **Hair:** Pale platinum blonde. Very long, straight, and relatively fine. It is parted in the middle at the crown and falls flat against the head, draping over the shoulders and down the back, reaching well below the waist.
+
+**3. Outfit and Clothing Layers**
+Looking from the innermost layer outward:
+*   **Neckpiece:** A fitted golden metallic collar or choker is visible right at the base of the throat.
+*   **Main Gown Structure:** A floor-length garment split into two primary zones.
+    *   **Torso Panel (Vest/Bodice):** A fitted panel covering the chest from neck to just below the waist. This fabric is a smooth, sea-foam green or cyan color. It features a central vertical opening fastened by four horizontal gold metallic bars or clasps across the sternum. The bottom edge of this panel ends in a downward-pointing V-shape, trimmed with a gold border.
+    *   **Sleeves and Skirt:** The rest of the gown is a pearlescent, off-white fabric that drapes heavily.
+        *   **Collar:** A very high, stiff, standing collar of the white fabric rises from the shoulders behind the neck and head, framing the blonde hair.
+        *   **Sleeves:** Long, wide "wizard" style sleeves that flare towards the wrist. They are trimmed with gold at the shoulder seam where they meet the cyan panel, and at the wide cuffs.
+        *   **Skirt:** Falls from the waist to the floor in thick, heavy folds, pooling slightly on the ground.
+*   **Footwear:** The very tip of a simple brown leather shoe is barely visible peaking out from under the center hem of the dress.
+*   **Materials & Texture Reference:** The cyan torso panel should be a smooth, perhaps slightly stiff silk. The white gown fabric should be a heavy satin or velvet that catches the light with a pearlescent sheen. The gold trim is metallic.
+
+**4. Equipment and Magical Effects**
+*   **Props:** None visible.
+*   **Magic/VFX:** None visible in the static image.
+
+**5. Environment and Background**
+*   **Setting:** An interior stone structure, appearing ancient (tomb, temple, or dungeon hall).
+*   **Background Details (Left):** Stone steps leading upward. A stone wall with a lit torch in a bracket, casting warm orange light.
+*   **Background Details (Right):** Vague architectural elements, possibly a large pillar or sarcophagus shape in the shadows.
+*   **Ground:** Stone flagstone flooring.
+
+**6. Lighting and Mood**
+*   **Primary Lighting Source:** Dramatic, warm side-lighting coming from both the left or right (likely torches or braziers just off-camera). This creates strong highlights on the edges of the white dress, hands, and face, while casting deep shadows in the folds of the fabric.
+*   **Direction:** The lighting on the character feels slightly underexposed, with a strong light source hitting her from the front-left, highlighting the sheen of the dress.
+*   **Colour Palette:** High contrast. The figure is dominated by cool pearlescent whites, cyan, and pale gold. The background is dominated by warm, dark browns, deep oranges, and shadow blacks.
