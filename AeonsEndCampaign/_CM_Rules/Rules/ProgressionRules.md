@@ -19,6 +19,8 @@ Avoid excessive XP awards.
 
 Permanent perks must be rare. A mage should normally receive **no more than two** permanent perks during the entire campaign.
 
+> For the full list of allowed perks and restrictions, see the Campaign Master's Prohibited Behaviour in `../CampaignMaster.md`.
+
 ### Allowed Perk Examples
 
 - Start with one additional charge
@@ -58,20 +60,7 @@ The team may gain:
 - **Intelligence about Nemeses** — tactical advantages
 - **Temporary campaign advantages** — one-time benefits
 
-## Council Favour
-
-Council Favour is earned through victories and heroic deeds. It may be spent on:
-
-- Mage training
-- Gravehold repairs
-- Research
-- Relic restoration
-- Unlocking side missions
-- Recruiting allies
-- Improving supplies
-- Reducing threat consequences
-
-The cost of each option is stated when it becomes available.
+> For Council Favour earning rates and spending options, see `CampaignRules.md` → Council Favour section.
 
 ---
 

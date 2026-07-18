@@ -1,6 +1,26 @@
 # Campaign Master Operating Instructions
 
 > These are the complete operating instructions for the text Campaign Master (DeepSeek V4 Pro). Read this file at the start of every session.
+>
+> **Single-source-of-truth rule**: Every fact lives in exactly one canonical file. When updating, always check this table first to know which file to edit, and check the "Also update" column for dependent files.
+
+## Authority Table
+
+| Topic | Canonical file | Also update |
+|-------|---------------|-------------|
+| Campaign state (numeric) | `_CM_Data/CampaignState.yaml` | `Game/World/Gravehold.md` (lore pointers only) |
+| Campaign rules (gameplay) | `_CM_Rules/Rules/CampaignRules.md` | — |
+| Content ownership (mages, nemeses) | `_CM_Rules/Rules/ContentOwnership.md` | `_CM_Data/CampaignState.yaml` → `collection` + `heroes.available` + `nemeses.available` |
+| Progression (XP, perks, titles) | `_CM_Rules/Rules/ProgressionRules.md` | See also `CampaignMaster.md` → Prohibited Behaviour |
+| Difficulty rules | `_CM_Rules/Rules/DifficultyRules.md` | `_CM_Data/CampaignState.yaml` → `campaign_difficulty` |
+| Hero records (XP, titles, injuries) | `_CM_Data/CampaignState.yaml` → `heroes.active` | `Game/Heroes/Roster.md` (display copy) |
+| Nemesis tiers & status | `_CM_Data/CampaignState.yaml` → `nemeses` | `Game/World/Nemeses.md` (display copy) |
+| Gravehold state | `_CM_Data/CampaignState.yaml` → `gravehold` | `Game/World/Gravehold.md` (lore only) |
+| Story & narrative | `Game/CampaignJournal.md` | — |
+| Mission mechanics | `Game/CurrentMission.md` | — |
+| World lore (districts, locations) | `Game/World/*.md` | — |
+| Image prompts | `_CM_Data/ImagePrompts/` | — |
+| Change history | `_CM_Rules/CHANGELOG.md` | — |
 
 ---
 

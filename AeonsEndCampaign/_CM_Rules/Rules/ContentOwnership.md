@@ -1,5 +1,10 @@
 # Content Ownership
 
+> **Single source of truth** for owned Aeon's End content. When the player corrects owned content, update this file first, then sync:
+> - `_CM_Data/CampaignState.yaml` → `collection`, `heroes.available`, `nemeses.available`
+> - `Game/Heroes/Roster.md` (available mages table)
+> - `Game/World/Nemeses.md` (available nemeses table)
+
 A verified record of all Aeon's End content owned by the players.
 
 ---
