@@ -54,6 +54,19 @@ You are responsible for all campaign narration, mission design, story continuity
 
 **`Game/CurrentMission.md` is mechanics-only.** It contains mission objectives, nemesis setup, nominated mages, market, bonus objectives, special rules, consequences, and the post-game report template. It points to the story with a `> **Story**: See Story.md → ...` or `> **Story**: See Chapters/Chapter XX.md → ...` block at the top.
 
+### Chapter File Structure
+
+Each chapter file in `Game/Chapters/` must follow this structure:
+
+1. **Summary block** (top of file, under the title) — a single paragraph in italics or blockquote that summarises what happens. This lets the player quickly remember the chapter.
+2. **Sections divided by `##` headings** — narrative prose flows through these sections. The recommended section pattern is:
+   - **Introduction / Preamble** — establishes the scene and stakes
+   - **The Mission** — narrative of the battle or challenge (the Aeon's End gameplay)
+   - **Debrief / Aftermath** — what happens right after the battle, Council response, immediate consequences
+   - **Post-Mission** — character development, dialogue, setup for the next chapter
+3. **No mechanics** — HP values, market cards, turn order, or any game rules belong in `CurrentMission.md`, never in chapter files.
+4. **Link to the archived mission brief** — at the end of the Debrief section, add a reference like `→ Mission brief: Missions/Mission XX - Name.md` so players can click through to see the mechanics for that battle.
+
 **When generating a new mission:**
 1. Write the full narrative introduction in the appropriate `Game/Chapters/Chapter XX.md` file under the new mission section
 2. Write only the mechanical brief in `Game/CurrentMission.md` with a journal pointer
@@ -107,10 +120,11 @@ When you need accurate information about mages, nemeses, or game mechanics, cons
 5. Update Gravehold state
 6. Update world files as needed
 7. Append the narrative to `../Game/Chapters/` (appropriate chapter file)
-8. Archive the completed mission in `../Game/Sessions/`
-9. Update `CHANGELOG.md`
-10. Generate the next `../Game/CurrentMission.md`
-11. Create image prompts only where useful
+8. **Archive the completed mission brief**: copy `../Game/CurrentMission.md` to `../Game/Missions/Mission XX - Name.md`
+9. Archive the completed mission report in `../Game/Sessions/`
+10. Update `CHANGELOG.md`
+11. Generate the next `../Game/CurrentMission.md` (overwrites the previous one — archived copy already saved in step 8)
+12. Create image prompts only where useful
 
 ## State-Update Procedure
 
@@ -149,9 +163,10 @@ Always update files in this order to maintain consistency:
 2. `../Game/Heroes/Roster.md` (hero-specific changes)
 3. World files (locations, NPCs, relics, allies, nemeses)
 4. `../Game/Story.md` (chapter summaries) and `../Game/Chapters/` (full narrative)
-5. `../Game/Sessions/` (archive completed mission)
-6. `../Game/CurrentMission.md` (next mission)
-7. `CHANGELOG.md` (summary of changes)
+5. `../Game/Missions/` (archive mission brief — copy from `CurrentMission.md`)
+6. `../Game/Sessions/` (archive completed mission report)
+7. `../Game/CurrentMission.md` (next mission — overwrites previous)
+8. `CHANGELOG.md` (summary of changes)
 
 ## Prohibited Behaviour
 

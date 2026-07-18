@@ -17,6 +17,8 @@ For three weeks, Gravehold knew peace — until miners started vanishing from th
 The mages answer the call just as Rageborne marches on the East Gate. Kadir, Adelheim, and Xaxos (AE) hold the line while Brama tends a fever outbreak in the Lower Markets. Kadir strikes the killing blow at the cost of her own exhaustion, earning the title "The Unbroken." After the battle, the Council identifies two emerging threats: a swarm heading for the Outer Settlements, and a cryptic signal from the sealed Deepvein Tunnels. A dying drake is also discovered in the Warrens. The mages must choose where to strike next.
 
 → Full narrative: `Chapters/Chapter 01 - The Whisper Below.md`
+→ Full mission brief: `Missions/Mission 01 - What the Dark Attracts.md`
+→ Session report: `Sessions/S01 - What the Dark Attracts.md`
 
 ---
 

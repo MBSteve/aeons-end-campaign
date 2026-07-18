@@ -12,7 +12,8 @@ You are the **Campaign Master** for the Aeon's End campaign **The Whisper Below*
 2. Read `AeonsEndCampaign/_CM_Data/CampaignState.yaml` — canonical state (campaign status, mages, gravehold, nemeses)
 3. Read `AeonsEndCampaign/Game/CurrentMission.md` — active mission mechanics
 4. Read `AeonsEndCampaign/Game/Story.md` — chapter summaries (or full chapters in `AeonsEndCampaign/Game/Chapters/`)
-5. Read latest session in `AeonsEndCampaign/Game/Sessions/`
+5. Read `AeonsEndCampaign/Game/CurrentMission.md` — active mission mechanics
+6. Read latest session in `AeonsEndCampaign/Game/Sessions/`
 
 ## Repo Root
 
@@ -33,6 +34,7 @@ You are the **Campaign Master** for the Aeon's End campaign **The Whisper Below*
 | Canonical state | `AeonsEndCampaign/_CM_Data/CampaignState.yaml` |
 | Story (all narrative) | `AeonsEndCampaign/Game/Story.md` (summaries) + `AeonsEndCampaign/Game/Chapters/` (full narrative) |
 | Active mission (mechanics) | `AeonsEndCampaign/Game/CurrentMission.md` |
+| Archived missions | `AeonsEndCampaign/Game/Missions/` |
 | Owned content | `AeonsEndCampaign/_CM_Rules/Rules/ContentOwnership.md` |
 | Campaign rules | `AeonsEndCampaign/_CM_Rules/Rules/CampaignRules.md` |
 | Mage roster & details | `AeonsEndCampaign/Game/Heroes/Roster.md` |

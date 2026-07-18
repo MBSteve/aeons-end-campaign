@@ -213,6 +213,8 @@ const FILES = [
   { name: "⤷ Prologue",     path: "Chapters/Prologue.md", file: true },
   { name: "⤷ Chapter 01",   path: "Chapters/Chapter 01 - The Whisper Below.md", file: true },
   { name: "Current Mission",  path: "CurrentMission.md",  file: true },
+  { section: "Archived Missions" },
+  { name: "⤷ Mission 01 — What the Dark Attracts", path: "Missions/Mission 01 - What the Dark Attracts.md", file: true },
   { section: "World" },
   { name: "Gravehold", path: "World/Gravehold.md", file: true },
   { name: "Locations", path: "World/Locations.md", file: true },
@@ -313,10 +315,67 @@ function renderMarkdown(text) {
   document.getElementById('viewer').style.display = 'block';
   document.getElementById('editor').style.display = 'none';
   document.getElementById('viewer').innerHTML = marked.parse(text);
-  // Open external links in new tab
+
+  // Build a set of known file paths from the sidebar for resolution
+  const knownPaths = new Set(FILES.filter(f => f.file).map(f => f.path));
+
+  // Convert <code> elements that look like local file paths into clickable links
+  document.querySelectorAll('#viewer code').forEach(el => {
+    const txt = el.textContent.trim();
+    if (knownPaths.has(txt) || /\.(md|png|jpg|jpeg|gif|webp|yaml)$/i.test(txt)) {
+      const link = document.createElement('a');
+      link.textContent = txt;
+      link.href = '#';
+      link.className = 'file-link';
+      link.onclick = makeFileClickHandler(txt);
+      el.replaceWith(link);
+    }
+  });
+
+  // Make all <a> links behave correctly
   document.querySelectorAll('#viewer a').forEach(a => {
+    const href = a.getAttribute('href');
+    if (href && !href.startsWith('http://') && !href.startsWith('https://') && !href.startsWith('#') && !a.classList.contains('file-link')) {
+      a.removeAttribute('href');
+      a.style.cursor = 'pointer';
+      a.onclick = (e) => {
+        e.preventDefault();
+        const resolved = resolvePath(href);
+        const navItem = document.querySelector(`.nav-item[data-path="${resolved}"]`);
+        selectFile(resolved, navItem);
+      };
+    }
     if (a.hostname && a.hostname !== location.hostname) a.target = '_blank';
   });
+}
+
+/* ─── Path resolution ─── */
+const ROOT_DIRS = ['Chapters/', 'Missions/', 'World/', 'Heroes/', 'Sessions/', 'Images/', 'Maps/', 'Rules/'];
+const ROOT_FILES = ['Story.md', 'CurrentMission.md', 'README.md'];
+
+function resolvePath(txt) {
+  // Strip "Game/" prefix since the viewer lives inside Game/
+  let clean = txt.replace(/^Game\//, '');
+  // If the path already starts with a known root directory, use it as-is
+  const startsWithRoot = ROOT_DIRS.some(d => clean.startsWith(d));
+  if (startsWithRoot) return clean;
+  // If it's a known root-level file (e.g. Story.md), it's already correct
+  if (ROOT_FILES.includes(clean)) return clean;
+  // Otherwise it's a sibling reference — prepend the current file's directory
+  if (currentPath) {
+    const dir = currentPath.substring(0, currentPath.lastIndexOf('/') + 1);
+    return dir + clean;
+  }
+  return clean;
+}
+
+function makeFileClickHandler(txt) {
+  return function(e) {
+    e.preventDefault();
+    const resolved = resolvePath(txt);
+    const navItem = document.querySelector(`.nav-item[data-path="${resolved}"]`);
+    selectFile(resolved, navItem);
+  };
 }
 
 /* ─── Edit / Save / Cancel ─── */

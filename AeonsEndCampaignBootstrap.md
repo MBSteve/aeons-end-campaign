@@ -92,6 +92,7 @@ AeonsEndCampaign/
 │   ├── Story.md          ← Chapter summaries (read this first)
 │   ├── Chapters/         ← Full narrative by chapter (Prologue, Ch01, etc.)
 │   ├── viewer.html       ← Browser viewer for Game/ files
+│   ├── Missions/          ← Archived mission briefs (preserved for cross-linking)
 │   ├── CurrentMission.md  ← Active mission mechanics only
 │   ├── Images/            ← Generated artwork (Mages/, Nemeses/, NPCs/)
 │   ├── Maps/              ← Map images
@@ -857,10 +858,11 @@ After a mission, the Campaign Master must:
 5. Update Gravehold
 6. Update world files
 7. Append the narrative to `Game/Chapters/` (appropriate chapter file)
-8. Archive the mission in Sessions
-9. Update CHANGELOG.md
-10. Generate the next CurrentMission.md
-11. Create image prompts only where useful
+8. Archive the mission brief in `Game/Missions/` (copy from CurrentMission.md, name by mission number)
+9. Archive the mission report in `Sessions/`
+10. Update CHANGELOG.md
+11. Generate the next CurrentMission.md (overwrites previous — archived copy already saved in step 8)
+12. Create image prompts only where useful
 
 ---
 

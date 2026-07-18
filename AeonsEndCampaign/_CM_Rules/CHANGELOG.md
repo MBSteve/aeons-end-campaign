@@ -21,6 +21,20 @@ All notable changes to the Aeon's End campaign repository.
 - `README.md` — quick-start and file table updated
 - `AeonsEndCampaignBootstrap.md` — structure diagram and references updated
 
+## [Missions Archive] — 2026-07-18
+
+### Added
+- **`Game/Missions/`** folder — archives completed mission briefs so story chapters can link to them
+- `Missions/Mission 01 - What the Dark Attracts.md` — Mission 1 archived with full mechanical brief and after-action report
+- `Game/viewer.html` sidebar now has an "Archived Missions" section
+
+### Changed
+- `_CM_Rules/CampaignMaster.md` — Post-Mission workflow now includes archiving CurrentMission.md to Missions/ before overwriting; File-Update Order updated
+- `.github/copilot-instructions.md` — added Missions/ to Quick Start and file table
+- `Game/Story.md` — Chapter 01 summary now links to both mission brief and session report
+- `Game/CurrentMission.md` — now links to the previous mission archive
+- Chapter rules updated: Debrief sections should link to the archived mission brief
+
 ---
 
 ## [Initialization] — 2026-07-10

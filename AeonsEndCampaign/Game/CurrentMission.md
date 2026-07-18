@@ -8,6 +8,7 @@
 - **Status**: Awaiting player choice
 
 > **Story**: See `Story.md` → Chapter 01 or `Chapters/Chapter 01 - The Whisper Below.md` for the full narrative and context.
+> **Previous mission**: `Missions/Mission 01 - What the Dark Attracts.md`
 
 ---
 
