@@ -1,14 +1,14 @@
 # Chapter 01: The Whisper Below
 
-> **Chapter Summary**: The Breach Mages answer the Council's summons and intercept Rageborne at the East Gate. After a hard-won victory that leaves Kadir exhausted, the Council identifies two emerging threats — a swarm heading for the Outer Settlements and a cryptic signal from the sealed Deepvein Tunnels. The mages must choose where to strike next.
+> **Chapter Summary**: The Breach Mages answer the Council's summons and intercept Rageborne at the East Gate. After a hard-won victory that leaves Kadir exhausted, the mages scatter across the city — Adelheim walks the walls alone, Kadir dreams of green light in the Healer's Ward, Xaxos burns with unspent fire, and Brama works through the night in the fever wards. The chapter closes on four mages, each alone with what they gave and what they lost.
 >
-> **Session**: S01 (completed), S02 (awaiting player choice)
+> **Session**: S01 (completed)
 >
-> **Key Events**: Rageborne defeated; Kadir earns title "The Unbroken"; Council Favour at 1; drake discovered in the Warrens
+> **Key Events**: Rageborne defeated; Kadir earns title "The Unbroken"; Council Favour at 1
 
 ---
 
-## 1. Introduction: The Summons Answered
+## 1. The Summons Answered
 
 The summons went out three days ago. Breach Mages from across the scattered sanctuaries have been arriving at Gravehold's gates in ones and twos — some striding through the main causeway with entourages, others slipping in through the Warrens without announcement. The Council has billeted them across the Upper Ward, and the Spire's great hall hums with the low murmur of old rivals and stranger alliances rekindling.
 
@@ -44,7 +44,7 @@ By the time Elder Councillor Sera received the runner's report from the eastern 
 
 ---
 
-## 2. Mission 1: What the Dark Attracts — The Battle
+## 2. Mission 1: What the Dark Attracts
 
 ### The Ash-Fields
 
@@ -96,7 +96,9 @@ Kadir collapsed beside it. Her eyes were closed. Her breathing was shallow. But 
 
 ---
 
-## 3. Mission 1 Debrief
+## 3. Aftermath
+
+### 3.1 The Debrief
 
 They carried Kadir back through the East Gate on a stretcher woven from Adelheim's cloak. Xaxos walked beside her, his breaches finally dark, his hands trembling from the effort of holding back more power than any one mage should channel. Adelheim brought up the rear, his amethyst shard cracked but still glowing faintly — a veteran's trophy.
 
@@ -122,32 +124,122 @@ And then she asked the mages a question that had no easy answer.
 
 ---
 
-## 4. Post-Mission: The City Divided
+### 3.2 Quiet Moments
 
-### The Mage Pool
+The Council session ended without resolution. The watchtowers were doubled. The patrols were dispatched. The healers were told to prepare for whatever came next. But for the mages themselves, the night stretched ahead — long, restless, and full of the kind of silence that settles after a battle no one expected to survive.
 
-Gravehold is not a single battlefield — it is a sprawling city of districts, passages, and walls, and the mages within it cannot be everywhere at once. After the battle at the East Gate, the surviving mages are scattered across the city, each bound by the realities of distance, duty, and recovery.
+---
 
-**Adelheim** and **Xaxos** remain at the East Gate, overseeing the repair crews who are already at work on the shattered outer wall. They can reach the Outer Settlements within hours, or the Old Foundry within less. They cannot reach the western districts in time to respond to a crisis there — the city is too large, the Warrens too slow.
+Adelheim did not go to the Spire guest quarters. He never did.
 
-**Kadir** lies in the Healer's Ward, deep in the Upper Ward. Her emerald shard flickers weakly in the lamplight. The healers say she will recover, but not quickly. She is unavailable for the next mission.
+Instead, he walked the length of the outer wall, from the East Gate to the North Bastion and back again, his amethyst shard casting faint violet shadows on the fused stone. The repair crews had done good work — the shattered section was already braced with timber and ward-laced mortar — but he could still see the cracks, the places where Rageborne's Strike had nearly punched through. He stopped at each one. He traced the fractures with his fingertips. He did not speak to the crews. He did not need to. They knew him by now — the old mage who walked the walls at night, who never seemed to sleep, who looked at every crack as though it were a personal failure.
 
-**Brama** has spent the hours since the battle in the Lower Markets, tending to the fever outbreak. She is exhausted but upright, and she has made it clear she will fight if needed. She can reach the Outer Settlements or the Old Foundry, but she cannot be in two places at once.
+A young stonemason, no older than sixteen, approached him near the third watchtower. "Sir? The crews are saying you held the centre. That you never gave ground."
 
-Beyond these three, the city is full of mages who answered the Council's summons but have not yet been called to fight. They wait in the Upper Ward, in the Warrens, in the guest quarters of the Spire — restless, watching, ready.
+Adelheim looked at the boy for a long moment. The amethyst shard pulsed once, twice, then dimmed.
 
-### The Side Mission: The Ember in the Dark
+"I gave plenty," he said. "Just not where anyone could see."
 
-A child found a dying drake in the Warrens near the Old Foundry — a lesser dragon, charcoal-scaled with ember-orange edges, displaced by the disturbance beneath the city. The Council is divided on whether to spend resources saving it. Elder Councillor Sera has made her position clear: "We are not the kind of city that lets things die in the dark."
+He turned and continued his walk. The boy did not follow.
 
-*The drake's fate awaits the players' decision. See `CurrentMission.md` for mechanical details.*
+Adelheim had been fighting Nemeses for longer than most of these crews had been alive. He had learned, somewhere along the way, that victory was not about standing firm — it was about knowing which ground you could afford to lose. He had lost his Amplify Vision today. He had lost the grand design, the careful architecture of power he had been building since the first breach-current touched his shard. He had fed raw damage into the fight instead, turn after turn, a blunt instrument when he had trained all his life to be a scalpel.
 
-### The Two Threats
+It had worked. That was the part that bothered him.
 
-The Council has identified two emerging threats, and the mages can only address one:
+He reached the North Bastion as the moon cleared the Spire's highest tower. Below him, the Warrens sprawled in their familiar chaos — lantern-light and shadow, the murmur of a thousand lives packed into tunnels and alcoves. Somewhere down there, a child had found a dying drake. Somewhere down there, the fever was still spreading. Somewhere down there, people were going about their lives as though a Nemesis had not nearly walked through the front gate.
 
-- **Option A: The Vanished Swarm** — Smaller creatures sighted in the ash-fields are heading toward the Outer Settlements. The settlements are Gravehold's lifeline. If not defended, they will be lost.
+Adelheim leaned against the parapet and closed his eyes. He did not sleep. He never did, on nights like this. But he let the cold stone press against his back, and he let the city's noise wash over him, and he waited for dawn.
 
-- **Option B: The Whisper's Echo** — Kellan Voss stirred, and the black crystal pulsed in response to a signal from the sealed Deepvein Tunnels. Something is calling from below. If not investigated, the signal intensifies and Kellan's condition worsens.
+---
 
-*The players' choice determines Mission 2. See `CurrentMission.md` for mechanical details and `Sessions/` for the resolved outcome.*
+Kadir dreamed of green light.
+
+She was back in the ash-fields, but the ash was not grey — it was emerald, pulsing with the same rhythm as her shard. Rageborne stood before her, motionless, its chitin split open along the wound Xaxos had torn. The wound was not bleeding. It was glowing. The same green. The same pulse.
+
+She walked toward it. In the dream, she was not exhausted. Her breaches were full. Her deck was heavy with power. She could have cast anything — could have ended the creature with a thought. But she did not. She pressed her hand against the wound, just as she had in the waking world, and she felt the life-force flow out of her and into the creature's heart.
+
+Only this time, it did not stop.
+
+The green light kept flowing, and flowing, and flowing, and she felt herself growing thinner, lighter, less real. The creature's heart began to beat. Once. Twice. A third time. She tried to pull her hand away, but it would not move. The emerald shard at her wrist had gone black — not grey, not drained, but black, the colour of the crystal Kellan Voss had carried out of the Deepvein tunnels.
+
+She woke with a gasp.
+
+The Healer's Ward was quiet. The ward-lanterns hummed their familiar hum. Her emerald shard lay on the bedside table, faintly glowing — not grey, not black, just resting. Recovering. Like her.
+
+A healer appeared at her bedside — an older woman with kind eyes and hands that smelled of antiseptic herbs. "Bad dreams?"
+
+Kadir did not answer immediately. She was still feeling for the edges of herself, making sure she was solid. Making sure she was real.
+
+"The creature," she said finally. "Is it dead?"
+
+"Very," said the healer. "You made sure of that."
+
+Kadir nodded. She did not ask about the others — she would find out soon enough. She did not ask about the city — if Gravehold had fallen, she would have felt it. She simply lay back against the pillow and watched the emerald shard pulse on the bedside table, slow and steady, like a heartbeat.
+
+She had given everything. She had meant to. But somewhere in the giving, she had discovered something she had not expected: there was still something left. Not much. Not enough to fight. But enough to dream. Enough to wake. Enough to wonder what the dream had meant.
+
+The healer adjusted her blankets and withdrew. Kadir closed her eyes. This time, she did not dream.
+
+---
+
+Xaxos could not sit still.
+
+He had tried. He had sat in the Spire's great hall for nearly an hour, listening to the Council debate patrol rotations and supply allocations, and he had felt his breaches itching the entire time — that familiar, maddening tingle that meant there was still charge in him, still power that had not been spent, still fire that had not found a target.
+
+He had burned through more energy in that battle than any mage had a right to channel. Sixteen bolts. Sixteen distinct, focused, devastating bolts of fire, each one a hammer-blow against Rageborne's hide. The other mages had looked at him afterward with something between awe and concern. Even Adelheim, who had seen everything, had raised an eyebrow.
+
+And yet here he was, hours later, still buzzing.
+
+He left the Spire and walked the Upper Ward. The streets were quiet — most of the city had gone to ground after the battle, waiting to see if the lull would hold. A few watchtower guards nodded to him as he passed. A street vendor who should have closed hours ago offered him a skewer of grilled meat. He took it. He ate it. He kept walking.
+
+The truth was, Xaxos did not know what to do with himself when he was not fighting. He had been a Breach Mage for seven years, and in that time he had learned exactly two things: how to channel power, and how to wait for the next fight. Everything in between — the quiet hours, the ordinary days, the conversations that were not about tactics or threats or the next Nemesis on the horizon — felt like a language he had never learned to speak.
+
+He found himself at the Healer's Ward. He did not go in. He stood outside the entrance for a long moment, watching the warm light spill through the windows, thinking about Kadir. She had walked into Rageborne's reach with nothing left — no spells, no charges, no plan. Just her hand and her shard and whatever stubborn, unbreakable thing lived in her chest.
+
+He did not know if he could do that. He did not know if he wanted to find out.
+
+He turned away from the Healer's Ward and walked back toward the Spire. His breaches were still itching. He ignored them. Eventually, they would quiet. Eventually, he would sleep. Eventually, there would be another fight.
+
+There was always another fight.
+
+---
+
+Brama did not stop.
+
+She had not stopped since the runner intercepted her at the East Gate. She had not stopped when the fever claimed its first victim — an elderly woman from the Outer Settlements who had been sick before the disappearances even began. She had not stopped when the second victim followed, or the third. She had not stopped when her satchel ran empty and she had to send a runner of her own to the Spire for more supplies.
+
+She worked through the night in the Lower Markets, moving from cot to cot, her hands steady, her voice calm, her presence a small island of order in a sea of misery. The refugees had been packed into a converted warehouse — too many bodies, too little air, the perfect breeding ground for whatever sickness had followed them out of the settlements. Brama had seen worse. She had worked a plague in the southern territories that had killed two hundred people in three weeks. She had delivered babies in the middle of Nemesis attacks. She had held the hands of dying mages who had given everything and still lost.
+
+This was not the worst thing she had seen. But it was close.
+
+A young woman grabbed her sleeve as she passed. "Please — my son — he's burning up —"
+
+Brama knelt beside the boy. He was perhaps eight years old, his face flushed, his breathing shallow. She pressed her hand to his forehead and felt the heat radiating off him like a furnace. Her tinctures would help. Her poultices would help. But what he really needed was a proper healer, a proper bed, and a city that was not constantly on the brink of annihilation.
+
+She gave him what she had. She moved on.
+
+Somewhere around the third hour of the night, a Council runner found her. "Mistress Brama. The Council has concluded. They're asking for the mages to reconvene at dawn."
+
+Brama did not look up from the compress she was applying to a miner's burned hands. "Tell them I'll be there."
+
+The runner hesitated. "They said to tell you specifically — they know you've been working. They said you can rest."
+
+Brama finally looked up. Her eyes were tired, but her gaze was steady. "Tell them I'll rest when the fever breaks."
+
+The runner left. Brama returned to her work.
+
+She had not fought Rageborne. She had not stood at the East Gate and hurled fire and lightning at a creature of chitin and rage. She had made a different choice — the choice she always made, the choice that felt less like a decision and more like gravity. People were suffering. She could help. Everything else was noise.
+
+But as the night wore on and the fever showed no sign of breaking, she found herself thinking about the battle she had missed. About Kadir, who had given everything. About Xaxos, who had burned so bright the ash turned to glass. About Adelheim, who had held the centre and never spoken of what it cost him.
+
+She had made the right choice. She knew that. But somewhere in the quiet hours before dawn, she allowed herself a single moment of doubt — not about the choice itself, but about the world that kept forcing her to make it.
+
+Then the moment passed. A child was crying. A fever was spiking. There was work to do.
+
+Brama picked up her satchel and kept moving.
+
+---
+
+→ Mission brief: `Missions/Mission 01 - What the Dark Attracts.md`
+→ Session report: `Sessions/S01 - What the Dark Attracts.md`
+→ Chapter continues: `Chapters/Chapter 02 - The City Divided.md`

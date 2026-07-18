@@ -63,7 +63,7 @@ Each chapter file in `Game/Chapters/` must follow this structure:
    - **Introduction / Preamble** — establishes the scene and stakes
    - **The Mission** — narrative of the battle or challenge (the Aeon's End gameplay)
    - **Debrief / Aftermath** — what happens right after the battle, Council response, immediate consequences
-   - **Post-Mission** — character development, dialogue, setup for the next chapter
+   - **Post-Mission / Quiet Moments** — **character development is mandatory here.** This is where the mages become people. Show their quirks, personalities, doubts, and private rituals. Use longer narrative — a few paragraphs per active mage. Reveal who they are when no one is watching: what they do in the hours after a battle, what haunts them, what keeps them going. This section is the emotional payoff of the chapter and must never be skipped or reduced to a summary. If a mage sat out the battle (e.g. Brama in Mission 1), show what they were doing instead — their story matters too.
 3. **No mechanics** — HP values, market cards, turn order, or any game rules belong in `CurrentMission.md`, never in chapter files.
 4. **Link to the archived mission brief** — at the end of the Debrief section, add a reference like `→ Mission brief: Missions/Mission XX - Name.md` so players can click through to see the mechanics for that battle.
 
@@ -74,8 +74,9 @@ Each chapter file in `Game/Chapters/` must follow this structure:
 
 **When reporting post-mission:**
 1. Append the battle narrative and outcome to the appropriate `Game/Chapters/Chapter XX.md` file
-2. Update `Game/Story.md` summary for the chapter
-2. Update `Game/CurrentMission.md` with the next mission's mechanics only
+2. **Always include a "Quiet Moments" section** — character development narrative for every mage who participated (or was notably absent). Show their personalities, quirks, private rituals, and emotional state. This is not optional.
+3. Update `Game/Story.md` summary for the chapter
+4. Update `Game/CurrentMission.md` with the next mission's mechanics only
 
 ## Rules Priority
 

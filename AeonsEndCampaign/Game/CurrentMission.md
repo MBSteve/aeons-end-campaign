@@ -3,11 +3,11 @@
 ## Mission 2: The City Divided
 
 - **Campaign**: The Whisper Below
-- **Chapter**: 1
+- **Chapter**: 2
 - **Session**: S02
 - **Status**: Awaiting player choice
 
-> **Story**: See `Story.md` → Chapter 01 or `Chapters/Chapter 01 - The Whisper Below.md` for the full narrative and context.
+> **Story**: See `Story.md` → Chapter 02 or `Chapters/Chapter 02 - The City Divided.md` for the full narrative and context.
 > **Previous mission**: `Missions/Mission 01 - What the Dark Attracts.md`
 
 ---

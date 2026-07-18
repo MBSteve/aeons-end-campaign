@@ -2,7 +2,7 @@ campaign:
   name: The Whisper Below
   version: 1.0
   status: active
-  chapter: 1
+  chapter: 2
   current_mission: mission_2_choice
   sessions_played: 1
 
