@@ -7,7 +7,7 @@
 - **Session**: S02
 - **Status**: Awaiting player choice
 
-> **Story**: See `CampaignJournal.md` → Mission 2: The City Divided for the full narrative and context.
+> **Story**: See `Game/CampaignJournal.md` → Mission 2: The City Divided for the full narrative and context.
 
 ---
 
@@ -57,7 +57,7 @@ The Council is divided on whether to save it. Elder Councillor Sera has made her
 | 5 | **Mist (AE)** | Base Game | Upper Ward | Deck cycling, consistent damage |
 | 6 | **Lash** | Base Game | Upper Ward | Risk/reward — damage scales with deck state |
 
-> **Brama is locked in.** Kadir is recovering in the Healer's Ward and unavailable. Mages from the Upper Ward can reach any district.
+> **Brama is locked in.** Kadir is recovering in the Healer's Ward and unavailable (see `Game/Heroes/Roster.md`). Mages from the Upper Ward can reach any district.
 
 ### Market
 Standard 9-card market from Base Game. Recommended: 4 gems, 2 relics, 3 spells with a good spread of costs. Include at least one spell that can clear multiple minions.
@@ -97,7 +97,7 @@ The Outer Settlements face the swarm alone. Supplies -20, Population -15. The se
 | 5 | **Mazahaedron** | War Eternal | Upper Ward | High-risk — charges breaches at cost of self-damage |
 | 6 | **Phaedraxa** | Base Game | Upper Ward | Ally-focused — empowers other mages |
 
-> **Brama is locked in.** Kadir is recovering in the Healer's Ward and unavailable. Mages from the Upper Ward can reach any district.
+> **Brama is locked in.** Kadir is recovering in the Healer's Ward and unavailable (see `Game/Heroes/Roster.md`). Mages from the Upper Ward can reach any district.
 
 ### Market
 Standard 9-card market from Base Game + War Eternal. Recommended: 4 gems, 2 relics, 3 spells with a good spread of costs.

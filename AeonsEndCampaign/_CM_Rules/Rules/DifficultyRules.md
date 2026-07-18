@@ -39,7 +39,7 @@ Difficulty should increase gradually. Do not increase difficulty only by adding 
 
 ## Current Difficulty State
 
-See `CampaignState.yaml` → `campaign_difficulty` for current values.
+See `../../_CM_Data/CampaignState.yaml` → `campaign_difficulty` for current values.
 
 ---
 

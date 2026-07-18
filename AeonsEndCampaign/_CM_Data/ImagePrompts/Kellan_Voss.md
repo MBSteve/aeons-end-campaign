@@ -9,7 +9,7 @@
 ## Asset Information
 
 - **Asset Name**: Kellan Voss
-- **Purpose**: NPC illustration for `World/NPCs.md`
+- **Purpose**: NPC illustration for `Game/World/NPCs.md`
 - **Intended Repository Path**: `Images/NPCs/Kellan_Voss.png`
 
 ---

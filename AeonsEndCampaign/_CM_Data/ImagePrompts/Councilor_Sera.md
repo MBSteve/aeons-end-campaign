@@ -9,7 +9,7 @@
 ## Asset Information
 
 - **Asset Name**: Elder Councillor Sera Portrait
-- **Purpose**: NPC portrait for `World/NPCs.md`
+- **Purpose**: NPC portrait for `Game/World/NPCs.md`
 - **Intended Repository Path**: `Images/NPCs/Councilor_Sera.png`
 
 ---

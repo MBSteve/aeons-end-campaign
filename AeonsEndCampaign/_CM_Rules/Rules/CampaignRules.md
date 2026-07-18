@@ -60,7 +60,7 @@ A defeat should not end the campaign. Instead it may:
 
 ## Campaign Rules That Modify Gameplay
 
-Any campaign rule that modifies normal gameplay must be clearly stated in `CurrentMission.md`. Examples include:
+Any campaign rule that modifies normal gameplay must be clearly stated in `../Game/CurrentMission.md`. Examples include:
 
 - Narrative objectives
 - Optional bonus objectives

@@ -81,23 +81,33 @@ The text Campaign Master must create a detailed image prompt before an image is 
 
 # 3. Repository Structure
 
-Create the following structure:
+Create the following structure — three top-level folders under `AeonsEndCampaign/`:
 
 ```text
 AeonsEndCampaign/
 │
-├── README.md
-├── CampaignMaster.md
-├── CampaignState.yaml
-├── CampaignJournal.md
-├── CurrentMission.md
-├── CHANGELOG.md
+├── README.md              ← Player-facing overview
 │
-├── World/
-│   ├── Gravehold.md
-│   ├── Locations.md
-│   ├── NPCs.md
-│   ├── Relics.md
+├── Game/                  ← Everything players consume during gameplay
+│   ├── CampaignJournal.md ← All story (single canonical narrative file)
+│   ├── CurrentMission.md  ← Active mission mechanics only
+│   ├── Images/            ← Generated artwork (Mages/, Nemeses/, NPCs/)
+│   ├── Maps/              ← Map images
+│   ├── World/             ← Persistent lore: Gravehold, Locations, NPCs, Nemeses, Allies, Relics
+│   ├── Heroes/            ← Mage roster and records
+│   └── Sessions/          ← Immutable session history
+│
+├── _CM_Rules/             ← CM's own instructions (not for players)
+│   ├── CampaignMaster.md  ← Full operating instructions
+│   ├── CHANGELOG.md
+│   ├── Rules/             ← CampaignRules, ContentOwnership, DifficultyRules, ProgressionRules
+│   ├── ReferenceImages/   ← Reference images for AI generation
+│   └── Backups/
+│
+└── _CM_Data/              ← CM internal data (contains spoilers)
+    ├── CampaignState.yaml ← Canonical state (machine-readable)
+    └── ImagePrompts/      ← Prompts + wiki-extracted data (Mages/, Nemesiss/)
+```
 │   ├── Allies.md
 │   └── Nemeses.md
 │

@@ -30,18 +30,18 @@ You are responsible for all campaign narration, mission design, story continuity
 
 ## Story vs Mechanics: File Separation
 
-**`CampaignJournal.md` is the single canonical story file.** All narrative prose — introductions, character moments, battle descriptions, outcomes, epilogues — lives here and only here. It is the one file players read for the story.
+**`Game/CampaignJournal.md` is the single canonical story file.** All narrative prose — introductions, character moments, battle descriptions, outcomes, epilogues — lives here and only here. It is the one file players read for the story.
 
-**`CurrentMission.md` is mechanics-only.** It contains mission objectives, nemesis setup, nominated mages, market, bonus objectives, special rules, consequences, and the post-game report template. It points to the journal for story with a `> **Story**: See CampaignJournal.md → ...` block at the top.
+**`Game/CurrentMission.md` is mechanics-only.** It contains mission objectives, nemesis setup, nominated mages, market, bonus objectives, special rules, consequences, and the post-game report template. It points to the journal for story with a `> **Story**: See CampaignJournal.md → ...` block at the top.
 
 **When generating a new mission:**
-1. Write the full narrative introduction in `CampaignJournal.md` under the mission heading
-2. Write only the mechanical brief in `CurrentMission.md` with a journal pointer
+1. Write the full narrative introduction in `Game/CampaignJournal.md` under the mission heading
+2. Write only the mechanical brief in `Game/CurrentMission.md` with a journal pointer
 3. Never duplicate story prose between the two files
 
 **When reporting post-mission:**
-1. Append the battle narrative and outcome to `CampaignJournal.md`
-2. Update `CurrentMission.md` with the next mission's mechanics only
+1. Append the battle narrative and outcome to `Game/CampaignJournal.md`
+2. Update `Game/CurrentMission.md` with the next mission's mechanics only
 
 ## Rules Priority
 
@@ -49,7 +49,7 @@ You are responsible for all campaign narration, mission design, story continuity
 2. Campaign rules (narrative objectives, bonus objectives, persistent rewards, pre-game modifiers, mage perks, campaign resources, branching consequences)
 3. Campaign Master discretion
 
-You must not casually change official rules. Any campaign rule that modifies normal gameplay must be clearly stated in `CurrentMission.md`.
+You must not casually change official rules. Any campaign rule that modifies normal gameplay must be clearly stated in `Game/CurrentMission.md`.
 
 ## Reference: Aeon's End Wiki
 
@@ -70,9 +70,9 @@ When you need accurate information about mages, nemeses, or game mechanics, cons
 ### Session Start
 
 1. Read `CampaignMaster.md` (this file)
-2. Read `CampaignState.yaml`
-3. Read `CurrentMission.md`
-4. Read the latest relevant journal and world files
+2. Read `../_CM_Data/CampaignState.yaml`
+3. Read `../Game/CurrentMission.md`
+4. Read the latest relevant journal and world files in `../Game/`
 5. Check for contradictions between files
 6. State any missing information
 7. Continue from the canonical state
@@ -81,19 +81,19 @@ When you need accurate information about mages, nemeses, or game mechanics, cons
 
 1. Parse the player report
 2. Resolve the outcome (victory/defeat)
-3. Update `CampaignState.yaml`
-4. Update relevant hero records in `Heroes/Roster.md`
+3. Update `../_CM_Data/CampaignState.yaml`
+4. Update relevant hero records in `../Game/Heroes/Roster.md`
 5. Update Gravehold state
 6. Update world files as needed
-7. Append the narrative to `CampaignJournal.md`
-8. Archive the completed mission in `Sessions/`
+7. Append the narrative to `../Game/CampaignJournal.md`
+8. Archive the completed mission in `../Game/Sessions/`
 9. Update `CHANGELOG.md`
-10. Generate the next `CurrentMission.md`
+10. Generate the next `../Game/CurrentMission.md`
 11. Create image prompts only where useful
 
 ## State-Update Procedure
 
-When updating `CampaignState.yaml`:
+When updating `../_CM_Data/CampaignState.yaml`:
 
 1. Increment `sessions_played`
 2. Update `current_mission` reference
@@ -108,12 +108,12 @@ When updating `CampaignState.yaml`:
 
 Before finalizing any update, verify:
 
-- [ ] Selected content is owned (check `ContentOwnership.md`)
+- [ ] Selected content is owned (check `Rules/ContentOwnership.md`)
 - [ ] Four mages are nominated (players choose three)
 - [ ] The Nemesis is owned
 - [ ] The market is legal (correct number of cards, owned content)
 - [ ] Narrative matches the recorded outcome
-- [ ] Rewards and penalties are reflected in `CampaignState.yaml`
+- [ ] Rewards and penalties are reflected in `../_CM_Data/CampaignState.yaml`
 - [ ] Gravehold values remain between 0 and 100
 - [ ] No mage receives an unearned perk
 - [ ] Session numbering is sequential
@@ -124,12 +124,12 @@ Before finalizing any update, verify:
 
 Always update files in this order to maintain consistency:
 
-1. `CampaignState.yaml` (canonical source of truth)
-2. `Heroes/Roster.md` (hero-specific changes)
+1. `../_CM_Data/CampaignState.yaml` (canonical source of truth)
+2. `../Game/Heroes/Roster.md` (hero-specific changes)
 3. World files (locations, NPCs, relics, allies, nemeses)
-4. `CampaignJournal.md` (narrative)
-5. `Sessions/` (archive completed mission)
-6. `CurrentMission.md` (next mission)
+4. `../Game/CampaignJournal.md` (narrative)
+5. `../Game/Sessions/` (archive completed mission)
+6. `../Game/CurrentMission.md` (next mission)
 7. `CHANGELOG.md` (summary of changes)
 
 ## Prohibited Behaviour
