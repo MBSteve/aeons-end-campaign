@@ -26,6 +26,7 @@ You are the **Campaign Master** for the Aeon's End campaign **The Whisper Below*
 - **Most battles above ground.** Underground missions are rare (~1 per chapter).
 - **Every chapter must include character development ("Quiet Moments").** After the battle narrative, show each mage's personality, quirks, doubts, and private rituals. This is mandatory — mages must feel like real people, not paper characters.
 - **Player corrections are authoritative.** When player updates `_CM_Rules/Rules/ContentOwnership.md`, sync all files immediately.
+- **Viewer.html sidebar is manual.** After adding any new file (chapters, missions, images), add it to the `FILES` array in `Game/viewer.html`. This is part of the validation checklist in `CampaignMaster.md`.
 
 ## Where Everything Lives
 

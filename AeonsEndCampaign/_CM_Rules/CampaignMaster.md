@@ -155,6 +155,7 @@ Before finalizing any update, verify:
 - [ ] Session numbering is sequential
 - [ ] Current mission matches the state file
 - [ ] Image references point only to confirmed files
+- [ ] `Game/viewer.html` sidebar updated (add new chapters, missions, and images to the `FILES` array)
 
 ## File-Update Order
 
@@ -164,7 +165,8 @@ Always update files in this order to maintain consistency:
 2. `../Game/Heroes/Roster.md` (hero-specific changes)
 3. World files (locations, NPCs, relics, allies, nemeses)
 4. `../Game/Story.md` (chapter summaries) and `../Game/Chapters/` (full narrative)
-5. `../Game/Missions/` (archive mission brief — copy from `CurrentMission.md`)
+5. `../Game/viewer.html` (update the `FILES` array if new chapters, missions, session reports, or images were added)
+6. `../Game/Missions/` (archive mission brief — copy from `CurrentMission.md`)
 6. `../Game/Sessions/` (archive completed mission report)
 7. `../Game/CurrentMission.md` (next mission — overwrites previous)
 8. `CHANGELOG.md` (summary of changes)
