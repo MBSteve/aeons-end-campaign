@@ -19,7 +19,7 @@ A persistent, story-driven Aeon's End campaign for three experienced players, ma
 
 ## How to Play a Session
 
-1. Read `Game/CampaignJournal.md` for the story so far and current mission narrative.
+1. Read `Game/Story.md` for a summary of the story so far (or open the full chapters in `Game/Chapters/`).
 2. Read `Game/CurrentMission.md` for the mechanical brief (Nemesis, mage pool, market, objectives).
 3. Choose 3 mages from the nominated pool and set up the game.
 4. Play the mission.
@@ -33,7 +33,8 @@ After each game, provide: mission name, nemesis fought, mages used, victory/defe
 
 | File | Purpose |
 |------|---------|
-| `Game/CampaignJournal.md` | All story and narrative |
+| `Game/Story.md` | Chapter summaries (read this first) |
+| `Game/Chapters/` | Full narrative by chapter |
 | `Game/CurrentMission.md` | Active mission mechanics |
 | `_CM_Data/CampaignState.yaml` | Canonical campaign state |
 | `_CM_Rules/Rules/ContentOwnership.md` | Verified owned content |
@@ -44,4 +45,4 @@ After each game, provide: mission name, nemesis fought, mages used, victory/defe
 
 ## For the Campaign Master
 
-Operational instructions are in `_CM_Rules/CampaignMaster.md`. The quick-start reading order is: `_CM_Rules/CampaignMaster.md` → `_CM_Data/CampaignState.yaml` → `Game/CurrentMission.md` → `Game/CampaignJournal.md` → latest session. No campaign-critical fact exists only in chat history.
+Operational instructions are in `_CM_Rules/CampaignMaster.md`. The quick-start reading order is: `_CM_Rules/CampaignMaster.md` → `_CM_Data/CampaignState.yaml` → `Game/CurrentMission.md` → `Game/Story.md` → latest session. No campaign-critical fact exists only in chat history.

@@ -4,6 +4,25 @@ All notable changes to the Aeon's End campaign repository.
 
 ---
 
+## [CampaignJournal → Story.md + Chapters/] — 2026-07-13
+
+### Changed
+- **`CampaignJournal.md`** split into **`Story.md`** (chapter summaries) + **`Chapters/`** (full narrative)
+- Prologue content moved to `Chapters/Prologue.md` (4 sections)
+- Chapter 1 content moved to `Chapters/Chapter 01 - The Whisper Below.md` (summary + 4 sections)
+- `Story.md` created with 1-paragraph summaries per chapter
+- `CampaignJournal.md` deleted
+
+### Updated References
+- `.github/copilot-instructions.md` — points to Story.md + Chapters/
+- `_CM_Rules/CampaignMaster.md` — all references updated
+- `Game/CurrentMission.md` — story link updated
+- `Game/viewer.html` — sidebar now lists Story.md + chapter files
+- `README.md` — quick-start and file table updated
+- `AeonsEndCampaignBootstrap.md` — structure diagram and references updated
+
+---
+
 ## [Initialization] — 2026-07-10
 
 ### Created

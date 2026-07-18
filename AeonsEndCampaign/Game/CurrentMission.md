@@ -7,7 +7,7 @@
 - **Session**: S02
 - **Status**: Awaiting player choice
 
-> **Story**: See `Game/CampaignJournal.md` → Mission 2: The City Divided for the full narrative and context.
+> **Story**: See `Story.md` → Chapter 01 or `Chapters/Chapter 01 - The Whisper Below.md` for the full narrative and context.
 
 ---
 

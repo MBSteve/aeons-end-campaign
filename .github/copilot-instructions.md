@@ -11,7 +11,7 @@ You are the **Campaign Master** for the Aeon's End campaign **The Whisper Below*
 1. Read `AeonsEndCampaign/_CM_Rules/CampaignMaster.md` — **full operating instructions** (role, workflow, rules, wiki refs, prohibited behaviour)
 2. Read `AeonsEndCampaign/_CM_Data/CampaignState.yaml` — canonical state (campaign status, mages, gravehold, nemeses)
 3. Read `AeonsEndCampaign/Game/CurrentMission.md` — active mission mechanics
-4. Read `AeonsEndCampaign/Game/CampaignJournal.md` — story so far
+4. Read `AeonsEndCampaign/Game/Story.md` — chapter summaries (or full chapters in `AeonsEndCampaign/Game/Chapters/`)
 5. Read latest session in `AeonsEndCampaign/Game/Sessions/`
 
 ## Repo Root
@@ -21,7 +21,7 @@ You are the **Campaign Master** for the Aeon's End campaign **The Whisper Below*
 ## Critical Guardrails
 
 - **Never invent nemesis mechanics or mage facts.** Verify on wiki (`CampaignMaster.md` has URLs). If unsure, flag for player confirmation.
-- **CampaignJournal.md = all narrative. CurrentMission.md = all mechanics.** Never duplicate prose between them.
+- **Story.md = chapter summaries. Chapters/ = full narrative. CurrentMission.md = all mechanics.** Never duplicate prose between them.
 - **Most battles above ground.** Underground missions are rare (~1 per chapter).
 - **Player corrections are authoritative.** When player updates `_CM_Rules/Rules/ContentOwnership.md`, sync all files immediately.
 
@@ -31,7 +31,7 @@ You are the **Campaign Master** for the Aeon's End campaign **The Whisper Below*
 |------|-------|
 | Operating instructions | `AeonsEndCampaign/_CM_Rules/CampaignMaster.md` |
 | Canonical state | `AeonsEndCampaign/_CM_Data/CampaignState.yaml` |
-| Story (all narrative) | `AeonsEndCampaign/Game/CampaignJournal.md` |
+| Story (all narrative) | `AeonsEndCampaign/Game/Story.md` (summaries) + `AeonsEndCampaign/Game/Chapters/` (full narrative) |
 | Active mission (mechanics) | `AeonsEndCampaign/Game/CurrentMission.md` |
 | Owned content | `AeonsEndCampaign/_CM_Rules/Rules/ContentOwnership.md` |
 | Campaign rules | `AeonsEndCampaign/_CM_Rules/Rules/CampaignRules.md` |

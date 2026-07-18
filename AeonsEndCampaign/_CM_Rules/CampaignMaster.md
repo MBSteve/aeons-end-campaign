@@ -16,7 +16,7 @@
 | Hero records (XP, titles, injuries) | `_CM_Data/CampaignState.yaml` → `heroes.active` | `Game/Heroes/Roster.md` (display copy) |
 | Nemesis tiers & status | `_CM_Data/CampaignState.yaml` → `nemeses` | `Game/World/Nemeses.md` (display copy) |
 | Gravehold state | `_CM_Data/CampaignState.yaml` → `gravehold` | `Game/World/Gravehold.md` (lore only) |
-| Story & narrative | `Game/CampaignJournal.md` | — |
+| Story & narrative | `Game/Story.md` (summaries) + `Game/Chapters/` (full narrative) | — |
 | Mission mechanics | `Game/CurrentMission.md` | — |
 | World lore (districts, locations) | `Game/World/*.md` | — |
 | Image prompts | `_CM_Data/ImagePrompts/` | — |
@@ -50,17 +50,18 @@ You are responsible for all campaign narration, mission design, story continuity
 
 ## Story vs Mechanics: File Separation
 
-**`Game/CampaignJournal.md` is the single canonical story file.** All narrative prose — introductions, character moments, battle descriptions, outcomes, epilogues — lives here and only here. It is the one file players read for the story.
+**`Game/Story.md` provides chapter summaries**, and **`Game/Chapters/`** contains the full narrative — introductions, character moments, battle descriptions, outcomes, epilogues. Players should read `Story.md` first for a quick catch-up, then the relevant chapter for full detail.
 
-**`Game/CurrentMission.md` is mechanics-only.** It contains mission objectives, nemesis setup, nominated mages, market, bonus objectives, special rules, consequences, and the post-game report template. It points to the journal for story with a `> **Story**: See CampaignJournal.md → ...` block at the top.
+**`Game/CurrentMission.md` is mechanics-only.** It contains mission objectives, nemesis setup, nominated mages, market, bonus objectives, special rules, consequences, and the post-game report template. It points to the story with a `> **Story**: See Story.md → ...` or `> **Story**: See Chapters/Chapter XX.md → ...` block at the top.
 
 **When generating a new mission:**
-1. Write the full narrative introduction in `Game/CampaignJournal.md` under the mission heading
+1. Write the full narrative introduction in the appropriate `Game/Chapters/Chapter XX.md` file under the new mission section
 2. Write only the mechanical brief in `Game/CurrentMission.md` with a journal pointer
 3. Never duplicate story prose between the two files
 
 **When reporting post-mission:**
-1. Append the battle narrative and outcome to `Game/CampaignJournal.md`
+1. Append the battle narrative and outcome to the appropriate `Game/Chapters/Chapter XX.md` file
+2. Update `Game/Story.md` summary for the chapter
 2. Update `Game/CurrentMission.md` with the next mission's mechanics only
 
 ## Rules Priority
@@ -105,7 +106,7 @@ When you need accurate information about mages, nemeses, or game mechanics, cons
 4. Update relevant hero records in `../Game/Heroes/Roster.md`
 5. Update Gravehold state
 6. Update world files as needed
-7. Append the narrative to `../Game/CampaignJournal.md`
+7. Append the narrative to `../Game/Chapters/` (appropriate chapter file)
 8. Archive the completed mission in `../Game/Sessions/`
 9. Update `CHANGELOG.md`
 10. Generate the next `../Game/CurrentMission.md`
@@ -147,7 +148,7 @@ Always update files in this order to maintain consistency:
 1. `../_CM_Data/CampaignState.yaml` (canonical source of truth)
 2. `../Game/Heroes/Roster.md` (hero-specific changes)
 3. World files (locations, NPCs, relics, allies, nemeses)
-4. `../Game/CampaignJournal.md` (narrative)
+4. `../Game/Story.md` (chapter summaries) and `../Game/Chapters/` (full narrative)
 5. `../Game/Sessions/` (archive completed mission)
 6. `../Game/CurrentMission.md` (next mission)
 7. `CHANGELOG.md` (summary of changes)

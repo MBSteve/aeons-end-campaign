@@ -89,7 +89,9 @@ AeonsEndCampaign/
 ├── README.md              ← Player-facing overview
 │
 ├── Game/                  ← Everything players consume during gameplay
-│   ├── CampaignJournal.md ← All story (single canonical narrative file)
+│   ├── Story.md          ← Chapter summaries (read this first)
+│   ├── Chapters/         ← Full narrative by chapter (Prologue, Ch01, etc.)
+│   ├── viewer.html       ← Browser viewer for Game/ files
 │   ├── CurrentMission.md  ← Active mission mechanics only
 │   ├── Images/            ← Generated artwork (Mages/, Nemeses/, NPCs/)
 │   ├── Maps/              ← Map images
@@ -187,7 +189,7 @@ It contains:
 - Defeat consequences
 - Information the players should report after the game
 
-## 3. CampaignJournal.md
+## 3. Story.md + Chapters/
 
 This is the human-readable narrative record.
 
@@ -677,7 +679,7 @@ Create the initial state using the schema in this bootstrap file.
 
 It must be concise, valid YAML, and free of narrative prose.
 
-## CampaignJournal.md
+## Story.md
 
 Create the opening chapter and initial story setup.
 
@@ -854,7 +856,7 @@ After a mission, the Campaign Master must:
 4. Update relevant hero records
 5. Update Gravehold
 6. Update world files
-7. Append the narrative to CampaignJournal.md
+7. Append the narrative to `Game/Chapters/` (appropriate chapter file)
 8. Archive the mission in Sessions
 9. Update CHANGELOG.md
 10. Generate the next CurrentMission.md
@@ -911,7 +913,7 @@ When given this bootstrap file, perform the following:
 2. Create every file listed in the repository structure.
 3. Populate each file using the instructions above.
 4. Initialize CampaignState.yaml.
-5. Write the opening of The Whisper Below in CampaignJournal.md.
+5. Write the opening of The Whisper Below in `Game/Chapters/Prologue.md`.
 6. Create a placeholder CurrentMission.md.
 7. Do not generate the first playable mission yet.
 8. Create an initialization entry in CHANGELOG.md.
@@ -951,7 +953,7 @@ A future Campaign Master should be able to continue by reading:
 1. CampaignMaster.md
 2. CampaignState.yaml
 3. CurrentMission.md
-4. CampaignJournal.md
+4. Story.md (chapter summaries)
 5. The most recent session file
 6. Any relevant world or hero files
 
