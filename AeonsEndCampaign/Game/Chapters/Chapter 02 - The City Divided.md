@@ -1,6 +1,6 @@
 # Chapter 02: The City Divided
 
-> **Chapter Summary**: The Council chose to defend the Outer Settlements from the Carapace Queen's swarm. Brama, Jian, and Lash delivered a comprehensive victory — Brama struck the killing blow with two Scrying Bolts, and the mages never reached the Queen's tier 3 cards. But while they fought, the unchosen threat escalated: the Deepvein signal intensified, Kellan Voss's condition worsened, and the drake in the Warrens remains unsaved. In the quiet hours after, each mage wrestles with what they discovered about themselves — Brama with the weight of killing, Jian with a new hunger for battle, Lash with a fire that never got to burn, and Kadir with the growing awareness that something below is watching.
+> **Chapter Summary**: The Council chose to defend the Outer Settlements from the Carapace Queen's swarm. Brama, Jian, and Lash delivered a comprehensive victory — Brama struck the killing blow with twin bolts of searing light, and the mages cut the Queen down before her deepest horrors could be unleashed. But while they fought, the unchosen threat escalated: the Deepvein signal intensified, Kellan Voss's condition worsened, and the drake in the Warrens remains unsaved. In the quiet hours after, each mage wrestles with what they discovered about themselves — Brama with the weight of killing, Jian with a new hunger for battle, Lash with a fire that never got to burn, and Kadir with the growing awareness that something below is watching.
 >
 > **Session**: S02 (completed 2026-07-19)
 >
@@ -58,21 +58,21 @@ The Outer Settlements were a patchwork of fields, low stone walls, and scattered
 
 The Queen herself emerged from the ash like a nightmare given form — a vast, segmented body bristling with spines, her brood-sacs pulsing with unborn horrors. She was not here to conquer. She was here to *feed*. The Outer Settlements were a nursery to her, a place to plant her eggs and let her children devour everything that lived.
 
-Brama took the lead, her golden light cutting through the ash-fall. She had spent the night in the fever wards, her hands still raw from healing, but there was steel beneath the weariness. She called the targets, directed the flow of battle, and when the moment came — when the turn order deck spat out a wild card and she was first in line — she did not hesitate. Two Scrying Bolts, charged and waiting. She loosed them both. The Queen's carapace shattered. Ten damage in a single breath. The swarm's heart stopped.
+Brama took the lead, her golden light cutting through the ash-fall. She had spent the night in the fever wards, her hands still raw from healing, but there was steel beneath the weariness. She called the targets, directed the flow of battle, and when the moment came — when the rhythm of combat shifted and fortune placed the killing stroke in her hands — she did not hesitate. Two bolts of searing light, charged and waiting in her breaches. She loosed them both. The Queen's carapace shattered like glass. The swarm's heart stopped.
 
-Jian fought with the precision of a man who had been waiting his whole life for someone to point him at a target. His ultimate ability — the double-cast — turned a single Scrying Bolt into a storm. Twenty-two damage in one turn, Fulminate's energy arcing from his breaches like chain lightning. He was not flashy. He was not loud. He simply *ended* things.
+Jian fought with the precision of a man who had been waiting his whole life for someone to point him at a target. He reached deep into his reserves and split a single bolt of searing light into twin spears of devastation — a technique few mages ever mastered. Fulminate's energy arced from his breaches like chain lightning, each bolt striking with doubled fury. He was not flashy. He was not loud. He simply *ended* things.
 
-Lash moved through the battle like a blade in the dark. When the Broodwomb emerged — a pulsing, organic factory that would have flooded the field with Husks — Lash was already there. She destroyed it before it could spawn a single creature. Her Thermal Dart build never fully came online; the Queen died too quickly for that. But she did not need it. She needed to be exactly where she was, exactly when she was there, and she was.
+Lash moved through the battle like a blade in the dark. When the Broodwomb emerged — a pulsing, organic factory that would have flooded the field with Husks — Lash was already there. She destroyed it before it could spawn a single creature. She had planned to weave a cascade of Thermal Darts, each one feeding the next, building into an inferno — but the Queen fell before the chain could ignite. She did not need it. She needed to be exactly where she was, exactly when she was there, and she was.
 
-The battle was comprehensive. The mages never saw the Queen's deepest reserves — her tier 3 cards remained face-down, her worst horrors never summoned. A Venomite entered the field and was simply ignored, rendered irrelevant by the speed of the kill. When Brama's bolts struck home, the Queen's body collapsed into the ash, her brood-sacs shrivelling, her swarm scattering into the grey.
+The battle was comprehensive. The mages never saw the Queen's deepest horrors — the brood-sacs she kept in reserve, the nightmares she had not yet birthed, the final wave of spawn that would have turned the tide. A Venomite scuttled from the ash — a bloated, venom-dripping horror — but the mages paid it no mind. The Queen was already dying, and the creature's purpose died with her. When Brama's bolts struck home, the Queen's body collapsed into the ash, her brood-sacs shrivelling, her swarm scattering into the grey.
 
-Gravehold remained at 17 life. No mage fell. The Outer Settlements were saved.
+The city's wards held strong — barely scratched by the skirmish. No mage fell. The Outer Settlements were saved.
 
 ---
 
 ## 6. Debrief / Aftermath
 
-The Council convened that evening in a mood that bordered on disbelief. Two missions, two victories — and this one had been a rout. Elder Councillor Sera read the report aloud: Carapace Queen defeated, Outer Settlements intact, no casualties, no exhausted mages. The chamber erupted in something that was almost laughter — the nervous, relieved laughter of people who had expected to be mourning by nightfall.
+The Council convened that evening in a mood that bordered on disbelief. Two missions, two victories — and this one had been a rout. Elder Councillor Sera read the report aloud: Carapace Queen defeated, Outer Settlements intact, no casualties, no mage had pushed beyond their limits. The chamber erupted in something that was almost laughter — the nervous, relieved laughter of people who had expected to be mourning by nightfall.
 
 But the celebration was tempered. While the mages fought in the ash-fields, the other threat had not been idle.
 
@@ -94,7 +94,7 @@ The healers' tent in the Outer Settlements was still standing. Brama had not pla
 
 There were no serious injuries. A few settlers had been caught by falling debris during the evacuation; a child had twisted an ankle. Brama treated them all. She did not use magic — her reserves were spent, her breaches cold — but she had been a healer long before she had been a mage, and her hands remembered the work. She set the ankle. She cleaned the cuts. She told the child a story about a golden bird that flew through the dark to bring light to a sleeping city.
 
-When the last patient had been seen, she sat on a crate outside the tent and looked at her hands. They were shaking. Not from exhaustion — from the memory of the Scrying Bolts leaving her breaches, the Queen's carapace cracking, the sound it made. She had killed something today. Not healed. *Killed*.
+When the last patient had been seen, she sat on a crate outside the tent and looked at her hands. They were shaking. Not from exhaustion — from the memory of the searing light leaving her breaches, the Queen's carapace cracking, the sound it made. She had killed something today. Not healed. *Killed*.
 
 She had spent the first mission in the fever wards, tending the sick while Kadir, Adelheim, and Xaxos fought Rageborne. She had told herself that her work mattered just as much — and it did, it *did* — but there had been a part of her that wondered if she was hiding. If she had chosen the wards because she was afraid of the gate.
 
@@ -106,7 +106,7 @@ She stayed in the tent until dawn, sleeping in a chair beside the child with the
 
 Jian did not go to the healers' tent. He did not go to the celebration that the settlers were trying to organise in the village square. He walked to the edge of the ash-fields, where the grey haze met the dark soil of the farmlands, and he sat down with his back against a boundary stone.
 
-He was not tired. He was not injured. He was *full* — full of an energy he did not know how to name. Twenty-two damage in a single turn. He had never done that before. He had never even imagined doing that before. The double-cast, the Fulminate arcing, the Scrying Bolt tearing through the Queen's hide — it had felt like something unlocking inside him, a door he had not known was there.
+He was not tired. He was not injured. He was *full* — full of an energy he did not know how to name. The power he had unleashed — twin bolts of devastation, Fulminate arcing between them, searing light tearing through the Queen's hide — he had never done that before. He had never even imagined doing that before. It had felt like something unlocking inside him, a door he had not known was there.
 
 And now he did not know what to do with it.
 
@@ -122,7 +122,7 @@ Lash found the Broodwomb's remains at the edge of the battlefield — a collapse
 
 She had killed it before it could spawn. That was the job. That was what she did. But standing there in the grey twilight, she felt something she had not expected: disappointment.
 
-The Thermal Dart build had been her plan. She had spent the journey to the Outer Settlements thinking about it — the way the darts would chain, the way the heat would build, the way she would become a furnace. But the Queen had died too quickly. The darts never linked. The furnace never lit.
+The cascade of Thermal Darts had been her plan. She had spent the journey to the Outer Settlements thinking about it — the way the darts would chain, the way the heat would build, the way she would become a furnace. But the Queen had died too quickly. The darts never linked. The furnace never lit.
 
 She had won. She had done her job. And she felt like she had missed something.
 

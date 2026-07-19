@@ -65,7 +65,14 @@ Each chapter file in `Game/Chapters/` must follow this structure:
    - **Debrief / Aftermath** — what happens right after the battle, Council response, immediate consequences
    - **Post-Mission / Quiet Moments** — **character development is mandatory here.** This is where the mages become people. Show their quirks, personalities, doubts, and private rituals. Use longer narrative — a few paragraphs per active mage. Reveal who they are when no one is watching: what they do in the hours after a battle, what haunts them, what keeps them going. This section is the emotional payoff of the chapter and must never be skipped or reduced to a summary. If a mage sat out the battle (e.g. Brama in Mission 1), show what they were doing instead — their story matters too.
 3. **No mechanics** — HP values, market cards, turn order, or any game rules belong in `CurrentMission.md`, never in chapter files.
-4. **Link to the archived mission brief** — at the end of the Debrief section, add a reference like `→ Mission brief: Missions/Mission XX - Name.md` so players can click through to see the mechanics for that battle.
+4. **No gameplay jargon in narrative** — The chapter narrative must read like dark fantasy fiction, not a session recap. Specifically prohibited in chapter/story prose:
+   - Damage numbers ("10 damage", "22 damage in one turn")
+   - Life totals ("Gravehold remained at 17 life")
+   - Card/mechanic terminology ("wild card", "turn order deck", "tier 3 cards", "build", "ultimate ability")
+   - Game-state language ("entered the field", "remained face-down", "exhausted mages")
+   - **Instead, weave these into narrative**: "the rhythm of combat shifted", "the city's wards held strong", "the Queen's deepest horrors never surfaced", "no mage had pushed beyond their limits"
+   - **Spell names are allowed** (Scrying Bolt, Fulminate, Thermal Dart) — they are in-world magic, not gameplay jargon. But describe their effects narratively, not numerically.
+5. **Link to the archived mission brief** — at the end of the Debrief section, add a reference like `→ Mission brief: Missions/Mission XX - Name.md` so players can click through to see the mechanics for that battle.
 
 **When generating a new mission:**
 1. Write the full narrative introduction in the appropriate `Game/Chapters/Chapter XX.md` file under the new mission section
@@ -75,8 +82,9 @@ Each chapter file in `Game/Chapters/` must follow this structure:
 **When reporting post-mission:**
 1. Append the battle narrative and outcome to the appropriate `Game/Chapters/Chapter XX.md` file
 2. **Always include a "Quiet Moments" section** — character development narrative for every mage who participated (or was notably absent). Show their personalities, quirks, private rituals, and emotional state. This is not optional.
-3. Update `Game/Story.md` summary for the chapter
-4. Update `Game/CurrentMission.md` with the next mission's mechanics only
+3. **Translate gameplay into narrative.** The session report will contain damage numbers, life totals, card names, and mechanical events. The chapter narrative must translate ALL of these into in-world prose. See "No gameplay jargon in narrative" rule above for the full list of prohibited terms and their narrative equivalents.
+4. Update `Game/Story.md` summary for the chapter (same narrative-prose rule applies — no gameplay jargon in the summary either)
+5. Update `Game/CurrentMission.md` with the next mission's mechanics only
 
 ## Rules Priority
 
@@ -160,6 +168,7 @@ Before finalizing any update, verify:
 - [ ] `Game/viewer.html` sidebar updated (add new chapters, missions, and images to the `FILES` array)
 - [ ] Defeated nemeses are removed from `nemeses.available` in CampaignState.yaml (they must not appear in both `available` and `defeated`)
 - [ ] Active mages are removed from `heroes.available` in CampaignState.yaml (they must not appear in both `available` and `active`)
+- [ ] Chapter narrative and Story.md summary contain no gameplay jargon (damage numbers, life totals, card terminology, game-state language, "build" language — see Chapter File Structure rule #4)
 
 ## File-Update Order
 
