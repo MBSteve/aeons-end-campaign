@@ -232,6 +232,7 @@ const FILES = [
   { name: "Retired Heroes",path: "Heroes/RetiredHeroes.md",file: true },
   { section: "Sessions" },
   { name: "S01 — What the Dark Attracts", path: "Sessions/S01 - What the Dark Attracts.md", file: true },
+  { name: "S02 — The City Divided",       path: "Sessions/S02 - The City Divided.md",       file: true },
   { name: "Session Template",             path: "Sessions/SessionTemplate.md",               file: true },
   { section: "Images" },
   { name: "Adelheim",  path: "Images/Mages/Adelheim.png",  file: true },
@@ -248,6 +249,7 @@ const FILES = [
 let currentPath = null;
 let isEditing = false;
 let originalContent = "";
+let autoSaveInterval = null;
 const BASE = ""; // files are relative to this HTML file's location
 
 /* ─── Init sidebar ─── */
@@ -393,11 +395,13 @@ function enterEdit() {
   document.getElementById('btn-edit').style.display = 'none';
   document.getElementById('btn-save').style.display = 'inline-block';
   document.getElementById('btn-cancel').style.display = 'inline-block';
-  document.getElementById('edit-status').textContent = '✎ Editing — changes are saved directly to file';
+  document.getElementById('edit-status').textContent = '✎ Auto-save every 5s';
+  startAutoSave();
 }
 
 function exitEdit() {
   isEditing = false;
+  stopAutoSave();
   document.getElementById('editor').style.display = 'none';
   document.getElementById('btn-edit').style.display = 'none';
   document.getElementById('btn-save').style.display = 'none';
@@ -446,6 +450,37 @@ async function saveFile() {
     exitEdit();
     document.getElementById('btn-edit').style.display = 'inline-block';
     showToast('📥 Downloaded — replace the file manually');
+  }
+}
+
+/* ─── Auto-save every 5s ─── */
+function startAutoSave() {
+  stopAutoSave();
+  autoSaveInterval = setInterval(async () => {
+    if (!isEditing || !currentPath) return;
+    const content = document.getElementById('editor-textarea').value;
+    if (content === originalContent) return; // not dirty
+    const status = document.getElementById('edit-status');
+    status.textContent = '⏳ Auto-saving...';
+    try {
+      const resp = await fetch(BASE + currentPath, { method: 'PUT', body: content });
+      if (!resp.ok && resp.status !== 200) {
+        const resp2 = await fetch(BASE + currentPath + '?overwrite', { method: 'POST', body: content });
+        if (!resp2.ok && resp2.status !== 200) throw new Error('PUT and POST both failed');
+      }
+      originalContent = content;
+      status.textContent = '✎ Auto-saved ✓';
+      setTimeout(() => { if (isEditing) status.textContent = '✎ Auto-save every 5s'; }, 2000);
+    } catch (e) {
+      status.textContent = '✎ Auto-save failed — will retry';
+    }
+  }, 5000);
+}
+
+function stopAutoSave() {
+  if (autoSaveInterval) {
+    clearInterval(autoSaveInterval);
+    autoSaveInterval = null;
   }
 }
 
