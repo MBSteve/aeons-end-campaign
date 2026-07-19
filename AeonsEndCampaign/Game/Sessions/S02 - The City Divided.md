@@ -79,11 +79,11 @@ Jian ended with 6 life, Lash had 6 and Brama had 8.
 
 *To be filled by the Campaign Master after receiving the report:*
 
-- **XP Awarded**: [Breakdown per mage]
-- **Council Favour Change**: [+/- X]
-- **Council Favour Balance**: [Total after changes]
-- **Gravehold Changes**: [List — including escalation effects for the unchosen option]
-- **New Story Flags**: [List]
-- **Threat Level**: [If Option B unchosen, Threat Level +1; if chosen, note result]
-- **Outer Settlements Status**: [If Option A unchosen, mark as lost; if chosen, note result]
-- **Next Mission**: [Brief note]
+- **XP Awarded**: Brama 3 (mission + victory + killing blow), Jian 2 (mission + victory), Lash 2 (mission + victory)
+- **Council Favour Change**: +1 (mission victory) → balance now 2
+- **Council Favour Balance**: 2
+- **Gravehold Changes**: Threat Level +1 (Option B escalation, now 2); Outer Settlements saved; Kellan Voss condition worsened; Deepvein signal intensified
+- **New Story Flags**: `outer_settlements_saved`, `deepvein_signal_intensified`, `kellan_voss_worsened`, `drake_ember_side_mission_pending`
+- **Threat Level**: 2 (increased from 1 due to Option B escalation)
+- **Outer Settlements Status**: Saved — Carapace Queen defeated before reaching tier 3
+- **Next Mission**: Mission 3 to be generated. Kadir recovered. Drake side mission still pending. Deepvein signal growing stronger.

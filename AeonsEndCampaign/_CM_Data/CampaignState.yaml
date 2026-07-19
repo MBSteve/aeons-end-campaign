@@ -3,8 +3,8 @@ campaign:
   version: 1.0
   status: active
   chapter: 2
-  current_mission: mission_2_choice
-  sessions_played: 1
+  current_mission: awaiting_mission_3
+  sessions_played: 2
 
 party:
   player_count: 3
@@ -26,8 +26,8 @@ gravehold:
   defences: 70
   supplies: 65
   population: 80
-  council_favour: 1
-  threat_level: 1
+  council_favour: 2
+  threat_level: 2
   damaged_districts: []
   lost_districts: []
   active_protections: []
@@ -35,32 +35,12 @@ gravehold:
 
 campaign_difficulty:
   base_level: experienced
-  consecutive_victories: 1
+  consecutive_victories: 2
   consecutive_defeats: 0
   adjustment: 0
 
 heroes:
   available:
-    - name: Adelheim
-      source: base_game
-      verified: true
-      district: east_gate
-    - name: Brama
-      source: base_game
-      verified: true
-      district: lower_markets
-    - name: Jian
-      source: base_game
-      verified: true
-      district: upper_ward
-    - name: Kadir
-      source: base_game
-      verified: true
-      district: healers_ward
-    - name: Lash
-      source: base_game
-      verified: true
-      district: upper_ward
     - name: Mist (AE)
       source: base_game
       verified: true
@@ -69,10 +49,6 @@ heroes:
       source: base_game
       verified: true
       district: upper_ward
-    - name: Xaxos (AE)
-      source: base_game
-      verified: true
-      district: east_gate
     - name: Dezmodia
       source: war_eternal
       verified: true
@@ -161,9 +137,9 @@ heroes:
         - The Unbroken
       injuries: []
       times_exhausted: 1
-      status: recovering
-      district: healers_ward
-      recovery_missions_left: 1
+      status: active
+      district: upper_ward
+      recovery_missions_left: 0
     Xaxos (AE):
       source: base_game
       missions_played: 1
@@ -176,6 +152,42 @@ heroes:
       times_exhausted: 0
       status: active
       district: east_gate
+    Brama:
+      source: base_game
+      missions_played: 1
+      victories: 1
+      defeats: 0
+      xp: 3
+      perks: []
+      titles: []
+      injuries: []
+      times_exhausted: 0
+      status: active
+      district: outer_settlements
+    Jian:
+      source: base_game
+      missions_played: 1
+      victories: 1
+      defeats: 0
+      xp: 2
+      perks: []
+      titles: []
+      injuries: []
+      times_exhausted: 0
+      status: active
+      district: outer_settlements
+    Lash:
+      source: base_game
+      missions_played: 1
+      victories: 1
+      defeats: 0
+      xp: 2
+      perks: []
+      titles: []
+      injuries: []
+      times_exhausted: 0
+      status: active
+      district: outer_settlements
   retired: {}
 
 relics: {}
@@ -262,6 +274,10 @@ nemeses:
       source: base_game
       mission: mission_1_what_the_dark_attracts
       killed_by: Kadir
+    - name: Carapace Queen
+      source: base_game
+      mission: mission_2_the_city_divided
+      killed_by: Brama
   escaped: []
   persistent_effects: []
 
@@ -280,15 +296,28 @@ missions:
       killing_blow:
         mage: Kadir
         note: dealt while exhausted
-  failed: []
-  active:
-    - id: mission_2_choice
+    - id: mission_2_the_city_divided
       title: "The City Divided"
-      chapter: 1
+      chapter: 2
       session: S02
-      status: player_choice_required
-      side_mission_available: the_ember_in_the_dark
-      side_mission_cost: 1_council_favour
+      nemesis: Carapace Queen
+      outcome: victory
+      mages: [Brama, Jian, Lash]
+      gravehold_remaining: 17
+      exhausted: []
+      bonus_objective: not_attempted
+      killing_blow:
+        mage: Brama
+        note: two Scrying Bolts for 10 damage total
+      side_mission: not_taken
+      escalation:
+        unchosen_option: option_b_the_whispers_echo
+        effects:
+          - threat_level_increased_by_1
+          - kellan_voss_condition_worsened
+          - deepvein_signal_intensified
+  failed: []
+  active: []
   available: []
 
 story:
@@ -299,12 +328,25 @@ story:
     - id: what_else_is_coming
       title: What Else Is Coming?
       status: active
+    - id: deepvein_signal
+      title: The Deepvein Signal
+      status: active
+    - id: kellan_crystal
+      title: "Kellan Voss & The Black Crystal"
+      status: active
+    - id: drake_ember
+      title: "The Ember in the Dark (Drake)"
+      status: active
   resolved_threads: []
   hidden_flags:
     east_gate_vigilant: false
     east_gate_damaged: false
     kellan_crystal_studied: false
     outer_settlements_threatened: false
+    outer_settlements_saved: true
+    deepvein_signal_intensified: true
+    kellan_voss_worsened: true
+    drake_ember_side_mission_pending: true
 
 assets:
   generated:
@@ -371,6 +413,6 @@ assets:
       status: generated
 
 history:
-  last_session_id: S01
-  last_updated: 2026-07-12
-  pending_action: player_choice_mission_2
+  last_session_id: S02
+  last_updated: 2026-07-19
+  pending_action: generate_mission_3

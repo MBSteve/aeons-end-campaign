@@ -12,8 +12,8 @@ The last great city of humanity. A bastion carved into the living rock of a dead
 | Defences | 70 / 100 |
 | Supplies | 65 / 100 |
 | Population | 80 / 100 |
-| Council Favour | 1 |
-| Threat Level | 1 |
+| Council Favour | 2 |
+| Threat Level | 2 |
 
 > State is synced from `CampaignState.yaml` after each mission. If you spot a discrepancy, flag it.
 

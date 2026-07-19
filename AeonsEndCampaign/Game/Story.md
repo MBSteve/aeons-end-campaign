@@ -24,10 +24,11 @@ The mages answer the call just as Rageborne marches on the East Gate. Kadir, Ade
 
 ## Chapter 02: The City Divided
 
-After Rageborne's defeat, the Council identifies two emerging threats: a swarm heading for the Outer Settlements, and a cryptic signal from the sealed Deepvein Tunnels. A dying drake is discovered in the Warrens. The mages must choose where to strike next.
+The Council chose to defend the Outer Settlements from the Carapace Queen's swarm. Brama, Jian, and Lash delivered a comprehensive victory — Brama struck the killing blow with two Scrying Bolts, and the mages never reached the Queen's tier 3 cards. But while they fought, the unchosen threat escalated: the Deepvein signal intensified, Kellan Voss's condition worsened, and the drake in the Warrens remains unsaved. In the quiet hours after, each mage wrestles with what they discovered about themselves — Brama with the weight of killing, Jian with a new hunger for battle, Lash with a fire that never got to burn, and Kadir with the growing awareness that something below is watching.
 
 → Full narrative: `Chapters/Chapter 02 - The City Divided.md`
-→ Full mission brief: `Game/CurrentMission.md`
+→ Full mission brief: `Missions/Mission 02 - The City Divided.md`
+→ Session report: `Sessions/S02 - The City Divided.md`
 
 ---
 

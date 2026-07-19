@@ -4,6 +4,33 @@ All notable changes to the Aeon's End campaign repository.
 
 ---
 
+## [Mission 2 Completed — Victory] — 2026-07-19
+
+### Session S02: The City Divided
+- **Outcome**: Victory (comprehensive — never reached tier 3 nemesis cards)
+- **Chosen**: Option A — The Vanished Swarm (Carapace Queen)
+- **Mages**: Brama, Jian, Lash
+- **Gravehold remaining**: 17 life
+- **Brama killing blow**: 2 Scrying Bolts for 10 damage
+- **Bonus objective**: Not attempted
+- **Side mission**: Not taken (drake still pending)
+- **Option B escalation**: Threat Level +1, Kellan Voss worsened, Deepvein signal intensified
+
+### Updated
+- `CampaignState.yaml` — Mission 2 completed, XP awarded, Council Favour +1 (now 2), Carapace Queen defeated, Kadir recovered, story flags updated, Brama/Jian/Lash activated
+- `Heroes/Roster.md` — Brama, Jian, Lash added to active mages; Kadir moved to active; full details for all
+- `World/Nemeses.md` — Carapace Queen added to Defeated Nemeses
+- `World/Gravehold.md` — Council Favour 2, Threat Level 2
+- `Chapters/Chapter 02 - The City Divided.md` — Full battle narrative, aftermath, and Quiet Moments for all mages
+- `Story.md` — Chapter 02 summary updated with outcome
+- `Missions/Mission 02 - The City Divided.md` — Mission brief archived with after-action report
+- `Sessions/S02 - The City Divided.md` — Campaign Master section filled
+- `Game/viewer.html` — Added Mission 02 to sidebar
+- `CurrentMission.md` — Reset to placeholder awaiting Mission 3 generation
+
+### Added
+- `Rules/CampaignRules.md` — New sections: **Market Restrictions** (ban/temp-block OP cards) and **Mage Rotation** (limit overuse of specific mages), per player request
+
 ## [CampaignJournal → Story.md + Chapters/] — 2026-07-13
 
 ### Changed

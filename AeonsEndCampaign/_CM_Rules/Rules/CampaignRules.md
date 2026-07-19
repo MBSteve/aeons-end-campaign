@@ -182,3 +182,50 @@ Companions are creatures or constructs that accompany the mages but do not parti
    - **Future combat potential**: As the companion grows, it may eventually participate in battles
 4. Companions appear in the bonded mage's story entries and may influence narrative choices.
 5. Companions can be lost if the bonded mage dies or if a narrative event separates them.
+
+---
+
+## Market Restrictions
+
+To prevent the campaign from becoming stale or dominated by a handful of overpowered cards, the following restrictions apply to the market:
+
+### Temporary Ban (Cooldown)
+
+After a card appears in the market and is purchased by at least one mage, it enters a **1-mission cooldown**. It cannot appear in the market for the next mission. After the cooldown, it may be included again.
+
+The Campaign Master tracks which cards are on cooldown in each mission's market section.
+
+### Permanent Ban
+
+If a card proves consistently dominant across multiple missions (e.g., Scrying Bolt appearing in every mage's deck and trivialising encounters), the Campaign Master may place it on a **permanent ban** list for the remainder of the campaign. This is a last resort and should be discussed with the players before being enacted.
+
+### Current Cooldown List
+
+*To be populated after Mission 3 — the first mission where this rule is in effect. Cards from Mission 2 are grandfathered.*
+
+### Current Permanent Ban List
+
+*None.*
+
+---
+
+## Mage Rotation
+
+To ensure all mages get playtime and prevent over-reliance on a few favourites:
+
+1. **Back-to-back restriction**: A mage who participated in the previous mission may still be nominated, but the Campaign Master will prioritise mages who have not played recently when building the mage pool.
+2. **Benched mage priority**: Mages who have not yet played in any mission receive priority for nomination. The campaign currently has 18 unplayed mages — they should be featured before the existing active mages are recycled.
+3. **Two-mission cooldown (optional)**: If a mage has played in 2 consecutive missions, the Campaign Master may enforce a 1-mission cooldown before they can be nominated again. This is not automatic — it is a tool the Campaign Master can use to maintain variety.
+4. **Exceptions**: A mage may bypass rotation rules if the narrative demands it (e.g., a mage's personal story arc requires their presence, or a mage is the only one who can reach a specific location).
+
+### Current Play Count
+
+| Mage | Missions Played |
+|------|-----------------|
+| Kadir | 1 |
+| Adelheim | 1 |
+| Xaxos (AE) | 1 |
+| Brama | 1 |
+| Jian | 1 |
+| Lash | 1 |
+| *All others* | 0 |
