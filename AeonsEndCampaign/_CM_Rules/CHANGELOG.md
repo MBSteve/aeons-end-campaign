@@ -31,6 +31,11 @@ All notable changes to the Aeon's End campaign repository.
 ### Added
 - `Rules/CampaignRules.md` — New sections: **Market Restrictions** (ban/temp-block OP cards) and **Mage Rotation** (limit overuse of specific mages), per player request
 
+### Fixed (Post-Mission Validation)
+- **CampaignState.yaml**: Rageborne and Carapace Queen were still listed in `nemeses.available` alongside `nemeses.defeated` — removed from available
+- **Chapter 02**: Double horizontal rule separator between sections 4 and 5 — removed
+- **CampaignMaster.md**: Added two new validation checks (defeated nemeses not in available; active mages not in available) and two new steps to the State-Update Procedure (steps 6 and 7)
+
 ## [CampaignJournal → Story.md + Chapters/] — 2026-07-13
 
 ### Changed

@@ -209,14 +209,6 @@ companions:
 
 nemeses:
   available:
-    - name: Rageborne
-      source: base_game
-      tier: 2
-      verified: true
-    - name: Carapace Queen
-      source: base_game
-      tier: 3
-      verified: true
     - name: Crooked Mask
       source: base_game
       tier: 5

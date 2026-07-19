@@ -50,10 +50,6 @@ The Council has identified two emerging threats, and the mages can only address 
 
 *The players' choice determines Mission 2. See `CurrentMission.md` for mechanical details and `Sessions/` for the resolved outcome.*
 
----
-
----
-
 ## 5. The Mission: The Vanished Swarm
 
 The Council chose the Outer Settlements. The swarm could not be allowed to reach the farms and homesteads that fed Gravehold. Brama, Jian, and Lash were dispatched at first light.

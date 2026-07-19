@@ -136,9 +136,11 @@ When updating `../_CM_Data/CampaignState.yaml`:
 3. Move completed mission from `active` to `completed` (or `failed`)
 4. Update Gravehold values (keep between 0 and 100)
 5. Update hero records (XP, perks, titles, injuries)
-6. Update `campaign_difficulty` counters
-7. Update `story` threads and flags
-8. Set `last_updated` to current date
+6. Move newly activated mages from `heroes.available` to `heroes.active` (they must not appear in both)
+7. Move defeated nemeses from `nemeses.available` to `nemeses.defeated` (they must not appear in both)
+8. Update `campaign_difficulty` counters
+9. Update `story` threads and flags
+10. Set `last_updated` to current date
 
 ## Validation Checks
 
@@ -156,6 +158,8 @@ Before finalizing any update, verify:
 - [ ] Current mission matches the state file
 - [ ] Image references point only to confirmed files
 - [ ] `Game/viewer.html` sidebar updated (add new chapters, missions, and images to the `FILES` array)
+- [ ] Defeated nemeses are removed from `nemeses.available` in CampaignState.yaml (they must not appear in both `available` and `defeated`)
+- [ ] Active mages are removed from `heroes.available` in CampaignState.yaml (they must not appear in both `available` and `active`)
 
 ## File-Update Order
 
